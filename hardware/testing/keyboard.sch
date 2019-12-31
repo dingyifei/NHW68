@@ -1,0 +1,142 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 2
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Sheet
+S 1650 2250 1900 1550
+U 5E25E984
+F0 "switch" 50
+F1 "switch.sch" 50
+F2 "ROW1" I R 3550 2300 50 
+F3 "ROW2" I R 3550 2400 50 
+F4 "ROW3" I R 3550 2500 50 
+F5 "ROW4" I R 3550 2600 50 
+F6 "COL1" I L 1650 2300 50 
+F7 "COL2" I L 1650 2400 50 
+F8 "COL3" I L 1650 2500 50 
+F9 "COL4" I L 1650 2600 50 
+$EndSheet
+Wire Wire Line
+	7050 2350 3600 2350
+Wire Wire Line
+	3600 2350 3600 2400
+Wire Wire Line
+	3600 2400 3550 2400
+Wire Wire Line
+	7050 2450 3600 2450
+Wire Wire Line
+	3600 2450 3600 2500
+Wire Wire Line
+	3600 2500 3550 2500
+Wire Wire Line
+	3550 2600 3600 2600
+Wire Wire Line
+	3600 2600 3600 2550
+Wire Wire Line
+	3600 2550 7050 2550
+Wire Wire Line
+	7050 2050 3600 2050
+Wire Wire Line
+	3600 2050 3600 2300
+Wire Wire Line
+	3600 2300 3550 2300
+Wire Wire Line
+	1650 2300 1550 2300
+Wire Wire Line
+	1550 2300 1550 1500
+Wire Wire Line
+	1550 1500 9200 1500
+Wire Wire Line
+	9200 1500 9200 2350
+Wire Wire Line
+	9200 2350 9100 2350
+Wire Wire Line
+	9100 2450 9250 2450
+Wire Wire Line
+	9250 2450 9250 1400
+Wire Wire Line
+	9250 1400 1500 1400
+Wire Wire Line
+	1500 1400 1500 2400
+Wire Wire Line
+	1500 2400 1650 2400
+Wire Wire Line
+	1650 2500 1450 2500
+Wire Wire Line
+	1450 2500 1450 1300
+Wire Wire Line
+	9300 1300 9300 2550
+Wire Wire Line
+	9300 2550 9100 2550
+Wire Wire Line
+	1400 1250 9350 1250
+Wire Wire Line
+	9350 1250 9350 2650
+Wire Wire Line
+	9350 2650 9100 2650
+Wire Wire Line
+	1450 1300 9300 1300
+$Comp
+L proton_c:proton_c U_Main1
+U 1 1 5E06F676
+P 8100 2950
+F 0 "U_Main1" H 8075 1427 50  0000 C CNN
+F 1 "proton_c" H 8075 1336 50  0000 C CNN
+F 2 "proton_c:proton_c" H 7950 2950 50  0001 C CNN
+F 3 "" H 7950 2950 50  0001 C CNN
+	1    8100 2950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1400 1250 1400 2600
+Wire Wire Line
+	1400 2600 1650 2600
+NoConn ~ 9100 1950
+NoConn ~ 9100 2050
+NoConn ~ 9100 2150
+NoConn ~ 9100 2250
+NoConn ~ 9100 2750
+NoConn ~ 9100 2850
+NoConn ~ 9100 2950
+NoConn ~ 8250 1650
+NoConn ~ 7900 1650
+NoConn ~ 7800 1650
+NoConn ~ 7700 1650
+NoConn ~ 7050 1950
+NoConn ~ 7050 2150
+NoConn ~ 7050 2250
+NoConn ~ 7050 2650
+NoConn ~ 7050 2750
+NoConn ~ 7050 2850
+NoConn ~ 7050 2950
+NoConn ~ 7050 3050
+NoConn ~ 7050 3400
+NoConn ~ 7050 3850
+NoConn ~ 7050 3950
+NoConn ~ 7050 4050
+NoConn ~ 7050 4150
+NoConn ~ 7050 4250
+NoConn ~ 7050 4350
+NoConn ~ 9100 4350
+NoConn ~ 9100 4250
+NoConn ~ 9100 4150
+NoConn ~ 9100 4050
+NoConn ~ 9100 3950
+NoConn ~ 9100 3850
+NoConn ~ 9100 3550
+NoConn ~ 9100 3450
+NoConn ~ 9100 3350
+NoConn ~ 9100 3250
+NoConn ~ 9100 3050
+$EndSCHEMATC
