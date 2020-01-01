@@ -21,7 +21,7 @@ AR Path="/5E365156" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E365156" Ref="CherryMX1"  Part="1" 
 F 0 "CherryMX1" H 1350 1385 50  0000 C CNN
 F 1 "SW_SPST" H 1350 1294 50  0000 C CNN
-F 2 "" H 1350 1150 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 1350 1150 50  0001 C CNN
 F 3 "~" H 1350 1150 50  0001 C CNN
 	1    1350 1150
 	0    1    1    0   
@@ -47,7 +47,7 @@ AR Path="/5E365162" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E365162" Ref="CherryMX2"  Part="1" 
 F 0 "CherryMX2" H 1350 2335 50  0000 C CNN
 F 1 "SW_SPST" H 1350 2244 50  0000 C CNN
-F 2 "" H 1350 2100 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 1350 2100 50  0001 C CNN
 F 3 "~" H 1350 2100 50  0001 C CNN
 	1    1350 2100
 	0    1    1    0   
@@ -73,7 +73,7 @@ AR Path="/5E36516E" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E36516E" Ref="CherryMX3"  Part="1" 
 F 0 "CherryMX3" H 1350 3285 50  0000 C CNN
 F 1 "SW_SPST" H 1350 3194 50  0000 C CNN
-F 2 "" H 1350 3050 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 1350 3050 50  0001 C CNN
 F 3 "~" H 1350 3050 50  0001 C CNN
 	1    1350 3050
 	0    1    1    0   
@@ -99,7 +99,7 @@ AR Path="/5E36517A" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E36517A" Ref="CherryMX4"  Part="1" 
 F 0 "CherryMX4" H 1350 4235 50  0000 C CNN
 F 1 "SW_SPST" H 1350 4144 50  0000 C CNN
-F 2 "" H 1350 4000 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 1350 4000 50  0001 C CNN
 F 3 "~" H 1350 4000 50  0001 C CNN
 	1    1350 4000
 	0    1    1    0   
@@ -125,7 +125,7 @@ AR Path="/5E365186" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E365186" Ref="CherryMX5"  Part="1" 
 F 0 "CherryMX5" H 1350 5185 50  0000 C CNN
 F 1 "SW_SPST" H 1350 5094 50  0000 C CNN
-F 2 "" H 1350 4950 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 1350 4950 50  0001 C CNN
 F 3 "~" H 1350 4950 50  0001 C CNN
 	1    1350 4950
 	0    1    1    0   
@@ -151,7 +151,7 @@ AR Path="/5E3DB260" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3DB260" Ref="CherryMX6"  Part="1" 
 F 0 "CherryMX6" H 1850 1385 50  0000 C CNN
 F 1 "SW_SPST" H 1850 1294 50  0000 C CNN
-F 2 "" H 1850 1150 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 1850 1150 50  0001 C CNN
 F 3 "~" H 1850 1150 50  0001 C CNN
 	1    1850 1150
 	0    1    1    0   
@@ -177,7 +177,7 @@ AR Path="/5E3DB26C" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3DB26C" Ref="CherryMX7"  Part="1" 
 F 0 "CherryMX7" H 1850 2335 50  0000 C CNN
 F 1 "SW_SPST" H 1850 2244 50  0000 C CNN
-F 2 "" H 1850 2100 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 1850 2100 50  0001 C CNN
 F 3 "~" H 1850 2100 50  0001 C CNN
 	1    1850 2100
 	0    1    1    0   
@@ -203,7 +203,7 @@ AR Path="/5E3DB278" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3DB278" Ref="CherryMX8"  Part="1" 
 F 0 "CherryMX8" H 1850 3285 50  0000 C CNN
 F 1 "SW_SPST" H 1850 3194 50  0000 C CNN
-F 2 "" H 1850 3050 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 1850 3050 50  0001 C CNN
 F 3 "~" H 1850 3050 50  0001 C CNN
 	1    1850 3050
 	0    1    1    0   
@@ -229,7 +229,7 @@ AR Path="/5E3DB284" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3DB284" Ref="CherryMX9"  Part="1" 
 F 0 "CherryMX9" H 1850 4235 50  0000 C CNN
 F 1 "SW_SPST" H 1850 4144 50  0000 C CNN
-F 2 "" H 1850 4000 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 1850 4000 50  0001 C CNN
 F 3 "~" H 1850 4000 50  0001 C CNN
 	1    1850 4000
 	0    1    1    0   
@@ -255,7 +255,7 @@ AR Path="/5E3DB290" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3DB290" Ref="CherryMX10"  Part="1" 
 F 0 "CherryMX10" H 1850 5185 50  0000 C CNN
 F 1 "SW_SPST" H 1850 5094 50  0000 C CNN
-F 2 "" H 1850 4950 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 1850 4950 50  0001 C CNN
 F 3 "~" H 1850 4950 50  0001 C CNN
 	1    1850 4950
 	0    1    1    0   
@@ -281,7 +281,7 @@ AR Path="/5E3DB2A8" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3DB2A8" Ref="CherryMX11"  Part="1" 
 F 0 "CherryMX11" H 2350 1385 50  0000 C CNN
 F 1 "SW_SPST" H 2350 1294 50  0000 C CNN
-F 2 "" H 2350 1150 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 2350 1150 50  0001 C CNN
 F 3 "~" H 2350 1150 50  0001 C CNN
 	1    2350 1150
 	0    1    1    0   
@@ -307,7 +307,7 @@ AR Path="/5E3DB2B4" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3DB2B4" Ref="CherryMX12"  Part="1" 
 F 0 "CherryMX12" H 2350 2335 50  0000 C CNN
 F 1 "SW_SPST" H 2350 2244 50  0000 C CNN
-F 2 "" H 2350 2100 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 2350 2100 50  0001 C CNN
 F 3 "~" H 2350 2100 50  0001 C CNN
 	1    2350 2100
 	0    1    1    0   
@@ -333,7 +333,7 @@ AR Path="/5E3DB2C0" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3DB2C0" Ref="CherryMX13"  Part="1" 
 F 0 "CherryMX13" H 2350 3285 50  0000 C CNN
 F 1 "SW_SPST" H 2350 3194 50  0000 C CNN
-F 2 "" H 2350 3050 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 2350 3050 50  0001 C CNN
 F 3 "~" H 2350 3050 50  0001 C CNN
 	1    2350 3050
 	0    1    1    0   
@@ -359,7 +359,7 @@ AR Path="/5E3DB2CC" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3DB2CC" Ref="CherryMX14"  Part="1" 
 F 0 "CherryMX14" H 2350 4235 50  0000 C CNN
 F 1 "SW_SPST" H 2350 4144 50  0000 C CNN
-F 2 "" H 2350 4000 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 2350 4000 50  0001 C CNN
 F 3 "~" H 2350 4000 50  0001 C CNN
 	1    2350 4000
 	0    1    1    0   
@@ -385,7 +385,7 @@ AR Path="/5E3DB2D8" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3DB2D8" Ref="CherryMX15"  Part="1" 
 F 0 "CherryMX15" H 2350 5185 50  0000 C CNN
 F 1 "SW_SPST" H 2350 5094 50  0000 C CNN
-F 2 "" H 2350 4950 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 2350 4950 50  0001 C CNN
 F 3 "~" H 2350 4950 50  0001 C CNN
 	1    2350 4950
 	0    1    1    0   
@@ -411,7 +411,7 @@ AR Path="/5E3FD394" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3FD394" Ref="CherryMX16"  Part="1" 
 F 0 "CherryMX16" H 2850 1385 50  0000 C CNN
 F 1 "SW_SPST" H 2850 1294 50  0000 C CNN
-F 2 "" H 2850 1150 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 2850 1150 50  0001 C CNN
 F 3 "~" H 2850 1150 50  0001 C CNN
 	1    2850 1150
 	0    1    1    0   
@@ -437,7 +437,7 @@ AR Path="/5E3FD3A0" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3FD3A0" Ref="CherryMX17"  Part="1" 
 F 0 "CherryMX17" H 2850 2335 50  0000 C CNN
 F 1 "SW_SPST" H 2850 2244 50  0000 C CNN
-F 2 "" H 2850 2100 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 2850 2100 50  0001 C CNN
 F 3 "~" H 2850 2100 50  0001 C CNN
 	1    2850 2100
 	0    1    1    0   
@@ -463,7 +463,7 @@ AR Path="/5E3FD3AC" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3FD3AC" Ref="CherryMX18"  Part="1" 
 F 0 "CherryMX18" H 2850 3285 50  0000 C CNN
 F 1 "SW_SPST" H 2850 3194 50  0000 C CNN
-F 2 "" H 2850 3050 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 2850 3050 50  0001 C CNN
 F 3 "~" H 2850 3050 50  0001 C CNN
 	1    2850 3050
 	0    1    1    0   
@@ -489,7 +489,7 @@ AR Path="/5E3FD3B8" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3FD3B8" Ref="CherryMX19"  Part="1" 
 F 0 "CherryMX19" H 2850 4235 50  0000 C CNN
 F 1 "SW_SPST" H 2850 4144 50  0000 C CNN
-F 2 "" H 2850 4000 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 2850 4000 50  0001 C CNN
 F 3 "~" H 2850 4000 50  0001 C CNN
 	1    2850 4000
 	0    1    1    0   
@@ -515,7 +515,7 @@ AR Path="/5E3FD3C4" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3FD3C4" Ref="CherryMX20"  Part="1" 
 F 0 "CherryMX20" H 2850 5185 50  0000 C CNN
 F 1 "SW_SPST" H 2850 5094 50  0000 C CNN
-F 2 "" H 2850 4950 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 2850 4950 50  0001 C CNN
 F 3 "~" H 2850 4950 50  0001 C CNN
 	1    2850 4950
 	0    1    1    0   
@@ -541,7 +541,7 @@ AR Path="/5E3FD3DC" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3FD3DC" Ref="CherryMX21"  Part="1" 
 F 0 "CherryMX21" H 3350 1385 50  0000 C CNN
 F 1 "SW_SPST" H 3350 1294 50  0000 C CNN
-F 2 "" H 3350 1150 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 3350 1150 50  0001 C CNN
 F 3 "~" H 3350 1150 50  0001 C CNN
 	1    3350 1150
 	0    1    1    0   
@@ -567,7 +567,7 @@ AR Path="/5E3FD3E8" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3FD3E8" Ref="CherryMX22"  Part="1" 
 F 0 "CherryMX22" H 3350 2335 50  0000 C CNN
 F 1 "SW_SPST" H 3350 2244 50  0000 C CNN
-F 2 "" H 3350 2100 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 3350 2100 50  0001 C CNN
 F 3 "~" H 3350 2100 50  0001 C CNN
 	1    3350 2100
 	0    1    1    0   
@@ -593,7 +593,7 @@ AR Path="/5E3FD3F4" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3FD3F4" Ref="CherryMX23"  Part="1" 
 F 0 "CherryMX23" H 3350 3285 50  0000 C CNN
 F 1 "SW_SPST" H 3350 3194 50  0000 C CNN
-F 2 "" H 3350 3050 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 3350 3050 50  0001 C CNN
 F 3 "~" H 3350 3050 50  0001 C CNN
 	1    3350 3050
 	0    1    1    0   
@@ -619,7 +619,7 @@ AR Path="/5E3FD400" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3FD400" Ref="CherryMX24"  Part="1" 
 F 0 "CherryMX24" H 3350 4235 50  0000 C CNN
 F 1 "SW_SPST" H 3350 4144 50  0000 C CNN
-F 2 "" H 3350 4000 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 3350 4000 50  0001 C CNN
 F 3 "~" H 3350 4000 50  0001 C CNN
 	1    3350 4000
 	0    1    1    0   
@@ -645,7 +645,7 @@ AR Path="/5E3FD40C" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3FD40C" Ref="CherryMX25"  Part="1" 
 F 0 "CherryMX25" H 3350 5185 50  0000 C CNN
 F 1 "SW_SPST" H 3350 5094 50  0000 C CNN
-F 2 "" H 3350 4950 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 3350 4950 50  0001 C CNN
 F 3 "~" H 3350 4950 50  0001 C CNN
 	1    3350 4950
 	0    1    1    0   
@@ -671,7 +671,7 @@ AR Path="/5E3FD424" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3FD424" Ref="CherryMX26"  Part="1" 
 F 0 "CherryMX26" H 3850 1385 50  0000 C CNN
 F 1 "SW_SPST" H 3850 1294 50  0000 C CNN
-F 2 "" H 3850 1150 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 3850 1150 50  0001 C CNN
 F 3 "~" H 3850 1150 50  0001 C CNN
 	1    3850 1150
 	0    1    1    0   
@@ -697,7 +697,7 @@ AR Path="/5E3FD430" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3FD430" Ref="CherryMX27"  Part="1" 
 F 0 "CherryMX27" H 3850 2335 50  0000 C CNN
 F 1 "SW_SPST" H 3850 2244 50  0000 C CNN
-F 2 "" H 3850 2100 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 3850 2100 50  0001 C CNN
 F 3 "~" H 3850 2100 50  0001 C CNN
 	1    3850 2100
 	0    1    1    0   
@@ -723,7 +723,7 @@ AR Path="/5E3FD43C" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3FD43C" Ref="CherryMX28"  Part="1" 
 F 0 "CherryMX28" H 3850 3285 50  0000 C CNN
 F 1 "SW_SPST" H 3850 3194 50  0000 C CNN
-F 2 "" H 3850 3050 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 3850 3050 50  0001 C CNN
 F 3 "~" H 3850 3050 50  0001 C CNN
 	1    3850 3050
 	0    1    1    0   
@@ -749,7 +749,7 @@ AR Path="/5E3FD448" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3FD448" Ref="CherryMX29"  Part="1" 
 F 0 "CherryMX29" H 3850 4235 50  0000 C CNN
 F 1 "SW_SPST" H 3850 4144 50  0000 C CNN
-F 2 "" H 3850 4000 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 3850 4000 50  0001 C CNN
 F 3 "~" H 3850 4000 50  0001 C CNN
 	1    3850 4000
 	0    1    1    0   
@@ -775,7 +775,7 @@ AR Path="/5E3FD454" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3FD454" Ref="CherryMX30"  Part="1" 
 F 0 "CherryMX30" H 3850 5185 50  0000 C CNN
 F 1 "SW_SPST" H 3850 5094 50  0000 C CNN
-F 2 "" H 3850 4950 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 3850 4950 50  0001 C CNN
 F 3 "~" H 3850 4950 50  0001 C CNN
 	1    3850 4950
 	0    1    1    0   
@@ -801,7 +801,7 @@ AR Path="/5E3FD46C" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3FD46C" Ref="CherryMX31"  Part="1" 
 F 0 "CherryMX31" H 4350 1385 50  0000 C CNN
 F 1 "SW_SPST" H 4350 1294 50  0000 C CNN
-F 2 "" H 4350 1150 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 4350 1150 50  0001 C CNN
 F 3 "~" H 4350 1150 50  0001 C CNN
 	1    4350 1150
 	0    1    1    0   
@@ -827,7 +827,7 @@ AR Path="/5E3FD478" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3FD478" Ref="CherryMX32"  Part="1" 
 F 0 "CherryMX32" H 4350 2335 50  0000 C CNN
 F 1 "SW_SPST" H 4350 2244 50  0000 C CNN
-F 2 "" H 4350 2100 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 4350 2100 50  0001 C CNN
 F 3 "~" H 4350 2100 50  0001 C CNN
 	1    4350 2100
 	0    1    1    0   
@@ -853,7 +853,7 @@ AR Path="/5E3FD484" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3FD484" Ref="CherryMX33"  Part="1" 
 F 0 "CherryMX33" H 4350 3285 50  0000 C CNN
 F 1 "SW_SPST" H 4350 3194 50  0000 C CNN
-F 2 "" H 4350 3050 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 4350 3050 50  0001 C CNN
 F 3 "~" H 4350 3050 50  0001 C CNN
 	1    4350 3050
 	0    1    1    0   
@@ -879,7 +879,7 @@ AR Path="/5E3FD490" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E3FD490" Ref="CherryMX34"  Part="1" 
 F 0 "CherryMX34" H 4350 4235 50  0000 C CNN
 F 1 "SW_SPST" H 4350 4144 50  0000 C CNN
-F 2 "" H 4350 4000 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 4350 4000 50  0001 C CNN
 F 3 "~" H 4350 4000 50  0001 C CNN
 	1    4350 4000
 	0    1    1    0   
@@ -905,7 +905,7 @@ AR Path="/5E44F0F4" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F0F4" Ref="CherryMX35"  Part="1" 
 F 0 "CherryMX35" H 4850 1385 50  0000 C CNN
 F 1 "SW_SPST" H 4850 1294 50  0000 C CNN
-F 2 "" H 4850 1150 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 4850 1150 50  0001 C CNN
 F 3 "~" H 4850 1150 50  0001 C CNN
 	1    4850 1150
 	0    1    1    0   
@@ -931,7 +931,7 @@ AR Path="/5E44F100" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F100" Ref="CherryMX36"  Part="1" 
 F 0 "CherryMX36" H 4850 2335 50  0000 C CNN
 F 1 "SW_SPST" H 4850 2244 50  0000 C CNN
-F 2 "" H 4850 2100 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 4850 2100 50  0001 C CNN
 F 3 "~" H 4850 2100 50  0001 C CNN
 	1    4850 2100
 	0    1    1    0   
@@ -957,7 +957,7 @@ AR Path="/5E44F10C" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F10C" Ref="CherryMX37"  Part="1" 
 F 0 "CherryMX37" H 4850 3285 50  0000 C CNN
 F 1 "SW_SPST" H 4850 3194 50  0000 C CNN
-F 2 "" H 4850 3050 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 4850 3050 50  0001 C CNN
 F 3 "~" H 4850 3050 50  0001 C CNN
 	1    4850 3050
 	0    1    1    0   
@@ -983,7 +983,7 @@ AR Path="/5E44F118" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F118" Ref="CherryMX38"  Part="1" 
 F 0 "CherryMX38" H 4850 4235 50  0000 C CNN
 F 1 "SW_SPST" H 4850 4144 50  0000 C CNN
-F 2 "" H 4850 4000 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 4850 4000 50  0001 C CNN
 F 3 "~" H 4850 4000 50  0001 C CNN
 	1    4850 4000
 	0    1    1    0   
@@ -1009,7 +1009,7 @@ AR Path="/5E44F124" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F124" Ref="CherryMX39"  Part="1" 
 F 0 "CherryMX39" H 4850 5185 50  0000 C CNN
 F 1 "SW_SPST" H 4850 5094 50  0000 C CNN
-F 2 "" H 4850 4950 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 4850 4950 50  0001 C CNN
 F 3 "~" H 4850 4950 50  0001 C CNN
 	1    4850 4950
 	0    1    1    0   
@@ -1035,7 +1035,7 @@ AR Path="/5E44F13C" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F13C" Ref="CherryMX40"  Part="1" 
 F 0 "CherryMX40" H 5350 1385 50  0000 C CNN
 F 1 "SW_SPST" H 5350 1294 50  0000 C CNN
-F 2 "" H 5350 1150 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 5350 1150 50  0001 C CNN
 F 3 "~" H 5350 1150 50  0001 C CNN
 	1    5350 1150
 	0    1    1    0   
@@ -1061,7 +1061,7 @@ AR Path="/5E44F148" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F148" Ref="CherryMX41"  Part="1" 
 F 0 "CherryMX41" H 5350 2335 50  0000 C CNN
 F 1 "SW_SPST" H 5350 2244 50  0000 C CNN
-F 2 "" H 5350 2100 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 5350 2100 50  0001 C CNN
 F 3 "~" H 5350 2100 50  0001 C CNN
 	1    5350 2100
 	0    1    1    0   
@@ -1087,7 +1087,7 @@ AR Path="/5E44F154" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F154" Ref="CherryMX42"  Part="1" 
 F 0 "CherryMX42" H 5350 3285 50  0000 C CNN
 F 1 "SW_SPST" H 5350 3194 50  0000 C CNN
-F 2 "" H 5350 3050 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 5350 3050 50  0001 C CNN
 F 3 "~" H 5350 3050 50  0001 C CNN
 	1    5350 3050
 	0    1    1    0   
@@ -1113,7 +1113,7 @@ AR Path="/5E44F160" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F160" Ref="CherryMX43"  Part="1" 
 F 0 "CherryMX43" H 5350 4235 50  0000 C CNN
 F 1 "SW_SPST" H 5350 4144 50  0000 C CNN
-F 2 "" H 5350 4000 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 5350 4000 50  0001 C CNN
 F 3 "~" H 5350 4000 50  0001 C CNN
 	1    5350 4000
 	0    1    1    0   
@@ -1139,7 +1139,7 @@ AR Path="/5E44F16C" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F16C" Ref="CherryMX44"  Part="1" 
 F 0 "CherryMX44" H 5350 5185 50  0000 C CNN
 F 1 "SW_SPST" H 5350 5094 50  0000 C CNN
-F 2 "" H 5350 4950 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 5350 4950 50  0001 C CNN
 F 3 "~" H 5350 4950 50  0001 C CNN
 	1    5350 4950
 	0    1    1    0   
@@ -1165,7 +1165,7 @@ AR Path="/5E44F184" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F184" Ref="CherryMX45"  Part="1" 
 F 0 "CherryMX45" H 5850 1385 50  0000 C CNN
 F 1 "SW_SPST" H 5850 1294 50  0000 C CNN
-F 2 "" H 5850 1150 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 5850 1150 50  0001 C CNN
 F 3 "~" H 5850 1150 50  0001 C CNN
 	1    5850 1150
 	0    1    1    0   
@@ -1191,7 +1191,7 @@ AR Path="/5E44F190" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F190" Ref="CherryMX46"  Part="1" 
 F 0 "CherryMX46" H 5850 2335 50  0000 C CNN
 F 1 "SW_SPST" H 5850 2244 50  0000 C CNN
-F 2 "" H 5850 2100 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 5850 2100 50  0001 C CNN
 F 3 "~" H 5850 2100 50  0001 C CNN
 	1    5850 2100
 	0    1    1    0   
@@ -1217,7 +1217,7 @@ AR Path="/5E44F19C" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F19C" Ref="CherryMX47"  Part="1" 
 F 0 "CherryMX47" H 5850 3285 50  0000 C CNN
 F 1 "SW_SPST" H 5850 3194 50  0000 C CNN
-F 2 "" H 5850 3050 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 5850 3050 50  0001 C CNN
 F 3 "~" H 5850 3050 50  0001 C CNN
 	1    5850 3050
 	0    1    1    0   
@@ -1243,7 +1243,7 @@ AR Path="/5E44F1A8" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F1A8" Ref="CherryMX48"  Part="1" 
 F 0 "CherryMX48" H 5850 4235 50  0000 C CNN
 F 1 "SW_SPST" H 5850 4144 50  0000 C CNN
-F 2 "" H 5850 4000 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 5850 4000 50  0001 C CNN
 F 3 "~" H 5850 4000 50  0001 C CNN
 	1    5850 4000
 	0    1    1    0   
@@ -1269,7 +1269,7 @@ AR Path="/5E44F1B4" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F1B4" Ref="CherryMX49"  Part="1" 
 F 0 "CherryMX49" H 5850 5185 50  0000 C CNN
 F 1 "SW_SPST" H 5850 5094 50  0000 C CNN
-F 2 "" H 5850 4950 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 5850 4950 50  0001 C CNN
 F 3 "~" H 5850 4950 50  0001 C CNN
 	1    5850 4950
 	0    1    1    0   
@@ -1295,7 +1295,7 @@ AR Path="/5E44F1CC" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F1CC" Ref="CherryMX50"  Part="1" 
 F 0 "CherryMX50" H 6350 1385 50  0000 C CNN
 F 1 "SW_SPST" H 6350 1294 50  0000 C CNN
-F 2 "" H 6350 1150 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 6350 1150 50  0001 C CNN
 F 3 "~" H 6350 1150 50  0001 C CNN
 	1    6350 1150
 	0    1    1    0   
@@ -1321,7 +1321,7 @@ AR Path="/5E44F1D8" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F1D8" Ref="CherryMX51"  Part="1" 
 F 0 "CherryMX51" H 6350 2335 50  0000 C CNN
 F 1 "SW_SPST" H 6350 2244 50  0000 C CNN
-F 2 "" H 6350 2100 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 6350 2100 50  0001 C CNN
 F 3 "~" H 6350 2100 50  0001 C CNN
 	1    6350 2100
 	0    1    1    0   
@@ -1347,7 +1347,7 @@ AR Path="/5E44F1E4" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F1E4" Ref="CherryMX52"  Part="1" 
 F 0 "CherryMX52" H 6350 3285 50  0000 C CNN
 F 1 "SW_SPST" H 6350 3194 50  0000 C CNN
-F 2 "" H 6350 3050 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 6350 3050 50  0001 C CNN
 F 3 "~" H 6350 3050 50  0001 C CNN
 	1    6350 3050
 	0    1    1    0   
@@ -1373,7 +1373,7 @@ AR Path="/5E44F1F0" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F1F0" Ref="CherryMX53"  Part="1" 
 F 0 "CherryMX53" H 6350 4235 50  0000 C CNN
 F 1 "SW_SPST" H 6350 4144 50  0000 C CNN
-F 2 "" H 6350 4000 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 6350 4000 50  0001 C CNN
 F 3 "~" H 6350 4000 50  0001 C CNN
 	1    6350 4000
 	0    1    1    0   
@@ -1399,7 +1399,7 @@ AR Path="/5E44F1FC" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F1FC" Ref="CherryMX54"  Part="1" 
 F 0 "CherryMX54" H 6350 5185 50  0000 C CNN
 F 1 "SW_SPST" H 6350 5094 50  0000 C CNN
-F 2 "" H 6350 4950 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 6350 4950 50  0001 C CNN
 F 3 "~" H 6350 4950 50  0001 C CNN
 	1    6350 4950
 	0    1    1    0   
@@ -1425,7 +1425,7 @@ AR Path="/5E44F214" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F214" Ref="CherryMX55"  Part="1" 
 F 0 "CherryMX55" H 6850 1385 50  0000 C CNN
 F 1 "SW_SPST" H 6850 1294 50  0000 C CNN
-F 2 "" H 6850 1150 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 6850 1150 50  0001 C CNN
 F 3 "~" H 6850 1150 50  0001 C CNN
 	1    6850 1150
 	0    1    1    0   
@@ -1451,7 +1451,7 @@ AR Path="/5E44F220" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F220" Ref="CherryMX56"  Part="1" 
 F 0 "CherryMX56" H 6850 2335 50  0000 C CNN
 F 1 "SW_SPST" H 6850 2244 50  0000 C CNN
-F 2 "" H 6850 2100 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 6850 2100 50  0001 C CNN
 F 3 "~" H 6850 2100 50  0001 C CNN
 	1    6850 2100
 	0    1    1    0   
@@ -1477,7 +1477,7 @@ AR Path="/5E44F22C" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F22C" Ref="CherryMX57"  Part="1" 
 F 0 "CherryMX57" H 6850 3285 50  0000 C CNN
 F 1 "SW_SPST" H 6850 3194 50  0000 C CNN
-F 2 "" H 6850 3050 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 6850 3050 50  0001 C CNN
 F 3 "~" H 6850 3050 50  0001 C CNN
 	1    6850 3050
 	0    1    1    0   
@@ -1503,7 +1503,7 @@ AR Path="/5E44F238" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F238" Ref="CherryMX58"  Part="1" 
 F 0 "CherryMX58" H 6850 4235 50  0000 C CNN
 F 1 "SW_SPST" H 6850 4144 50  0000 C CNN
-F 2 "" H 6850 4000 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 6850 4000 50  0001 C CNN
 F 3 "~" H 6850 4000 50  0001 C CNN
 	1    6850 4000
 	0    1    1    0   
@@ -1529,7 +1529,7 @@ AR Path="/5E44F244" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F244" Ref="CherryMX59"  Part="1" 
 F 0 "CherryMX59" H 6850 5185 50  0000 C CNN
 F 1 "SW_SPST" H 6850 5094 50  0000 C CNN
-F 2 "" H 6850 4950 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 6850 4950 50  0001 C CNN
 F 3 "~" H 6850 4950 50  0001 C CNN
 	1    6850 4950
 	0    1    1    0   
@@ -1555,7 +1555,7 @@ AR Path="/5E44F25C" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F25C" Ref="CherryMX60"  Part="1" 
 F 0 "CherryMX60" H 7350 1385 50  0000 C CNN
 F 1 "SW_SPST" H 7350 1294 50  0000 C CNN
-F 2 "" H 7350 1150 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 7350 1150 50  0001 C CNN
 F 3 "~" H 7350 1150 50  0001 C CNN
 	1    7350 1150
 	0    1    1    0   
@@ -1581,7 +1581,7 @@ AR Path="/5E44F268" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F268" Ref="CherryMX61"  Part="1" 
 F 0 "CherryMX61" H 7350 2335 50  0000 C CNN
 F 1 "SW_SPST" H 7350 2244 50  0000 C CNN
-F 2 "" H 7350 2100 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 7350 2100 50  0001 C CNN
 F 3 "~" H 7350 2100 50  0001 C CNN
 	1    7350 2100
 	0    1    1    0   
@@ -1607,7 +1607,7 @@ AR Path="/5E44F274" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F274" Ref="CherryMX62"  Part="1" 
 F 0 "CherryMX62" H 7350 3285 50  0000 C CNN
 F 1 "SW_SPST" H 7350 3194 50  0000 C CNN
-F 2 "" H 7350 3050 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 7350 3050 50  0001 C CNN
 F 3 "~" H 7350 3050 50  0001 C CNN
 	1    7350 3050
 	0    1    1    0   
@@ -1633,7 +1633,7 @@ AR Path="/5E44F280" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F280" Ref="CherryMX63"  Part="1" 
 F 0 "CherryMX63" H 7350 4235 50  0000 C CNN
 F 1 "SW_SPST" H 7350 4144 50  0000 C CNN
-F 2 "" H 7350 4000 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 7350 4000 50  0001 C CNN
 F 3 "~" H 7350 4000 50  0001 C CNN
 	1    7350 4000
 	0    1    1    0   
@@ -1659,7 +1659,7 @@ AR Path="/5E44F28C" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F28C" Ref="CherryMX64"  Part="1" 
 F 0 "CherryMX64" H 7350 5185 50  0000 C CNN
 F 1 "SW_SPST" H 7350 5094 50  0000 C CNN
-F 2 "" H 7350 4950 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 7350 4950 50  0001 C CNN
 F 3 "~" H 7350 4950 50  0001 C CNN
 	1    7350 4950
 	0    1    1    0   
@@ -1685,7 +1685,7 @@ AR Path="/5E44F2A4" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F2A4" Ref="CherryMX65"  Part="1" 
 F 0 "CherryMX65" H 7850 1385 50  0000 C CNN
 F 1 "SW_SPST" H 7850 1294 50  0000 C CNN
-F 2 "" H 7850 1150 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 7850 1150 50  0001 C CNN
 F 3 "~" H 7850 1150 50  0001 C CNN
 	1    7850 1150
 	0    1    1    0   
@@ -1711,7 +1711,7 @@ AR Path="/5E44F2B0" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F2B0" Ref="CherryMX66"  Part="1" 
 F 0 "CherryMX66" H 7850 2335 50  0000 C CNN
 F 1 "SW_SPST" H 7850 2244 50  0000 C CNN
-F 2 "" H 7850 2100 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 7850 2100 50  0001 C CNN
 F 3 "~" H 7850 2100 50  0001 C CNN
 	1    7850 2100
 	0    1    1    0   
@@ -1737,7 +1737,7 @@ AR Path="/5E44F2C8" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F2C8" Ref="CherryMX67"  Part="1" 
 F 0 "CherryMX67" H 7850 4235 50  0000 C CNN
 F 1 "SW_SPST" H 7850 4144 50  0000 C CNN
-F 2 "" H 7850 4000 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 7850 4000 50  0001 C CNN
 F 3 "~" H 7850 4000 50  0001 C CNN
 	1    7850 4000
 	0    1    1    0   
@@ -1763,7 +1763,7 @@ AR Path="/5E44F2D4" Ref="CherryMX?"  Part="1"
 AR Path="/5E25E984/5E44F2D4" Ref="CherryMX68"  Part="1" 
 F 0 "CherryMX68" H 7850 5185 50  0000 C CNN
 F 1 "SW_SPST" H 7850 5094 50  0000 C CNN
-F 2 "" H 7850 4950 50  0001 C CNN
+F 2 "keyswitches:Kailh_socket_MX" H 7850 4950 50  0001 C CNN
 F 3 "~" H 7850 4950 50  0001 C CNN
 	1    7850 4950
 	0    1    1    0   
@@ -2386,8 +2386,6 @@ Text HLabel 8400 950  1    50   Input ~ 0
 ROW2
 Text HLabel 8300 950  1    50   Input ~ 0
 ROW1
-Text GLabel 8950 1000 0    50   Input ~ 0
-3.3V
 $Comp
 L Device:R R1
 U 1 1 5E10B956
@@ -2399,8 +2397,6 @@ F 3 "~" H 9100 1000 50  0001 C CNN
 	1    9100 1000
 	0    1    1    0   
 $EndComp
-Text GLabel 8950 1200 0    50   Input ~ 0
-3.3V
 $Comp
 L Device:R R2
 U 1 1 5E12B792
@@ -2412,8 +2408,6 @@ F 3 "~" H 9100 1200 50  0001 C CNN
 	1    9100 1200
 	0    1    1    0   
 $EndComp
-Text GLabel 8950 1400 0    50   Input ~ 0
-3.3V
 $Comp
 L Device:R R3
 U 1 1 5E139EEC
@@ -2425,8 +2419,6 @@ F 3 "~" H 9100 1400 50  0001 C CNN
 	1    9100 1400
 	0    1    1    0   
 $EndComp
-Text GLabel 8950 1600 0    50   Input ~ 0
-3.3V
 $Comp
 L Device:R R4
 U 1 1 5E148532
@@ -2438,8 +2430,6 @@ F 3 "~" H 9100 1600 50  0001 C CNN
 	1    9100 1600
 	0    1    1    0   
 $EndComp
-Text GLabel 8950 1800 0    50   Input ~ 0
-3.3V
 $Comp
 L Device:R R5
 U 1 1 5E156B78
@@ -2451,8 +2441,6 @@ F 3 "~" H 9100 1800 50  0001 C CNN
 	1    9100 1800
 	0    1    1    0   
 $EndComp
-Text GLabel 8950 2000 0    50   Input ~ 0
-3.3V
 $Comp
 L Device:R R6
 U 1 1 5E1651BE
@@ -2464,8 +2452,6 @@ F 3 "~" H 9100 2000 50  0001 C CNN
 	1    9100 2000
 	0    1    1    0   
 $EndComp
-Text GLabel 8950 2200 0    50   Input ~ 0
-3.3V
 $Comp
 L Device:R R7
 U 1 1 5E173804
@@ -2477,8 +2463,6 @@ F 3 "~" H 9100 2200 50  0001 C CNN
 	1    9100 2200
 	0    1    1    0   
 $EndComp
-Text GLabel 8950 2400 0    50   Input ~ 0
-3.3V
 $Comp
 L Device:R R8
 U 1 1 5E1D9BE7
@@ -2490,8 +2474,6 @@ F 3 "~" H 9100 2400 50  0001 C CNN
 	1    9100 2400
 	0    1    1    0   
 $EndComp
-Text GLabel 8950 2600 0    50   Input ~ 0
-3.3V
 $Comp
 L Device:R R9
 U 1 1 5E1E856C
@@ -2503,8 +2485,6 @@ F 3 "~" H 9100 2600 50  0001 C CNN
 	1    9100 2600
 	0    1    1    0   
 $EndComp
-Text GLabel 8950 2800 0    50   Input ~ 0
-3.3V
 $Comp
 L Device:R R10
 U 1 1 5E1F6EBB
@@ -2516,8 +2496,6 @@ F 3 "~" H 9100 2800 50  0001 C CNN
 	1    9100 2800
 	0    1    1    0   
 $EndComp
-Text GLabel 8950 3000 0    50   Input ~ 0
-3.3V
 $Comp
 L Device:R R11
 U 1 1 5E205954
@@ -2529,8 +2507,6 @@ F 3 "~" H 9100 3000 50  0001 C CNN
 	1    9100 3000
 	0    1    1    0   
 $EndComp
-Text GLabel 8950 3200 0    50   Input ~ 0
-3.3V
 $Comp
 L Device:R R12
 U 1 1 5E214369
@@ -2542,8 +2518,6 @@ F 3 "~" H 9100 3200 50  0001 C CNN
 	1    9100 3200
 	0    1    1    0   
 $EndComp
-Text GLabel 8950 3400 0    50   Input ~ 0
-3.3V
 $Comp
 L Device:R R13
 U 1 1 5E222D36
@@ -2555,8 +2529,6 @@ F 3 "~" H 9100 3400 50  0001 C CNN
 	1    9100 3400
 	0    1    1    0   
 $EndComp
-Text GLabel 8950 3600 0    50   Input ~ 0
-3.3V
 $Comp
 L Device:R R14
 U 1 1 5E231631
@@ -2660,4 +2632,54 @@ Wire Wire Line
 	11100 3600 11100 6500
 Wire Wire Line
 	8700 950  8700 4750
+Wire Wire Line
+	8950 1000 8950 1200
+Connection ~ 8950 1200
+Wire Wire Line
+	8950 1200 8950 1400
+Connection ~ 8950 1400
+Wire Wire Line
+	8950 1400 8950 1600
+Connection ~ 8950 1600
+Wire Wire Line
+	8950 1600 8950 1800
+Connection ~ 8950 1800
+Wire Wire Line
+	8950 1800 8950 2000
+Connection ~ 8950 2000
+Wire Wire Line
+	8950 2000 8950 2200
+Connection ~ 8950 2200
+Wire Wire Line
+	8950 2200 8950 2400
+Connection ~ 8950 2400
+Wire Wire Line
+	8950 2400 8950 2600
+Connection ~ 8950 2600
+Wire Wire Line
+	8950 2600 8950 2800
+Connection ~ 8950 2800
+Wire Wire Line
+	8950 2800 8950 3000
+Connection ~ 8950 3000
+Wire Wire Line
+	8950 3000 8950 3200
+Connection ~ 8950 3200
+Wire Wire Line
+	8950 3200 8950 3400
+Connection ~ 8950 3400
+Wire Wire Line
+	8950 3400 8950 3600
+$Comp
+L power:VCC #PWR0121
+U 1 1 5E6954AB
+P 8950 1000
+F 0 "#PWR0121" H 8950 850 50  0001 C CNN
+F 1 "VCC" H 8967 1173 50  0000 C CNN
+F 2 "" H 8950 1000 50  0001 C CNN
+F 3 "" H 8950 1000 50  0001 C CNN
+	1    8950 1000
+	1    0    0    -1  
+$EndComp
+Connection ~ 8950 1000
 $EndSCHEMATC
