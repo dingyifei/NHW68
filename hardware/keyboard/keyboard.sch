@@ -146,14 +146,6 @@ Wire Wire Line
 Wire Wire Line
 	3050 5300 7550 5300
 Wire Wire Line
-	7550 5300 7550 4100
-Wire Wire Line
-	7550 4100 7300 4100
-Wire Wire Line
-	7300 3600 7600 3600
-Wire Wire Line
-	7600 3600 7600 5350
-Wire Wire Line
 	7600 5350 3000 5350
 Wire Wire Line
 	3000 5350 3000 3700
@@ -165,14 +157,6 @@ Wire Wire Line
 	2950 3600 2950 5400
 Wire Wire Line
 	2950 5400 7650 5400
-Wire Wire Line
-	7650 5400 7650 3500
-Wire Wire Line
-	7650 3500 7300 3500
-Wire Wire Line
-	7300 3400 7700 3400
-Wire Wire Line
-	7700 3400 7700 5450
 Wire Wire Line
 	7700 5450 2900 5450
 Wire Wire Line
@@ -186,14 +170,6 @@ Wire Wire Line
 Wire Wire Line
 	2850 5500 7750 5500
 Wire Wire Line
-	7750 5500 7750 3300
-Wire Wire Line
-	7750 3300 7300 3300
-Wire Wire Line
-	7300 3200 7800 3200
-Wire Wire Line
-	7800 3200 7800 5550
-Wire Wire Line
 	7800 5550 2800 5550
 Wire Wire Line
 	2800 5550 2800 3300
@@ -205,11 +181,6 @@ Wire Wire Line
 	2750 3200 2750 5600
 Wire Wire Line
 	2750 5600 7850 5600
-Wire Wire Line
-	7850 5600 7850 3100
-Wire Wire Line
-	7850 3100 7300 3100
-NoConn ~ 7300 3000
 NoConn ~ 7300 3900
 NoConn ~ 7300 4000
 NoConn ~ 5250 2500
@@ -262,10 +233,10 @@ U 1 1 5E59370E
 P 6300 3500
 F 0 "U1" H 6275 1977 50  0000 C CNN
 F 1 "proton_c" H 6275 1886 50  0000 C CNN
-F 2 "proton_c_eagle:PROTON-C-THT-SPEAKER" H 6150 3500 50  0001 C CNN
+F 2 "proton_c:proton_c" H 6150 3500 50  0001 C CNN
 F 3 "" H 6150 3500 50  0001 C CNN
 F 4 "Proton_C" H 6300 3500 50  0001 C CNN "Value"
-F 5 "proton_c_eagle:PROTON-C-THT-SPEAKER" H 6300 3500 50  0001 C CNN "Footprint"
+F 5 "proton_c:proton_c" H 6300 3500 50  0001 C CNN "Footprint"
 	1    6300 3500
 	1    0    0    -1  
 $EndComp
@@ -283,4 +254,33 @@ F 3 "" H 7300 2800 50  0001 C CNN
 	1    7300 2800
 	0    1    1    0   
 $EndComp
+NoConn ~ 7300 4100
+Wire Wire Line
+	7300 3000 7850 3000
+Wire Wire Line
+	7850 3000 7850 5600
+Wire Wire Line
+	7300 3100 7800 3100
+Wire Wire Line
+	7800 3100 7800 5550
+Wire Wire Line
+	7300 3200 7750 3200
+Wire Wire Line
+	7750 3200 7750 5500
+Wire Wire Line
+	7700 5450 7700 3300
+Wire Wire Line
+	7700 3300 7300 3300
+Wire Wire Line
+	7300 3400 7650 3400
+Wire Wire Line
+	7650 3400 7650 5400
+Wire Wire Line
+	7300 3500 7600 3500
+Wire Wire Line
+	7600 3500 7600 5350
+Wire Wire Line
+	7300 3600 7550 3600
+Wire Wire Line
+	7550 3600 7550 5300
 $EndSCHEMATC
