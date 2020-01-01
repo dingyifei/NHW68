@@ -264,6 +264,8 @@ F 0 "U1" H 6275 1977 50  0000 C CNN
 F 1 "proton_c" H 6275 1886 50  0000 C CNN
 F 2 "proton_c_eagle:PROTON-C-THT-SPEAKER" H 6150 3500 50  0001 C CNN
 F 3 "" H 6150 3500 50  0001 C CNN
+F 4 "Proton_C" H 6300 3500 50  0001 C CNN "Value"
+F 5 "proton_c_eagle:PROTON-C-THT-SPEAKER" H 6300 3500 50  0001 C CNN "Footprint"
 	1    6300 3500
 	1    0    0    -1  
 $EndComp
