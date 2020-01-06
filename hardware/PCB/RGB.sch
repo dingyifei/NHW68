@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 3 5
+Sheet 3 6
 Title ""
 Date ""
 Rev ""
@@ -518,25 +518,25 @@ $EndComp
 $Comp
 L Device:C_Small C15
 U 1 1 5E45EC90
-P 7850 1150
-F 0 "C15" H 7942 1196 50  0000 L CNN
-F 1 "0.47μF" H 7942 1105 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 7850 1150 50  0001 C CNN
-F 3 "~" H 7850 1150 50  0001 C CNN
-F 4 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 7850 1150 50  0001 C CNN "Footprint"
-F 5 "0.47μF" H 7850 1150 50  0001 C CNN "Value"
-	1    7850 1150
+P 7550 1150
+F 0 "C15" H 7642 1196 50  0000 L CNN
+F 1 "0.47μF" H 7642 1105 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 7550 1150 50  0001 C CNN
+F 3 "~" H 7550 1150 50  0001 C CNN
+F 4 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 7550 1150 50  0001 C CNN "Footprint"
+F 5 "0.47μF" H 7550 1150 50  0001 C CNN "Value"
+	1    7550 1150
 	0    -1   -1   0   
 $EndComp
 $Comp
 L power:GND #PWR0106
 U 1 1 5E45EC96
-P 7950 1150
-F 0 "#PWR0106" H 7950 900 50  0001 C CNN
-F 1 "GND" H 7955 977 50  0000 C CNN
-F 2 "" H 7950 1150 50  0001 C CNN
-F 3 "" H 7950 1150 50  0001 C CNN
-	1    7950 1150
+P 7650 1150
+F 0 "#PWR0106" H 7650 900 50  0001 C CNN
+F 1 "GND" H 7655 977 50  0000 C CNN
+F 2 "" H 7650 1150 50  0001 C CNN
+F 3 "" H 7650 1150 50  0001 C CNN
+	1    7650 1150
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
@@ -932,11 +932,6 @@ Connection ~ 2400 950
 Wire Wire Line
 	2400 950  2400 1100
 Connection ~ 3700 950 
-Wire Wire Line
-	7450 950  7450 1150
-Wire Wire Line
-	7750 1150 7450 1150
-Connection ~ 7450 1150
 Connection ~ 3700 1900
 Wire Wire Line
 	3700 1900 3700 2000
@@ -970,11 +965,14 @@ Wire Wire Line
 Connection ~ 7450 1900
 Wire Wire Line
 	7450 1900 7450 2000
-Wire Wire Line
-	7450 1150 7450 1900
 Connection ~ 8050 2100
 Wire Wire Line
 	7950 2100 8050 2100
 Wire Wire Line
 	8150 3100 7800 3100
+Wire Wire Line
+	7450 950  7450 1150
+Connection ~ 7450 1150
+Wire Wire Line
+	7450 1150 7450 1900
 $EndSCHEMATC
