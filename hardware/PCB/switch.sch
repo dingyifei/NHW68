@@ -2511,339 +2511,37 @@ ROW1
 Wire Wire Line
 	8700 950  8700 4750
 Wire Wire Line
-	11100 950  11100 3600
-Wire Wire Line
-	9250 3600 11100 3600
-Wire Wire Line
-	11000 950  11000 3400
-Wire Wire Line
-	9250 3400 11000 3400
-Wire Wire Line
-	10900 950  10900 3200
-Wire Wire Line
-	9250 3200 10900 3200
-Wire Wire Line
-	10800 3000 10800 6350
-Wire Wire Line
-	10800 950  10800 3000
-Connection ~ 10800 3000
-Wire Wire Line
-	9250 3000 10800 3000
-Wire Wire Line
-	10700 2800 10700 6300
-Wire Wire Line
-	10700 950  10700 2800
-Connection ~ 10700 2800
-Wire Wire Line
-	9250 2800 10700 2800
-Wire Wire Line
-	10600 2600 10600 6250
-Wire Wire Line
-	10600 950  10600 2600
-Connection ~ 10600 2600
-Wire Wire Line
-	9250 2600 10600 2600
-Wire Wire Line
-	10500 2400 10500 6200
-Wire Wire Line
-	10500 950  10500 2400
-Connection ~ 10500 2400
-Wire Wire Line
-	9250 2400 10500 2400
-Wire Wire Line
-	10400 2200 10400 6150
-Wire Wire Line
-	10400 950  10400 2200
-Connection ~ 10400 2200
-Wire Wire Line
-	9250 2200 10400 2200
-Wire Wire Line
-	10300 2000 10300 6100
-Wire Wire Line
-	10300 950  10300 2000
-Connection ~ 10300 2000
-Wire Wire Line
-	9250 2000 10300 2000
-Wire Wire Line
-	10200 1800 10200 6050
-Wire Wire Line
-	10200 950  10200 1800
-Connection ~ 10200 1800
-Wire Wire Line
-	9250 1800 10200 1800
-Wire Wire Line
-	10100 1600 10100 6000
-Wire Wire Line
-	10100 950  10100 1600
-Connection ~ 10100 1600
-Wire Wire Line
-	9250 1600 10100 1600
-Wire Wire Line
-	10000 1400 10000 950 
-Wire Wire Line
-	10000 5950 10000 1400
-Connection ~ 10000 1400
-Wire Wire Line
-	10000 1400 9250 1400
-Wire Wire Line
-	9900 1200 9900 5900
-Wire Wire Line
-	9900 950  9900 1200
-Connection ~ 9900 1200
-Wire Wire Line
-	9250 1200 9900 1200
-Wire Wire Line
-	9800 1000 9800 950 
-Wire Wire Line
-	9800 5850 9800 1000
-Connection ~ 9800 1000
-Wire Wire Line
-	9800 1000 9250 1000
-$Comp
-L Device:R R14
-U 1 1 5E231631
-P 9100 3600
-F 0 "R14" V 8893 3600 50  0000 C CNN
-F 1 "10k" V 8985 3600 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 9030 3600 50  0001 C CNN
-F 3 "~" H 9100 3600 50  0001 C CNN
-F 4 "10k" H 9100 3600 50  0001 C CNN "Value"
-F 5 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 9100 3600 50  0001 C CNN "Footprint"
-	1    9100 3600
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	8950 3400 8950 3600
-Connection ~ 8950 3400
-$Comp
-L Device:R R13
-U 1 1 5E222D36
-P 9100 3400
-F 0 "R13" V 8893 3400 50  0000 C CNN
-F 1 "10k" V 8985 3400 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 9030 3400 50  0001 C CNN
-F 3 "~" H 9100 3400 50  0001 C CNN
-F 4 "10k" H 9100 3400 50  0001 C CNN "Value"
-F 5 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 9100 3400 50  0001 C CNN "Footprint"
-	1    9100 3400
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	8950 3200 8950 3400
-Connection ~ 8950 3200
-$Comp
-L Device:R R12
-U 1 1 5E214369
-P 9100 3200
-F 0 "R12" V 8893 3200 50  0000 C CNN
-F 1 "10k" V 8985 3200 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 9030 3200 50  0001 C CNN
-F 3 "~" H 9100 3200 50  0001 C CNN
-F 4 "10k" H 9100 3200 50  0001 C CNN "Value"
-F 5 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 9100 3200 50  0001 C CNN "Footprint"
-	1    9100 3200
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	8950 3000 8950 3200
-Connection ~ 8950 3000
-$Comp
-L Device:R R11
-U 1 1 5E205954
-P 9100 3000
-F 0 "R11" V 8893 3000 50  0000 C CNN
-F 1 "10k" V 8985 3000 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 9030 3000 50  0001 C CNN
-F 3 "~" H 9100 3000 50  0001 C CNN
-F 4 "10k" H 9100 3000 50  0001 C CNN "Value"
-F 5 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 9100 3000 50  0001 C CNN "Footprint"
-	1    9100 3000
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	8950 2800 8950 3000
-Connection ~ 8950 2800
-$Comp
-L Device:R R10
-U 1 1 5E1F6EBB
-P 9100 2800
-F 0 "R10" V 8893 2800 50  0000 C CNN
-F 1 "10k" V 8985 2800 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 9030 2800 50  0001 C CNN
-F 3 "~" H 9100 2800 50  0001 C CNN
-F 4 "10k" H 9100 2800 50  0001 C CNN "Value"
-F 5 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 9100 2800 50  0001 C CNN "Footprint"
-	1    9100 2800
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	8950 2600 8950 2800
-Connection ~ 8950 2600
-$Comp
-L Device:R R9
-U 1 1 5E1E856C
-P 9100 2600
-F 0 "R9" V 8893 2600 50  0000 C CNN
-F 1 "10k" V 8985 2600 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 9030 2600 50  0001 C CNN
-F 3 "~" H 9100 2600 50  0001 C CNN
-F 4 "10k" H 9100 2600 50  0001 C CNN "Value"
-F 5 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 9100 2600 50  0001 C CNN "Footprint"
-	1    9100 2600
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	8950 2400 8950 2600
-Connection ~ 8950 2400
-$Comp
-L Device:R R8
-U 1 1 5E1D9BE7
-P 9100 2400
-F 0 "R8" V 8893 2400 50  0000 C CNN
-F 1 "10k" V 8985 2400 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 9030 2400 50  0001 C CNN
-F 3 "~" H 9100 2400 50  0001 C CNN
-F 4 "10k" H 9100 2400 50  0001 C CNN "Value"
-F 5 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 9100 2400 50  0001 C CNN "Footprint"
-	1    9100 2400
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	8950 2200 8950 2400
-Connection ~ 8950 2200
-$Comp
-L Device:R R7
-U 1 1 5E173804
-P 9100 2200
-F 0 "R7" V 8893 2200 50  0000 C CNN
-F 1 "10k" V 8985 2200 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 9030 2200 50  0001 C CNN
-F 3 "~" H 9100 2200 50  0001 C CNN
-F 4 "10k" H 9100 2200 50  0001 C CNN "Value"
-F 5 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 9100 2200 50  0001 C CNN "Footprint"
-	1    9100 2200
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	8950 2000 8950 2200
-Connection ~ 8950 2000
-$Comp
-L Device:R R6
-U 1 1 5E1651BE
-P 9100 2000
-F 0 "R6" V 8893 2000 50  0000 C CNN
-F 1 "10k" V 8985 2000 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 9030 2000 50  0001 C CNN
-F 3 "~" H 9100 2000 50  0001 C CNN
-F 4 "10k" H 9100 2000 50  0001 C CNN "Value"
-F 5 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 9100 2000 50  0001 C CNN "Footprint"
-	1    9100 2000
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	8950 1800 8950 2000
-Connection ~ 8950 1800
-$Comp
-L Device:R R5
-U 1 1 5E156B78
-P 9100 1800
-F 0 "R5" V 8893 1800 50  0000 C CNN
-F 1 "10k" V 8985 1800 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 9030 1800 50  0001 C CNN
-F 3 "~" H 9100 1800 50  0001 C CNN
-F 4 "10k" H 9100 1800 50  0001 C CNN "Value"
-F 5 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 9100 1800 50  0001 C CNN "Footprint"
-	1    9100 1800
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	8950 1600 8950 1800
-Connection ~ 8950 1600
-$Comp
-L Device:R R4
-U 1 1 5E148532
-P 9100 1600
-F 0 "R4" V 8893 1600 50  0000 C CNN
-F 1 "10k" V 8985 1600 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 9030 1600 50  0001 C CNN
-F 3 "~" H 9100 1600 50  0001 C CNN
-F 4 "10k" H 9100 1600 50  0001 C CNN "Value"
-F 5 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 9100 1600 50  0001 C CNN "Footprint"
-	1    9100 1600
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	8950 1400 8950 1600
-Connection ~ 8950 1400
-$Comp
-L Device:R R3
-U 1 1 5E139EEC
-P 9100 1400
-F 0 "R3" V 8893 1400 50  0000 C CNN
-F 1 "10k" V 8985 1400 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 9030 1400 50  0001 C CNN
-F 3 "~" H 9100 1400 50  0001 C CNN
-F 4 "10k" H 9100 1400 50  0001 C CNN "Value"
-F 5 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 9100 1400 50  0001 C CNN "Footprint"
-	1    9100 1400
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	8950 1200 8950 1400
-Wire Wire Line
-	8950 1000 8950 1200
-Connection ~ 8950 1200
-$Comp
-L Device:R R2
-U 1 1 5E12B792
-P 9100 1200
-F 0 "R2" V 8893 1200 50  0000 C CNN
-F 1 "10k" V 8985 1200 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 9030 1200 50  0001 C CNN
-F 3 "~" H 9100 1200 50  0001 C CNN
-F 4 "10k" H 9100 1200 50  0001 C CNN "Value"
-F 5 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 9100 1200 50  0001 C CNN "Footprint"
-	1    9100 1200
-	0    1    1    0   
-$EndComp
-$Comp
-L Device:R R1
-U 1 1 5E10B956
-P 9100 1000
-F 0 "R1" V 8893 1000 50  0000 C CNN
-F 1 "10k" V 8985 1000 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 9030 1000 50  0001 C CNN
-F 3 "~" H 9100 1000 50  0001 C CNN
-F 4 "10k" H 9100 1000 50  0001 C CNN "Value"
-F 5 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 9100 1000 50  0001 C CNN "Footprint"
-	1    9100 1000
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	10900 3200 10900 6400
-Wire Wire Line
 	10900 6400 2200 6400
-Connection ~ 10900 3200
 Wire Wire Line
 	1700 6450 11000 6450
 Wire Wire Line
-	11000 6450 11000 3400
-Connection ~ 11000 3400
-Wire Wire Line
-	11100 3600 11100 6500
-Wire Wire Line
 	11100 6500 1200 6500
-Connection ~ 11100 3600
-$Comp
-L power:+3.3V #PWR0121
-U 1 1 5E3274AF
-P 8950 1000
-F 0 "#PWR0121" H 8950 850 50  0001 C CNN
-F 1 "+3.3V" H 8965 1173 50  0000 C CNN
-F 2 "" H 8950 1000 50  0001 C CNN
-F 3 "" H 8950 1000 50  0001 C CNN
-	1    8950 1000
-	1    0    0    -1  
-$EndComp
-Connection ~ 8950 1000
+Wire Wire Line
+	11100 950  11100 6500
+Wire Wire Line
+	11000 950  11000 6450
+Wire Wire Line
+	10900 950  10900 6400
+Wire Wire Line
+	10800 950  10800 6350
+Wire Wire Line
+	10700 950  10700 6300
+Wire Wire Line
+	10600 950  10600 6250
+Wire Wire Line
+	10500 950  10500 6200
+Wire Wire Line
+	10400 950  10400 6150
+Wire Wire Line
+	10300 950  10300 6100
+Wire Wire Line
+	10200 950  10200 6050
+Wire Wire Line
+	10100 950  10100 6000
+Wire Wire Line
+	10000 950  10000 5950
+Wire Wire Line
+	9900 950  9900 5900
+Wire Wire Line
+	9800 950  9800 5850
 $EndSCHEMATC
