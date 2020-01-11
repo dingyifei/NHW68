@@ -1,4 +1,4 @@
-update=2020/1/9 12:13:39
+update=2020/1/10 18:49:58
 version=1
 last_client=kicad
 [general]
@@ -27,32 +27,37 @@ version=1
 PageLayoutDescrFile=
 LastNetListRead=keyboard.net
 CopperLayerCount=2
-BoardThickness=1.6
+BoardThickness=1
 AllowMicroVias=0
 AllowBlindVias=0
 RequireCourtyardDefinitions=0
 ProhibitOverlappingCourtyards=1
 MinTrackWidth=0.127
-MinViaDiameter=0.3
+MinViaDiameter=0.6
 MinViaDrill=0.3
 MinMicroViaDiameter=0.2
 MinMicroViaDrill=0.09999999999999999
-MinHoleToHole=0.25
+MinHoleToHole=0.127
 TrackWidth1=0.3
 TrackWidth2=0.2
 TrackWidth3=0.25
 TrackWidth4=0.3
+TrackWidth5=0.4
+TrackWidth6=0.6
 ViaDiameter1=0.8
 ViaDrill1=0.35
 ViaDiameter2=0.6
 ViaDrill2=0.3
 ViaDiameter3=0.8
 ViaDrill3=0.4
-ViaDiameter4=1.2
+ViaDiameter4=1
 ViaDrill4=0.5
 dPairWidth1=0.3
 dPairGap1=0.3
 dPairViaGap1=0.25
+dPairWidth2=0.3
+dPairGap2=0.25
+dPairViaGap2=0
 SilkLineWidth=0.12
 SilkTextSizeV=1
 SilkTextSizeH=1
@@ -79,7 +84,7 @@ SolderPasteClearance=0
 SolderPasteRatio=-0
 [pcbnew/Layer.F.Cu]
 Name=F.Cu
-Type=0
+Type=2
 Enabled=1
 [pcbnew/Layer.In1.Cu]
 Name=In1.Cu
@@ -203,7 +208,7 @@ Type=0
 Enabled=0
 [pcbnew/Layer.B.Cu]
 Name=B.Cu
-Type=0
+Type=2
 Enabled=1
 [pcbnew/Layer.B.Adhes]
 Enabled=1
