@@ -97,23 +97,23 @@ $EndComp
 $Comp
 L Device:R R25
 U 1 1 5E1D87FC
-P 2150 2400
-F 0 "R25" H 2220 2446 50  0000 L CNN
-F 1 "1.5K" H 2220 2355 50  0000 L CNN
-F 2 "Resistor_SMD:R_0402_1005Metric" V 2080 2400 50  0001 C CNN
-F 3 "~" H 2150 2400 50  0001 C CNN
-	1    2150 2400
+P 2150 2550
+F 0 "R25" H 2220 2596 50  0000 L CNN
+F 1 "1.5K" H 2220 2505 50  0000 L CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 2080 2550 50  0001 C CNN
+F 3 "~" H 2150 2550 50  0001 C CNN
+	1    2150 2550
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:+3.3V #PWR0127
 U 1 1 5E1D94BF
-P 2150 2550
-F 0 "#PWR0127" H 2150 2400 50  0001 C CNN
-F 1 "+3.3V" H 2165 2723 50  0000 C CNN
-F 2 "" H 2150 2550 50  0001 C CNN
-F 3 "" H 2150 2550 50  0001 C CNN
-	1    2150 2550
+P 2150 2700
+F 0 "#PWR0127" H 2150 2550 50  0001 C CNN
+F 1 "+3.3V" H 2165 2873 50  0000 C CNN
+F 2 "" H 2150 2700 50  0001 C CNN
+F 3 "" H 2150 2700 50  0001 C CNN
+	1    2150 2700
 	-1   0    0    1   
 $EndComp
 Text Label 8000 5550 3    50   ~ 0
@@ -171,8 +171,6 @@ F 3 "~" H 1750 2100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 NoConn ~ 1900 2350
-Wire Wire Line
-	2150 2250 2000 2250
 $Comp
 L power:+5V #PWR0128
 U 1 1 5E1F5A25
@@ -383,7 +381,7 @@ U 1 1 5E234436
 P 5600 2250
 F 0 "SW1" V 5554 2380 50  0000 L CNN
 F 1 "SW_DIP_x01" V 5645 2380 50  0000 L CNN
-F 2 "Button_Switch_SMD:SW_SPST_EVQPE1" H 5600 2250 50  0001 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_B3U-1000P" H 5600 2250 50  0001 C CNN
 F 3 "~" H 5600 2250 50  0001 C CNN
 	1    5600 2250
 	0    1    1    0   
@@ -544,53 +542,37 @@ F 3 "" H 4850 2400 50  0001 C CNN
 	1    4850 2400
 	-1   0    0    1   
 $EndComp
-Text HLabel 6400 4950 0    50   Input ~ 0
-COL1
-Text HLabel 6400 4850 0    50   Input ~ 0
-COL2
-Text HLabel 6400 4750 0    50   Input ~ 0
-COL3
-Text HLabel 6400 4650 0    50   Input ~ 0
-COL4
 Text HLabel 6400 4550 0    50   Input ~ 0
+COL3
+Text HLabel 7700 3650 2    50   Input ~ 0
+COL4
+Text HLabel 7700 3750 2    50   Input ~ 0
 COL5
-Text HLabel 6400 4450 0    50   Input ~ 0
+Text HLabel 7700 3850 2    50   Input ~ 0
 COL6
-Text HLabel 6400 4350 0    50   Input ~ 0
+Text HLabel 7700 3950 2    50   Input ~ 0
 COL7
-Text HLabel 6400 4250 0    50   Input ~ 0
+Text HLabel 7700 4050 2    50   Input ~ 0
 COL8
-Text HLabel 6400 4150 0    50   Input ~ 0
+Text HLabel 7700 4150 2    50   Input ~ 0
 COL9
-Text HLabel 6400 4050 0    50   Input ~ 0
+Text HLabel 7700 4250 2    50   Input ~ 0
 COL10
-Text HLabel 6400 3950 0    50   Input ~ 0
+Text HLabel 7700 4350 2    50   Input ~ 0
 COL11
-Text HLabel 6400 3850 0    50   Input ~ 0
+Text HLabel 6400 3650 0    50   Input ~ 0
 COL12
 Text HLabel 6400 3750 0    50   Input ~ 0
 COL13
-Text HLabel 6400 3650 0    50   Input ~ 0
+Text HLabel 6400 3850 0    50   Input ~ 0
 COL14
-Text HLabel 7700 4050 2    50   Input ~ 0
+Text HLabel 6400 4150 0    50   Input ~ 0
 ROW5
-Text HLabel 7700 3950 2    50   Input ~ 0
+Text HLabel 6400 4050 0    50   Input ~ 0
 ROW4
-Text HLabel 7700 3850 2    50   Input ~ 0
-ROW3
-Text HLabel 7700 3750 2    50   Input ~ 0
-ROW2
-Text HLabel 7700 3650 2    50   Input ~ 0
-ROW1
-NoConn ~ 7700 4150
-NoConn ~ 7700 4250
-NoConn ~ 7700 4350
 NoConn ~ 7700 4450
 NoConn ~ 6400 5150
-NoConn ~ 7700 4950
-NoConn ~ 7700 5050
-NoConn ~ 7700 5150
-Text HLabel 6400 5050 0    50   Input ~ 0
+Text HLabel 7700 4950 2    50   Input ~ 0
 LED_EN_PIN
 Wire Wire Line
 	1500 2550 1600 2550
@@ -696,17 +678,6 @@ Wire Wire Line
 	1200 4100 1200 4300
 Connection ~ 1200 4100
 $Comp
-L Connector:TestPoint TP4
-U 1 1 5E1E3624
-P 2250 1750
-F 0 "TP4" H 2308 1868 50  0000 L CNN
-F 1 "TestPoint" H 2308 1777 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 2450 1750 50  0001 C CNN
-F 3 "~" H 2450 1750 50  0001 C CNN
-	1    2250 1750
-	1    0    0    -1  
-$EndComp
-$Comp
 L Connector:TestPoint TP2
 U 1 1 5E1E444E
 P 1950 1750
@@ -728,20 +699,9 @@ F 3 "~" H 1700 2550 50  0001 C CNN
 	1    1500 2550
 	-1   0    0    1   
 $EndComp
-$Comp
-L Connector:TestPoint TP3
-U 1 1 5E1E690C
-P 2000 2800
-F 0 "TP3" H 2058 2918 50  0000 L CNN
-F 1 "TestPoint" H 2058 2827 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 2200 2800 50  0001 C CNN
-F 3 "~" H 2200 2800 50  0001 C CNN
-	1    2000 2800
-	-1   0    0    1   
-$EndComp
 Connection ~ 1500 2550
 Wire Wire Line
-	1900 2150 2250 2150
+	1900 2150 2150 2150
 Wire Wire Line
 	1950 1750 1950 1950
 Wire Wire Line
@@ -749,16 +709,6 @@ Wire Wire Line
 Connection ~ 1950 1950
 Wire Wire Line
 	1950 1950 2000 1950
-Wire Wire Line
-	2250 1750 2250 2150
-Connection ~ 2250 2150
-Wire Wire Line
-	2250 2150 2300 2150
-Wire Wire Line
-	2000 2800 2000 2250
-Connection ~ 2000 2250
-Wire Wire Line
-	2000 2250 1900 2250
 $Comp
 L Connector:TestPoint TP5
 U 1 1 5E20237D
@@ -793,9 +743,6 @@ F 3 "" H 4850 5750 50  0001 C CNN
 	1    4850 5750
 	-1   0    0    1   
 $EndComp
-Connection ~ 2150 2250
-Wire Wire Line
-	2150 2250 2300 2250
 Wire Wire Line
 	7700 4750 8000 4750
 Wire Wire Line
@@ -804,4 +751,24 @@ Wire Wire Line
 	7700 4850 7850 4850
 Wire Wire Line
 	7850 4850 7850 5250
+Text HLabel 6400 4750 0    50   Input ~ 0
+COL1
+Text HLabel 7700 5050 2    50   Input ~ 0
+ROW1
+Text HLabel 7700 5150 2    50   Input ~ 0
+ROW2
+Text HLabel 6400 3950 0    50   Input ~ 0
+ROW3
+Text HLabel 6400 4650 0    50   Input ~ 0
+COL2
+Wire Wire Line
+	2150 2400 2150 2150
+Connection ~ 2150 2150
+NoConn ~ 6400 4250
+NoConn ~ 6400 4350
+NoConn ~ 6400 4450
+Wire Wire Line
+	2150 2150 2300 2150
+Wire Wire Line
+	1900 2250 2300 2250
 $EndSCHEMATC
