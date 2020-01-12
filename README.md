@@ -16,7 +16,7 @@ I'm attempting to draw the PCB and its my first time drawing a PCB so 0 confiden
 
 I have not yet tested the PCB, the keyboard PCB currently looks like this:
 
-![PCB](.\picture\PCB.jpg)
+![PCB](./picture/PCB.jpg)
 
 The keyboard uses STM32F303CCT6, IS31FL3733 and have perKey RGB. NOTHING HAD BEEN TESTED SO DON'T TRY TO MAKE THIS PLZ.
 
@@ -30,10 +30,10 @@ https://a360.co/2NjABAU
 
 ## Layout
 
-![keyboard-layout](.\picture\keyboard-layout.png)
+![keyboard-layout](./picture/keyboard-layout.png)
 
 The blue keys' function depend on use case
 
 ## Render
 
-![2020-Jan-12_06-25-50AM-000_CustomizedView24958762938_png_alpha](.\picture\2020-Jan-12_06-25-50AM-000_CustomizedView24958762938_png_alpha.png)
+![2020-Jan-12_06-25-50AM-000_CustomizedView24958762938_png_alpha](./picture/2020-Jan-12_06-25-50AM-000_CustomizedView24958762938_png_alpha.png)
