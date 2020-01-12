@@ -22,7 +22,11 @@ The keyboard uses STM32F303CCT6, IS31FL3733 and have perKey RGB. NOTHING HAD BEE
 
 
 
-I'm too lazy to post the 3d model today
+~~I'm too lazy to post the 3d model today~~
+
+Here is the fusion 360 3d model, didn't test it.
+
+https://a360.co/3a7s6CW
 
 ## Layout
 
