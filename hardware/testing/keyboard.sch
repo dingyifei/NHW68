@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 5
+Sheet 1 3
 Title ""
 Date ""
 Rev ""
@@ -104,19 +104,4 @@ Wire Wire Line
 	4450 4500 5500 4500
 Wire Wire Line
 	5500 4600 4450 4600
-Wire Wire Line
-	6300 3000 6700 3000
-Wire Wire Line
-	6700 2900 6300 2900
-Wire Wire Line
-	6300 2800 6700 2800
-$Sheet
-S 6700 2750 600  350 
-U 5EC33E3D
-F0 "RGB" 50
-F1 "RGB.sch" 50
-F2 "SCL" I L 6700 2800 50 
-F3 "SDA" I L 6700 2900 50 
-F4 "LED_EN_PIN" I L 6700 3000 50 
-$EndSheet
 $EndSCHEMATC
