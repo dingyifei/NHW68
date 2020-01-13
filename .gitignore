@@ -26,4 +26,4 @@ fp-info-cache
 *.csv
 
 # output
-\output
+hardware\PCB\output
