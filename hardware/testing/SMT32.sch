@@ -372,12 +372,12 @@ Wire Wire Line
 	5600 2550 6400 2550
 Connection ~ 5600 2550
 $Comp
-L Switch:SW_DIP_x01 SW1
+L Switch:SW_DIP_x01 SW_debug_1
 U 1 1 5E234436
 P 5600 2250
-F 0 "SW1" V 5554 2380 50  0000 L CNN
+F 0 "SW_debug_1" V 5554 2380 50  0000 L CNN
 F 1 "SW_DIP_x01" V 5645 2380 50  0000 L CNN
-F 2 "Button_Switch_SMD:SW_SPST_B3U-1000P" H 5600 2250 50  0001 C CNN
+F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 5600 2250 50  0001 C CNN
 F 3 "~" H 5600 2250 50  0001 C CNN
 	1    5600 2250
 	0    1    1    0   
@@ -490,10 +490,7 @@ Text HLabel 6400 4150 0    50   Input ~ 0
 ROW5
 Text HLabel 6400 4050 0    50   Input ~ 0
 ROW4
-NoConn ~ 7700 4450
 NoConn ~ 6400 5150
-Text HLabel 7700 4950 2    50   Input ~ 0
-LED_EN_PIN
 Wire Wire Line
 	1500 2550 1600 2550
 Connection ~ 1600 2550
@@ -603,7 +600,7 @@ U 1 1 5E1E444E
 P 1950 1750
 F 0 "TP2" H 2008 1868 50  0000 L CNN
 F 1 "TestPoint" H 2008 1777 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 2150 1750 50  0001 C CNN
+F 2 "TestPoint:TestPoint_Pad_D2.0mm" H 2150 1750 50  0001 C CNN
 F 3 "~" H 2150 1750 50  0001 C CNN
 	1    1950 1750
 	1    0    0    -1  
@@ -614,7 +611,7 @@ U 1 1 5E1E5748
 P 1500 2550
 F 0 "TP1" H 1558 2668 50  0000 L CNN
 F 1 "TestPoint" H 1558 2577 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 1700 2550 50  0001 C CNN
+F 2 "TestPoint:TestPoint_Pad_D2.0mm" H 1700 2550 50  0001 C CNN
 F 3 "~" H 1700 2550 50  0001 C CNN
 	1    1500 2550
 	-1   0    0    1   
@@ -635,7 +632,7 @@ U 1 1 5E20237D
 P 4100 5750
 F 0 "TP5" H 4158 5868 50  0000 L CNN
 F 1 "TestPoint" H 4158 5777 50  0000 L CNN
-F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 4300 5750 50  0001 C CNN
+F 2 "TestPoint:TestPoint_Pad_D2.0mm" H 4300 5750 50  0001 C CNN
 F 3 "~" H 4300 5750 50  0001 C CNN
 	1    4100 5750
 	1    0    0    -1  
@@ -691,4 +688,89 @@ Wire Wire Line
 	2150 2150 2300 2150
 Wire Wire Line
 	1900 2250 2300 2250
+NoConn ~ 6400 4850
+NoConn ~ 6400 4950
+NoConn ~ 6400 5050
+NoConn ~ 7700 4950
+$Comp
+L Connector:TestPoint TP3
+U 1 1 5E6FF36A
+P 7700 4650
+F 0 "TP3" V 7654 4838 50  0000 L CNN
+F 1 "TestPoint" V 7745 4838 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_D2.0mm" H 7900 4650 50  0001 C CNN
+F 3 "~" H 7900 4650 50  0001 C CNN
+	1    7700 4650
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 5E7013A0
+P 8250 4400
+F 0 "R1" H 8320 4446 50  0000 L CNN
+F 1 "100K" H 8320 4355 50  0000 L CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 8180 4400 50  0001 C CNN
+F 3 "~" H 8250 4400 50  0001 C CNN
+	1    8250 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 5E70217F
+P 8550 4300
+F 0 "R2" H 8620 4346 50  0000 L CNN
+F 1 "100K" H 8620 4255 50  0000 L CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 8480 4300 50  0001 C CNN
+F 3 "~" H 8550 4300 50  0001 C CNN
+	1    8550 4300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8550 4450 7700 4450
+Wire Wire Line
+	8250 4550 7700 4550
+$Comp
+L power:+3.3V #PWR01
+U 1 1 5E70AB05
+P 8250 4250
+F 0 "#PWR01" H 8250 4100 50  0001 C CNN
+F 1 "+3.3V" H 8265 4423 50  0000 C CNN
+F 2 "" H 8250 4250 50  0001 C CNN
+F 3 "" H 8250 4250 50  0001 C CNN
+	1    8250 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR02
+U 1 1 5E70B726
+P 8550 4150
+F 0 "#PWR02" H 8550 4000 50  0001 C CNN
+F 1 "+3.3V" H 8565 4323 50  0000 C CNN
+F 2 "" H 8550 4150 50  0001 C CNN
+F 3 "" H 8550 4150 50  0001 C CNN
+	1    8550 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP4
+U 1 1 5E70E403
+P 8250 4550
+F 0 "TP4" V 8204 4738 50  0000 L CNN
+F 1 "TestPoint" V 8295 4738 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_D2.0mm" H 8450 4550 50  0001 C CNN
+F 3 "~" H 8450 4550 50  0001 C CNN
+	1    8250 4550
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:TestPoint TP6
+U 1 1 5E70FA5A
+P 8550 4450
+F 0 "TP6" V 8504 4638 50  0000 L CNN
+F 1 "TestPoint" V 8595 4638 50  0000 L CNN
+F 2 "TestPoint:TestPoint_Pad_D2.0mm" H 8750 4450 50  0001 C CNN
+F 3 "~" H 8750 4450 50  0001 C CNN
+	1    8550 4450
+	0    1    1    0   
+$EndComp
 $EndSCHEMATC

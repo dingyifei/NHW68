@@ -46,9 +46,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E36516E
 P 1350 3050
 AR Path="/5E36516E" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E36516E" Ref="CherryMX3"  Part="1" 
-F 0 "CherryMX3" H 1350 3285 50  0000 C CNN
-F 1 "SW_SPST" H 1350 3194 50  0000 C CNN
+AR Path="/5E25E984/5E36516E" Ref="SW3"  Part="1" 
+F 0 "SW3" H 1350 3285 50  0000 C CNN
+F 1 "CherryMX" H 1350 3194 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 1350 3050 50  0001 C CNN
 F 3 "~" H 1350 3050 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 1350 3050 50  0001 C CNN "Footprint"
@@ -74,9 +74,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E36517A
 P 1350 4000
 AR Path="/5E36517A" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E36517A" Ref="CherryMX4"  Part="1" 
-F 0 "CherryMX4" H 1350 4235 50  0000 C CNN
-F 1 "SW_SPST" H 1350 4144 50  0000 C CNN
+AR Path="/5E25E984/5E36517A" Ref="SW4"  Part="1" 
+F 0 "SW4" H 1350 4235 50  0000 C CNN
+F 1 "CherryMX" H 1350 4144 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 1350 4000 50  0001 C CNN
 F 3 "~" H 1350 4000 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 1350 4000 50  0001 C CNN "Footprint"
@@ -102,9 +102,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E365186
 P 1350 4950
 AR Path="/5E365186" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E365186" Ref="CherryMX5"  Part="1" 
-F 0 "CherryMX5" H 1350 5185 50  0000 C CNN
-F 1 "SW_SPST" H 1350 5094 50  0000 C CNN
+AR Path="/5E25E984/5E365186" Ref="SW5"  Part="1" 
+F 0 "SW5" H 1350 5185 50  0000 C CNN
+F 1 "CherryMX" H 1350 5094 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 1350 4950 50  0001 C CNN
 F 3 "~" H 1350 4950 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 1350 4950 50  0001 C CNN "Footprint"
@@ -158,9 +158,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3DB278
 P 1850 3050
 AR Path="/5E3DB278" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3DB278" Ref="CherryMX8"  Part="1" 
-F 0 "CherryMX8" H 1850 3285 50  0000 C CNN
-F 1 "SW_SPST" H 1850 3194 50  0000 C CNN
+AR Path="/5E25E984/5E3DB278" Ref="SW8"  Part="1" 
+F 0 "SW8" H 1850 3285 50  0000 C CNN
+F 1 "CherryMX" H 1850 3194 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 1850 3050 50  0001 C CNN
 F 3 "~" H 1850 3050 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 1850 3050 50  0001 C CNN "Footprint"
@@ -186,9 +186,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3DB284
 P 1850 4000
 AR Path="/5E3DB284" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3DB284" Ref="CherryMX9"  Part="1" 
-F 0 "CherryMX9" H 1850 4235 50  0000 C CNN
-F 1 "SW_SPST" H 1850 4144 50  0000 C CNN
+AR Path="/5E25E984/5E3DB284" Ref="SW9"  Part="1" 
+F 0 "SW9" H 1850 4235 50  0000 C CNN
+F 1 "CherryMX" H 1850 4144 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 1850 4000 50  0001 C CNN
 F 3 "~" H 1850 4000 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 1850 4000 50  0001 C CNN "Footprint"
@@ -214,9 +214,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3DB290
 P 1850 4950
 AR Path="/5E3DB290" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3DB290" Ref="CherryMX10"  Part="1" 
-F 0 "CherryMX10" H 1850 5185 50  0000 C CNN
-F 1 "SW_SPST" H 1850 5094 50  0000 C CNN
+AR Path="/5E25E984/5E3DB290" Ref="SW10"  Part="1" 
+F 0 "SW10" H 1850 5185 50  0000 C CNN
+F 1 "CherryMX" H 1850 5094 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 1850 4950 50  0001 C CNN
 F 3 "~" H 1850 4950 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 1850 4950 50  0001 C CNN "Footprint"
@@ -270,9 +270,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3DB2C0
 P 2350 3050
 AR Path="/5E3DB2C0" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3DB2C0" Ref="CherryMX13"  Part="1" 
-F 0 "CherryMX13" H 2350 3285 50  0000 C CNN
-F 1 "SW_SPST" H 2350 3194 50  0000 C CNN
+AR Path="/5E25E984/5E3DB2C0" Ref="SW13"  Part="1" 
+F 0 "SW13" H 2350 3285 50  0000 C CNN
+F 1 "CherryMX" H 2350 3194 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 2350 3050 50  0001 C CNN
 F 3 "~" H 2350 3050 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 2350 3050 50  0001 C CNN "Footprint"
@@ -298,9 +298,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3DB2CC
 P 2350 4000
 AR Path="/5E3DB2CC" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3DB2CC" Ref="CherryMX14"  Part="1" 
-F 0 "CherryMX14" H 2350 4235 50  0000 C CNN
-F 1 "SW_SPST" H 2350 4144 50  0000 C CNN
+AR Path="/5E25E984/5E3DB2CC" Ref="SW14"  Part="1" 
+F 0 "SW14" H 2350 4235 50  0000 C CNN
+F 1 "CherryMX" H 2350 4144 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 2350 4000 50  0001 C CNN
 F 3 "~" H 2350 4000 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 2350 4000 50  0001 C CNN "Footprint"
@@ -326,9 +326,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3DB2D8
 P 2350 4950
 AR Path="/5E3DB2D8" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3DB2D8" Ref="CherryMX15"  Part="1" 
-F 0 "CherryMX15" H 2350 5185 50  0000 C CNN
-F 1 "SW_SPST" H 2350 5094 50  0000 C CNN
+AR Path="/5E25E984/5E3DB2D8" Ref="SW15"  Part="1" 
+F 0 "SW15" H 2350 5185 50  0000 C CNN
+F 1 "CherryMX" H 2350 5094 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 2350 4950 50  0001 C CNN
 F 3 "~" H 2350 4950 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 2350 4950 50  0001 C CNN "Footprint"
@@ -382,9 +382,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3FD3AC
 P 2850 3050
 AR Path="/5E3FD3AC" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3FD3AC" Ref="CherryMX18"  Part="1" 
-F 0 "CherryMX18" H 2850 3285 50  0000 C CNN
-F 1 "SW_SPST" H 2850 3194 50  0000 C CNN
+AR Path="/5E25E984/5E3FD3AC" Ref="SW18"  Part="1" 
+F 0 "SW18" H 2850 3285 50  0000 C CNN
+F 1 "CherryMX" H 2850 3194 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 2850 3050 50  0001 C CNN
 F 3 "~" H 2850 3050 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 2850 3050 50  0001 C CNN "Footprint"
@@ -410,9 +410,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3FD3B8
 P 2850 4000
 AR Path="/5E3FD3B8" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3FD3B8" Ref="CherryMX19"  Part="1" 
-F 0 "CherryMX19" H 2850 4235 50  0000 C CNN
-F 1 "SW_SPST" H 2850 4144 50  0000 C CNN
+AR Path="/5E25E984/5E3FD3B8" Ref="SW19"  Part="1" 
+F 0 "SW19" H 2850 4235 50  0000 C CNN
+F 1 "CherryMX" H 2850 4144 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 2850 4000 50  0001 C CNN
 F 3 "~" H 2850 4000 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 2850 4000 50  0001 C CNN "Footprint"
@@ -438,9 +438,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3FD3C4
 P 2850 4950
 AR Path="/5E3FD3C4" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3FD3C4" Ref="CherryMX20"  Part="1" 
-F 0 "CherryMX20" H 2850 5185 50  0000 C CNN
-F 1 "SW_SPST" H 2850 5094 50  0000 C CNN
+AR Path="/5E25E984/5E3FD3C4" Ref="SW20"  Part="1" 
+F 0 "SW20" H 2850 5185 50  0000 C CNN
+F 1 "CherryMX" H 2850 5094 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 2850 4950 50  0001 C CNN
 F 3 "~" H 2850 4950 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 2850 4950 50  0001 C CNN "Footprint"
@@ -494,9 +494,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3FD3F4
 P 3350 3050
 AR Path="/5E3FD3F4" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3FD3F4" Ref="CherryMX23"  Part="1" 
-F 0 "CherryMX23" H 3350 3285 50  0000 C CNN
-F 1 "SW_SPST" H 3350 3194 50  0000 C CNN
+AR Path="/5E25E984/5E3FD3F4" Ref="SW23"  Part="1" 
+F 0 "SW23" H 3350 3285 50  0000 C CNN
+F 1 "CherryMX" H 3350 3194 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 3350 3050 50  0001 C CNN
 F 3 "~" H 3350 3050 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 3350 3050 50  0001 C CNN "Footprint"
@@ -522,9 +522,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3FD400
 P 3350 4000
 AR Path="/5E3FD400" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3FD400" Ref="CherryMX24"  Part="1" 
-F 0 "CherryMX24" H 3350 4235 50  0000 C CNN
-F 1 "SW_SPST" H 3350 4144 50  0000 C CNN
+AR Path="/5E25E984/5E3FD400" Ref="SW24"  Part="1" 
+F 0 "SW24" H 3350 4235 50  0000 C CNN
+F 1 "CherryMX" H 3350 4144 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 3350 4000 50  0001 C CNN
 F 3 "~" H 3350 4000 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 3350 4000 50  0001 C CNN "Footprint"
@@ -550,9 +550,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3FD40C
 P 3350 4950
 AR Path="/5E3FD40C" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3FD40C" Ref="CherryMX25"  Part="1" 
-F 0 "CherryMX25" H 3350 5185 50  0000 C CNN
-F 1 "SW_SPST" H 3350 5094 50  0000 C CNN
+AR Path="/5E25E984/5E3FD40C" Ref="SW25"  Part="1" 
+F 0 "SW25" H 3350 5185 50  0000 C CNN
+F 1 "CherryMX" H 3350 5094 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 3350 4950 50  0001 C CNN
 F 3 "~" H 3350 4950 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 3350 4950 50  0001 C CNN "Footprint"
@@ -592,9 +592,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3FD430
 P 3850 2100
 AR Path="/5E3FD430" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3FD430" Ref="CherryMX27"  Part="1" 
-F 0 "CherryMX27" H 3850 2335 50  0000 C CNN
-F 1 "SW_SPST" H 3850 2244 50  0000 C CNN
+AR Path="/5E25E984/5E3FD430" Ref="SW27"  Part="1" 
+F 0 "SW27" H 3850 2335 50  0000 C CNN
+F 1 "CherryMX" H 3850 2244 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 3850 2100 50  0001 C CNN
 F 3 "~" H 3850 2100 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 3850 2100 50  0001 C CNN "Footprint"
@@ -620,9 +620,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3FD43C
 P 3850 3050
 AR Path="/5E3FD43C" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3FD43C" Ref="CherryMX28"  Part="1" 
-F 0 "CherryMX28" H 3850 3285 50  0000 C CNN
-F 1 "SW_SPST" H 3850 3194 50  0000 C CNN
+AR Path="/5E25E984/5E3FD43C" Ref="SW28"  Part="1" 
+F 0 "SW28" H 3850 3285 50  0000 C CNN
+F 1 "CherryMX" H 3850 3194 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 3850 3050 50  0001 C CNN
 F 3 "~" H 3850 3050 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 3850 3050 50  0001 C CNN "Footprint"
@@ -648,9 +648,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3FD448
 P 3850 4000
 AR Path="/5E3FD448" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3FD448" Ref="CherryMX29"  Part="1" 
-F 0 "CherryMX29" H 3850 4235 50  0000 C CNN
-F 1 "SW_SPST" H 3850 4144 50  0000 C CNN
+AR Path="/5E25E984/5E3FD448" Ref="SW29"  Part="1" 
+F 0 "SW29" H 3850 4235 50  0000 C CNN
+F 1 "CherryMX" H 3850 4144 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 3850 4000 50  0001 C CNN
 F 3 "~" H 3850 4000 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 3850 4000 50  0001 C CNN "Footprint"
@@ -676,9 +676,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3FD454
 P 3850 4950
 AR Path="/5E3FD454" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3FD454" Ref="CherryMX30"  Part="1" 
-F 0 "CherryMX30" H 3850 5185 50  0000 C CNN
-F 1 "SW_SPST" H 3850 5094 50  0000 C CNN
+AR Path="/5E25E984/5E3FD454" Ref="SW30"  Part="1" 
+F 0 "SW30" H 3850 5185 50  0000 C CNN
+F 1 "CherryMX" H 3850 5094 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 3850 4950 50  0001 C CNN
 F 3 "~" H 3850 4950 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 3850 4950 50  0001 C CNN "Footprint"
@@ -718,9 +718,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3FD478
 P 4350 2100
 AR Path="/5E3FD478" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3FD478" Ref="CherryMX32"  Part="1" 
-F 0 "CherryMX32" H 4350 2335 50  0000 C CNN
-F 1 "SW_SPST" H 4350 2244 50  0000 C CNN
+AR Path="/5E25E984/5E3FD478" Ref="SW32"  Part="1" 
+F 0 "SW32" H 4350 2335 50  0000 C CNN
+F 1 "CherryMX" H 4350 2244 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 4350 2100 50  0001 C CNN
 F 3 "~" H 4350 2100 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 4350 2100 50  0001 C CNN "Footprint"
@@ -746,9 +746,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3FD484
 P 4350 3050
 AR Path="/5E3FD484" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3FD484" Ref="CherryMX33"  Part="1" 
-F 0 "CherryMX33" H 4350 3285 50  0000 C CNN
-F 1 "SW_SPST" H 4350 3194 50  0000 C CNN
+AR Path="/5E25E984/5E3FD484" Ref="SW33"  Part="1" 
+F 0 "SW33" H 4350 3285 50  0000 C CNN
+F 1 "CherryMX" H 4350 3194 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 4350 3050 50  0001 C CNN
 F 3 "~" H 4350 3050 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 4350 3050 50  0001 C CNN "Footprint"
@@ -774,9 +774,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3FD490
 P 4350 4000
 AR Path="/5E3FD490" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3FD490" Ref="CherryMX34"  Part="1" 
-F 0 "CherryMX34" H 4350 4235 50  0000 C CNN
-F 1 "SW_SPST" H 4350 4144 50  0000 C CNN
+AR Path="/5E25E984/5E3FD490" Ref="SW34"  Part="1" 
+F 0 "SW34" H 4350 4235 50  0000 C CNN
+F 1 "CherryMX" H 4350 4144 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 4350 4000 50  0001 C CNN
 F 3 "~" H 4350 4000 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 4350 4000 50  0001 C CNN "Footprint"
@@ -1068,26 +1068,6 @@ Wire Wire Line
 Wire Wire Line
 	11100 6500 1200 6500
 Wire Wire Line
-	11100 950  11100 6500
-Wire Wire Line
-	11000 950  11000 6450
-Wire Wire Line
-	10900 950  10900 6400
-Wire Wire Line
-	10800 950  10800 6350
-Wire Wire Line
-	10700 950  10700 6300
-Wire Wire Line
-	10600 950  10600 6250
-Wire Wire Line
-	10500 950  10500 6200
-Wire Wire Line
-	10400 950  10400 6150
-Wire Wire Line
-	10300 950  10300 6100
-Wire Wire Line
-	10200 950  10200 6050
-Wire Wire Line
 	10100 950  10100 6000
 Wire Wire Line
 	10000 950  10000 5950
@@ -1150,9 +1130,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F124
 P 4850 4950
 AR Path="/5E44F124" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F124" Ref="CherryMX39"  Part="1" 
-F 0 "CherryMX39" H 4850 5185 50  0000 C CNN
-F 1 "SW_SPST" H 4850 5094 50  0000 C CNN
+AR Path="/5E25E984/5E44F124" Ref="SW39"  Part="1" 
+F 0 "SW39" H 4850 5185 50  0000 C CNN
+F 1 "CherryMX" H 4850 5094 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 4850 4950 50  0001 C CNN
 F 3 "~" H 4850 4950 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 4850 4950 50  0001 C CNN "Footprint"
@@ -1178,9 +1158,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F118
 P 4850 4000
 AR Path="/5E44F118" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F118" Ref="CherryMX38"  Part="1" 
-F 0 "CherryMX38" H 4850 4235 50  0000 C CNN
-F 1 "SW_SPST" H 4850 4144 50  0000 C CNN
+AR Path="/5E25E984/5E44F118" Ref="SW38"  Part="1" 
+F 0 "SW38" H 4850 4235 50  0000 C CNN
+F 1 "CherryMX" H 4850 4144 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 4850 4000 50  0001 C CNN
 F 3 "~" H 4850 4000 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 4850 4000 50  0001 C CNN "Footprint"
@@ -1206,9 +1186,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F10C
 P 4850 3050
 AR Path="/5E44F10C" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F10C" Ref="CherryMX37"  Part="1" 
-F 0 "CherryMX37" H 4850 3285 50  0000 C CNN
-F 1 "SW_SPST" H 4850 3194 50  0000 C CNN
+AR Path="/5E25E984/5E44F10C" Ref="SW37"  Part="1" 
+F 0 "SW37" H 4850 3285 50  0000 C CNN
+F 1 "CherryMX" H 4850 3194 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 4850 3050 50  0001 C CNN
 F 3 "~" H 4850 3050 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 4850 3050 50  0001 C CNN "Footprint"
@@ -1234,9 +1214,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F100
 P 4850 2100
 AR Path="/5E44F100" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F100" Ref="CherryMX36"  Part="1" 
-F 0 "CherryMX36" H 4850 2335 50  0000 C CNN
-F 1 "SW_SPST" H 4850 2244 50  0000 C CNN
+AR Path="/5E25E984/5E44F100" Ref="SW36"  Part="1" 
+F 0 "SW36" H 4850 2335 50  0000 C CNN
+F 1 "CherryMX" H 4850 2244 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 4850 2100 50  0001 C CNN
 F 3 "~" H 4850 2100 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 4850 2100 50  0001 C CNN "Footprint"
@@ -1422,9 +1402,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F2D4
 P 7850 4950
 AR Path="/5E44F2D4" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F2D4" Ref="CherryMX68"  Part="1" 
-F 0 "CherryMX68" H 7850 5185 50  0000 C CNN
-F 1 "SW_SPST" H 7850 5094 50  0000 C CNN
+AR Path="/5E25E984/5E44F2D4" Ref="SW68"  Part="1" 
+F 0 "SW68" H 7850 5185 50  0000 C CNN
+F 1 "CherryMX" H 7850 5094 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 7850 4950 50  0001 C CNN
 F 3 "~" H 7850 4950 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 7850 4950 50  0001 C CNN "Footprint"
@@ -1453,9 +1433,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F2C8
 P 7850 4000
 AR Path="/5E44F2C8" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F2C8" Ref="CherryMX67"  Part="1" 
-F 0 "CherryMX67" H 7850 4235 50  0000 C CNN
-F 1 "SW_SPST" H 7850 4144 50  0000 C CNN
+AR Path="/5E25E984/5E44F2C8" Ref="SW67"  Part="1" 
+F 0 "SW67" H 7850 4235 50  0000 C CNN
+F 1 "CherryMX" H 7850 4144 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 7850 4000 50  0001 C CNN
 F 3 "~" H 7850 4000 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 7850 4000 50  0001 C CNN "Footprint"
@@ -1484,9 +1464,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F2B0
 P 7850 2100
 AR Path="/5E44F2B0" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F2B0" Ref="CherryMX66"  Part="1" 
-F 0 "CherryMX66" H 7850 2335 50  0000 C CNN
-F 1 "SW_SPST" H 7850 2244 50  0000 C CNN
+AR Path="/5E25E984/5E44F2B0" Ref="SW66"  Part="1" 
+F 0 "SW66" H 7850 2335 50  0000 C CNN
+F 1 "CherryMX" H 7850 2244 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 7850 2100 50  0001 C CNN
 F 3 "~" H 7850 2100 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 7850 2100 50  0001 C CNN "Footprint"
@@ -1529,9 +1509,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F28C
 P 7350 4950
 AR Path="/5E44F28C" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F28C" Ref="CherryMX64"  Part="1" 
-F 0 "CherryMX64" H 7350 5185 50  0000 C CNN
-F 1 "SW_SPST" H 7350 5094 50  0000 C CNN
+AR Path="/5E25E984/5E44F28C" Ref="SW64"  Part="1" 
+F 0 "SW64" H 7350 5185 50  0000 C CNN
+F 1 "CherryMX" H 7350 5094 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 7350 4950 50  0001 C CNN
 F 3 "~" H 7350 4950 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 7350 4950 50  0001 C CNN "Footprint"
@@ -1560,9 +1540,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F280
 P 7350 4000
 AR Path="/5E44F280" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F280" Ref="CherryMX63"  Part="1" 
-F 0 "CherryMX63" H 7350 4235 50  0000 C CNN
-F 1 "SW_SPST" H 7350 4144 50  0000 C CNN
+AR Path="/5E25E984/5E44F280" Ref="SW63"  Part="1" 
+F 0 "SW63" H 7350 4235 50  0000 C CNN
+F 1 "CherryMX" H 7350 4144 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 7350 4000 50  0001 C CNN
 F 3 "~" H 7350 4000 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 7350 4000 50  0001 C CNN "Footprint"
@@ -1591,9 +1571,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F274
 P 7350 3050
 AR Path="/5E44F274" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F274" Ref="CherryMX62"  Part="1" 
-F 0 "CherryMX62" H 7350 3285 50  0000 C CNN
-F 1 "SW_SPST" H 7350 3194 50  0000 C CNN
+AR Path="/5E25E984/5E44F274" Ref="SW62"  Part="1" 
+F 0 "SW62" H 7350 3285 50  0000 C CNN
+F 1 "CherryMX" H 7350 3194 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 7350 3050 50  0001 C CNN
 F 3 "~" H 7350 3050 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 7350 3050 50  0001 C CNN "Footprint"
@@ -1622,9 +1602,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F268
 P 7350 2100
 AR Path="/5E44F268" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F268" Ref="CherryMX61"  Part="1" 
-F 0 "CherryMX61" H 7350 2335 50  0000 C CNN
-F 1 "SW_SPST" H 7350 2244 50  0000 C CNN
+AR Path="/5E25E984/5E44F268" Ref="SW61"  Part="1" 
+F 0 "SW61" H 7350 2335 50  0000 C CNN
+F 1 "CherryMX" H 7350 2244 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 7350 2100 50  0001 C CNN
 F 3 "~" H 7350 2100 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 7350 2100 50  0001 C CNN "Footprint"
@@ -1667,9 +1647,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F244
 P 6850 4950
 AR Path="/5E44F244" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F244" Ref="CherryMX59"  Part="1" 
-F 0 "CherryMX59" H 6850 5185 50  0000 C CNN
-F 1 "SW_SPST" H 6850 5094 50  0000 C CNN
+AR Path="/5E25E984/5E44F244" Ref="SW59"  Part="1" 
+F 0 "SW59" H 6850 5185 50  0000 C CNN
+F 1 "CherryMX" H 6850 5094 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 6850 4950 50  0001 C CNN
 F 3 "~" H 6850 4950 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 6850 4950 50  0001 C CNN "Footprint"
@@ -1698,9 +1678,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F238
 P 6850 4000
 AR Path="/5E44F238" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F238" Ref="CherryMX58"  Part="1" 
-F 0 "CherryMX58" H 6850 4235 50  0000 C CNN
-F 1 "SW_SPST" H 6850 4144 50  0000 C CNN
+AR Path="/5E25E984/5E44F238" Ref="SW58"  Part="1" 
+F 0 "SW58" H 6850 4235 50  0000 C CNN
+F 1 "CherryMX" H 6850 4144 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 6850 4000 50  0001 C CNN
 F 3 "~" H 6850 4000 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 6850 4000 50  0001 C CNN "Footprint"
@@ -1729,9 +1709,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F22C
 P 6850 3050
 AR Path="/5E44F22C" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F22C" Ref="CherryMX57"  Part="1" 
-F 0 "CherryMX57" H 6850 3285 50  0000 C CNN
-F 1 "SW_SPST" H 6850 3194 50  0000 C CNN
+AR Path="/5E25E984/5E44F22C" Ref="SW57"  Part="1" 
+F 0 "SW57" H 6850 3285 50  0000 C CNN
+F 1 "CherryMX" H 6850 3194 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 6850 3050 50  0001 C CNN
 F 3 "~" H 6850 3050 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 6850 3050 50  0001 C CNN "Footprint"
@@ -1760,9 +1740,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F220
 P 6850 2100
 AR Path="/5E44F220" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F220" Ref="CherryMX56"  Part="1" 
-F 0 "CherryMX56" H 6850 2335 50  0000 C CNN
-F 1 "SW_SPST" H 6850 2244 50  0000 C CNN
+AR Path="/5E25E984/5E44F220" Ref="SW56"  Part="1" 
+F 0 "SW56" H 6850 2335 50  0000 C CNN
+F 1 "CherryMX" H 6850 2244 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 6850 2100 50  0001 C CNN
 F 3 "~" H 6850 2100 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 6850 2100 50  0001 C CNN "Footprint"
@@ -1805,9 +1785,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F1FC
 P 6350 4950
 AR Path="/5E44F1FC" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F1FC" Ref="CherryMX54"  Part="1" 
-F 0 "CherryMX54" H 6350 5185 50  0000 C CNN
-F 1 "SW_SPST" H 6350 5094 50  0000 C CNN
+AR Path="/5E25E984/5E44F1FC" Ref="SW54"  Part="1" 
+F 0 "SW54" H 6350 5185 50  0000 C CNN
+F 1 "CherryMX" H 6350 5094 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 6350 4950 50  0001 C CNN
 F 3 "~" H 6350 4950 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 6350 4950 50  0001 C CNN "Footprint"
@@ -1836,9 +1816,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F1F0
 P 6350 4000
 AR Path="/5E44F1F0" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F1F0" Ref="CherryMX53"  Part="1" 
-F 0 "CherryMX53" H 6350 4235 50  0000 C CNN
-F 1 "SW_SPST" H 6350 4144 50  0000 C CNN
+AR Path="/5E25E984/5E44F1F0" Ref="SW53"  Part="1" 
+F 0 "SW53" H 6350 4235 50  0000 C CNN
+F 1 "CherryMX" H 6350 4144 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 6350 4000 50  0001 C CNN
 F 3 "~" H 6350 4000 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 6350 4000 50  0001 C CNN "Footprint"
@@ -1867,9 +1847,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F1E4
 P 6350 3050
 AR Path="/5E44F1E4" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F1E4" Ref="CherryMX52"  Part="1" 
-F 0 "CherryMX52" H 6350 3285 50  0000 C CNN
-F 1 "SW_SPST" H 6350 3194 50  0000 C CNN
+AR Path="/5E25E984/5E44F1E4" Ref="SW52"  Part="1" 
+F 0 "SW52" H 6350 3285 50  0000 C CNN
+F 1 "CherryMX" H 6350 3194 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 6350 3050 50  0001 C CNN
 F 3 "~" H 6350 3050 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 6350 3050 50  0001 C CNN "Footprint"
@@ -1898,9 +1878,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F1D8
 P 6350 2100
 AR Path="/5E44F1D8" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F1D8" Ref="CherryMX51"  Part="1" 
-F 0 "CherryMX51" H 6350 2335 50  0000 C CNN
-F 1 "SW_SPST" H 6350 2244 50  0000 C CNN
+AR Path="/5E25E984/5E44F1D8" Ref="SW51"  Part="1" 
+F 0 "SW51" H 6350 2335 50  0000 C CNN
+F 1 "CherryMX" H 6350 2244 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 6350 2100 50  0001 C CNN
 F 3 "~" H 6350 2100 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 6350 2100 50  0001 C CNN "Footprint"
@@ -1943,9 +1923,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F1B4
 P 5850 4950
 AR Path="/5E44F1B4" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F1B4" Ref="CherryMX49"  Part="1" 
-F 0 "CherryMX49" H 5850 5185 50  0000 C CNN
-F 1 "SW_SPST" H 5850 5094 50  0000 C CNN
+AR Path="/5E25E984/5E44F1B4" Ref="SW49"  Part="1" 
+F 0 "SW49" H 5850 5185 50  0000 C CNN
+F 1 "CherryMX" H 5850 5094 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 5850 4950 50  0001 C CNN
 F 3 "~" H 5850 4950 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 5850 4950 50  0001 C CNN "Footprint"
@@ -1974,9 +1954,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F1A8
 P 5850 4000
 AR Path="/5E44F1A8" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F1A8" Ref="CherryMX48"  Part="1" 
-F 0 "CherryMX48" H 5850 4235 50  0000 C CNN
-F 1 "SW_SPST" H 5850 4144 50  0000 C CNN
+AR Path="/5E25E984/5E44F1A8" Ref="SW48"  Part="1" 
+F 0 "SW48" H 5850 4235 50  0000 C CNN
+F 1 "CherryMX" H 5850 4144 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 5850 4000 50  0001 C CNN
 F 3 "~" H 5850 4000 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 5850 4000 50  0001 C CNN "Footprint"
@@ -2005,9 +1985,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F19C
 P 5850 3050
 AR Path="/5E44F19C" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F19C" Ref="CherryMX47"  Part="1" 
-F 0 "CherryMX47" H 5850 3285 50  0000 C CNN
-F 1 "SW_SPST" H 5850 3194 50  0000 C CNN
+AR Path="/5E25E984/5E44F19C" Ref="SW47"  Part="1" 
+F 0 "SW47" H 5850 3285 50  0000 C CNN
+F 1 "CherryMX" H 5850 3194 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 5850 3050 50  0001 C CNN
 F 3 "~" H 5850 3050 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 5850 3050 50  0001 C CNN "Footprint"
@@ -2036,9 +2016,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F190
 P 5850 2100
 AR Path="/5E44F190" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F190" Ref="CherryMX46"  Part="1" 
-F 0 "CherryMX46" H 5850 2335 50  0000 C CNN
-F 1 "SW_SPST" H 5850 2244 50  0000 C CNN
+AR Path="/5E25E984/5E44F190" Ref="SW46"  Part="1" 
+F 0 "SW46" H 5850 2335 50  0000 C CNN
+F 1 "CherryMX" H 5850 2244 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 5850 2100 50  0001 C CNN
 F 3 "~" H 5850 2100 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 5850 2100 50  0001 C CNN "Footprint"
@@ -2083,9 +2063,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F16C
 P 5350 4950
 AR Path="/5E44F16C" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F16C" Ref="CherryMX44"  Part="1" 
-F 0 "CherryMX44" H 5350 5185 50  0000 C CNN
-F 1 "SW_SPST" H 5350 5094 50  0000 C CNN
+AR Path="/5E25E984/5E44F16C" Ref="SW44"  Part="1" 
+F 0 "SW44" H 5350 5185 50  0000 C CNN
+F 1 "CherryMX" H 5350 5094 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 5350 4950 50  0001 C CNN
 F 3 "~" H 5350 4950 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 5350 4950 50  0001 C CNN "Footprint"
@@ -2116,9 +2096,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F160
 P 5350 4000
 AR Path="/5E44F160" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F160" Ref="CherryMX43"  Part="1" 
-F 0 "CherryMX43" H 5350 4235 50  0000 C CNN
-F 1 "SW_SPST" H 5350 4144 50  0000 C CNN
+AR Path="/5E25E984/5E44F160" Ref="SW43"  Part="1" 
+F 0 "SW43" H 5350 4235 50  0000 C CNN
+F 1 "CherryMX" H 5350 4144 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 5350 4000 50  0001 C CNN
 F 3 "~" H 5350 4000 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 5350 4000 50  0001 C CNN "Footprint"
@@ -2149,9 +2129,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F154
 P 5350 3050
 AR Path="/5E44F154" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F154" Ref="CherryMX42"  Part="1" 
-F 0 "CherryMX42" H 5350 3285 50  0000 C CNN
-F 1 "SW_SPST" H 5350 3194 50  0000 C CNN
+AR Path="/5E25E984/5E44F154" Ref="SW42"  Part="1" 
+F 0 "SW42" H 5350 3285 50  0000 C CNN
+F 1 "CherryMX" H 5350 3194 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 5350 3050 50  0001 C CNN
 F 3 "~" H 5350 3050 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 5350 3050 50  0001 C CNN "Footprint"
@@ -2182,9 +2162,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F148
 P 5350 2100
 AR Path="/5E44F148" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F148" Ref="CherryMX41"  Part="1" 
-F 0 "CherryMX41" H 5350 2335 50  0000 C CNN
-F 1 "SW_SPST" H 5350 2244 50  0000 C CNN
+AR Path="/5E25E984/5E44F148" Ref="SW41"  Part="1" 
+F 0 "SW41" H 5350 2335 50  0000 C CNN
+F 1 "CherryMX" H 5350 2244 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 5350 2100 50  0001 C CNN
 F 3 "~" H 5350 2100 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 5350 2100 50  0001 C CNN "Footprint"
@@ -2231,9 +2211,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3FD3E8
 P 3350 2100
 AR Path="/5E3FD3E8" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3FD3E8" Ref="CherryMX22"  Part="1" 
-F 0 "CherryMX22" H 3350 2335 50  0000 C CNN
-F 1 "SW_SPST" H 3350 2244 50  0000 C CNN
+AR Path="/5E25E984/5E3FD3E8" Ref="SW22"  Part="1" 
+F 0 "SW22" H 3350 2335 50  0000 C CNN
+F 1 "CherryMX" H 3350 2244 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 3350 2100 50  0001 C CNN
 F 3 "~" H 3350 2100 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 3350 2100 50  0001 C CNN "Footprint"
@@ -2248,9 +2228,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3FD3A0
 P 2850 2100
 AR Path="/5E3FD3A0" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3FD3A0" Ref="CherryMX17"  Part="1" 
-F 0 "CherryMX17" H 2850 2335 50  0000 C CNN
-F 1 "SW_SPST" H 2850 2244 50  0000 C CNN
+AR Path="/5E25E984/5E3FD3A0" Ref="SW17"  Part="1" 
+F 0 "SW17" H 2850 2335 50  0000 C CNN
+F 1 "CherryMX" H 2850 2244 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 2850 2100 50  0001 C CNN
 F 3 "~" H 2850 2100 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 2850 2100 50  0001 C CNN "Footprint"
@@ -2265,9 +2245,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3DB2B4
 P 2350 2100
 AR Path="/5E3DB2B4" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3DB2B4" Ref="CherryMX12"  Part="1" 
-F 0 "CherryMX12" H 2350 2335 50  0000 C CNN
-F 1 "SW_SPST" H 2350 2244 50  0000 C CNN
+AR Path="/5E25E984/5E3DB2B4" Ref="SW12"  Part="1" 
+F 0 "SW12" H 2350 2335 50  0000 C CNN
+F 1 "CherryMX" H 2350 2244 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 2350 2100 50  0001 C CNN
 F 3 "~" H 2350 2100 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 2350 2100 50  0001 C CNN "Footprint"
@@ -2284,9 +2264,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3DB26C
 P 1850 2100
 AR Path="/5E3DB26C" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3DB26C" Ref="CherryMX7"  Part="1" 
-F 0 "CherryMX7" H 1850 2335 50  0000 C CNN
-F 1 "SW_SPST" H 1850 2244 50  0000 C CNN
+AR Path="/5E25E984/5E3DB26C" Ref="SW7"  Part="1" 
+F 0 "SW7" H 1850 2335 50  0000 C CNN
+F 1 "CherryMX" H 1850 2244 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 1850 2100 50  0001 C CNN
 F 3 "~" H 1850 2100 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 1850 2100 50  0001 C CNN "Footprint"
@@ -2298,9 +2278,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E365162
 P 1350 2100
 AR Path="/5E365162" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E365162" Ref="CherryMX2"  Part="1" 
-F 0 "CherryMX2" H 1350 2335 50  0000 C CNN
-F 1 "SW_SPST" H 1350 2244 50  0000 C CNN
+AR Path="/5E25E984/5E365162" Ref="SW2"  Part="1" 
+F 0 "SW2" H 1350 2335 50  0000 C CNN
+F 1 "CherryMX" H 1350 2244 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 1350 2100 50  0001 C CNN
 F 3 "~" H 1350 2100 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 1350 2100 50  0001 C CNN "Footprint"
@@ -2315,9 +2295,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F2A4
 P 7850 1150
 AR Path="/5E44F2A4" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F2A4" Ref="CherryMX65"  Part="1" 
-F 0 "CherryMX65" H 7850 1385 50  0000 C CNN
-F 1 "SW_SPST" H 7850 1294 50  0000 C CNN
+AR Path="/5E25E984/5E44F2A4" Ref="SW65"  Part="1" 
+F 0 "SW65" H 7850 1385 50  0000 C CNN
+F 1 "CherryMX" H 7850 1294 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 7850 1150 50  0001 C CNN
 F 3 "~" H 7850 1150 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 7850 1150 50  0001 C CNN "Footprint"
@@ -2332,9 +2312,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F25C
 P 7350 1150
 AR Path="/5E44F25C" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F25C" Ref="CherryMX60"  Part="1" 
-F 0 "CherryMX60" H 7350 1385 50  0000 C CNN
-F 1 "SW_SPST" H 7350 1294 50  0000 C CNN
+AR Path="/5E25E984/5E44F25C" Ref="SW60"  Part="1" 
+F 0 "SW60" H 7350 1385 50  0000 C CNN
+F 1 "CherryMX" H 7350 1294 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 7350 1150 50  0001 C CNN
 F 3 "~" H 7350 1150 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 7350 1150 50  0001 C CNN "Footprint"
@@ -2349,9 +2329,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F214
 P 6850 1150
 AR Path="/5E44F214" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F214" Ref="CherryMX55"  Part="1" 
-F 0 "CherryMX55" H 6850 1385 50  0000 C CNN
-F 1 "SW_SPST" H 6850 1294 50  0000 C CNN
+AR Path="/5E25E984/5E44F214" Ref="SW55"  Part="1" 
+F 0 "SW55" H 6850 1385 50  0000 C CNN
+F 1 "CherryMX" H 6850 1294 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 6850 1150 50  0001 C CNN
 F 3 "~" H 6850 1150 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 6850 1150 50  0001 C CNN "Footprint"
@@ -2366,9 +2346,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F1CC
 P 6350 1150
 AR Path="/5E44F1CC" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F1CC" Ref="CherryMX50"  Part="1" 
-F 0 "CherryMX50" H 6350 1385 50  0000 C CNN
-F 1 "SW_SPST" H 6350 1294 50  0000 C CNN
+AR Path="/5E25E984/5E44F1CC" Ref="SW50"  Part="1" 
+F 0 "SW50" H 6350 1385 50  0000 C CNN
+F 1 "CherryMX" H 6350 1294 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 6350 1150 50  0001 C CNN
 F 3 "~" H 6350 1150 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 6350 1150 50  0001 C CNN "Footprint"
@@ -2383,9 +2363,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F184
 P 5850 1150
 AR Path="/5E44F184" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F184" Ref="CherryMX45"  Part="1" 
-F 0 "CherryMX45" H 5850 1385 50  0000 C CNN
-F 1 "SW_SPST" H 5850 1294 50  0000 C CNN
+AR Path="/5E25E984/5E44F184" Ref="SW45"  Part="1" 
+F 0 "SW45" H 5850 1385 50  0000 C CNN
+F 1 "CherryMX" H 5850 1294 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 5850 1150 50  0001 C CNN
 F 3 "~" H 5850 1150 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 5850 1150 50  0001 C CNN "Footprint"
@@ -2400,9 +2380,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F13C
 P 5350 1150
 AR Path="/5E44F13C" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F13C" Ref="CherryMX40"  Part="1" 
-F 0 "CherryMX40" H 5350 1385 50  0000 C CNN
-F 1 "SW_SPST" H 5350 1294 50  0000 C CNN
+AR Path="/5E25E984/5E44F13C" Ref="SW40"  Part="1" 
+F 0 "SW40" H 5350 1385 50  0000 C CNN
+F 1 "CherryMX" H 5350 1294 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 5350 1150 50  0001 C CNN
 F 3 "~" H 5350 1150 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 5350 1150 50  0001 C CNN "Footprint"
@@ -2417,9 +2397,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E44F0F4
 P 4850 1150
 AR Path="/5E44F0F4" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E44F0F4" Ref="CherryMX35"  Part="1" 
-F 0 "CherryMX35" H 4850 1385 50  0000 C CNN
-F 1 "SW_SPST" H 4850 1294 50  0000 C CNN
+AR Path="/5E25E984/5E44F0F4" Ref="SW35"  Part="1" 
+F 0 "SW35" H 4850 1385 50  0000 C CNN
+F 1 "CherryMX" H 4850 1294 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 4850 1150 50  0001 C CNN
 F 3 "~" H 4850 1150 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 4850 1150 50  0001 C CNN "Footprint"
@@ -2434,9 +2414,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3FD46C
 P 4350 1150
 AR Path="/5E3FD46C" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3FD46C" Ref="CherryMX31"  Part="1" 
-F 0 "CherryMX31" H 4350 1385 50  0000 C CNN
-F 1 "SW_SPST" H 4350 1294 50  0000 C CNN
+AR Path="/5E25E984/5E3FD46C" Ref="SW31"  Part="1" 
+F 0 "SW31" H 4350 1385 50  0000 C CNN
+F 1 "CherryMX" H 4350 1294 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 4350 1150 50  0001 C CNN
 F 3 "~" H 4350 1150 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 4350 1150 50  0001 C CNN "Footprint"
@@ -2451,9 +2431,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3FD424
 P 3850 1150
 AR Path="/5E3FD424" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3FD424" Ref="CherryMX26"  Part="1" 
-F 0 "CherryMX26" H 3850 1385 50  0000 C CNN
-F 1 "SW_SPST" H 3850 1294 50  0000 C CNN
+AR Path="/5E25E984/5E3FD424" Ref="SW26"  Part="1" 
+F 0 "SW26" H 3850 1385 50  0000 C CNN
+F 1 "CherryMX" H 3850 1294 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 3850 1150 50  0001 C CNN
 F 3 "~" H 3850 1150 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 3850 1150 50  0001 C CNN "Footprint"
@@ -2468,9 +2448,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3FD3DC
 P 3350 1150
 AR Path="/5E3FD3DC" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3FD3DC" Ref="CherryMX21"  Part="1" 
-F 0 "CherryMX21" H 3350 1385 50  0000 C CNN
-F 1 "SW_SPST" H 3350 1294 50  0000 C CNN
+AR Path="/5E25E984/5E3FD3DC" Ref="SW21"  Part="1" 
+F 0 "SW21" H 3350 1385 50  0000 C CNN
+F 1 "CherryMX" H 3350 1294 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 3350 1150 50  0001 C CNN
 F 3 "~" H 3350 1150 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 3350 1150 50  0001 C CNN "Footprint"
@@ -2485,9 +2465,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3FD394
 P 2850 1150
 AR Path="/5E3FD394" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3FD394" Ref="CherryMX16"  Part="1" 
-F 0 "CherryMX16" H 2850 1385 50  0000 C CNN
-F 1 "SW_SPST" H 2850 1294 50  0000 C CNN
+AR Path="/5E25E984/5E3FD394" Ref="SW16"  Part="1" 
+F 0 "SW16" H 2850 1385 50  0000 C CNN
+F 1 "CherryMX" H 2850 1294 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 2850 1150 50  0001 C CNN
 F 3 "~" H 2850 1150 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 2850 1150 50  0001 C CNN "Footprint"
@@ -2502,9 +2482,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3DB2A8
 P 2350 1150
 AR Path="/5E3DB2A8" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3DB2A8" Ref="CherryMX11"  Part="1" 
-F 0 "CherryMX11" H 2350 1385 50  0000 C CNN
-F 1 "SW_SPST" H 2350 1294 50  0000 C CNN
+AR Path="/5E25E984/5E3DB2A8" Ref="SW11"  Part="1" 
+F 0 "SW11" H 2350 1385 50  0000 C CNN
+F 1 "CherryMX" H 2350 1294 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 2350 1150 50  0001 C CNN
 F 3 "~" H 2350 1150 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 2350 1150 50  0001 C CNN "Footprint"
@@ -2521,9 +2501,9 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E3DB260
 P 1850 1150
 AR Path="/5E3DB260" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E3DB260" Ref="CherryMX6"  Part="1" 
-F 0 "CherryMX6" H 1850 1385 50  0000 C CNN
-F 1 "SW_SPST" H 1850 1294 50  0000 C CNN
+AR Path="/5E25E984/5E3DB260" Ref="SW6"  Part="1" 
+F 0 "SW6" H 1850 1385 50  0000 C CNN
+F 1 "CherryMX" H 1850 1294 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 1850 1150 50  0001 C CNN
 F 3 "~" H 1850 1150 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 1850 1150 50  0001 C CNN "Footprint"
@@ -2535,13 +2515,33 @@ L Switch:SW_SPST CherryMX?
 U 1 1 5E365156
 P 1350 1150
 AR Path="/5E365156" Ref="CherryMX?"  Part="1" 
-AR Path="/5E25E984/5E365156" Ref="CherryMX1"  Part="1" 
-F 0 "CherryMX1" H 1350 1385 50  0000 C CNN
-F 1 "SW_SPST" H 1350 1294 50  0000 C CNN
+AR Path="/5E25E984/5E365156" Ref="SW1"  Part="1" 
+F 0 "SW1" H 1350 1385 50  0000 C CNN
+F 1 "CherryMX" H 1350 1294 50  0000 C CNN
 F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" H 1350 1150 50  0001 C CNN
 F 3 "~" H 1350 1150 50  0001 C CNN
 F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 1350 1150 50  0001 C CNN "Footprint"
 	1    1350 1150
 	0    1    1    0   
 $EndComp
+Wire Wire Line
+	10200 950  10200 6050
+Wire Wire Line
+	10300 950  10300 6100
+Wire Wire Line
+	10400 950  10400 6150
+Wire Wire Line
+	10500 950  10500 6200
+Wire Wire Line
+	10600 950  10600 6250
+Wire Wire Line
+	10700 950  10700 6300
+Wire Wire Line
+	10800 950  10800 6350
+Wire Wire Line
+	10900 950  10900 6400
+Wire Wire Line
+	11000 950  11000 6450
+Wire Wire Line
+	11100 950  11100 6500
 $EndSCHEMATC
