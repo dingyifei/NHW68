@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 3
+Sheet 1 4
 Title ""
 Date ""
 Rev ""
@@ -101,4 +101,10 @@ Wire Wire Line
 	4450 4500 5500 4500
 Wire Wire Line
 	5500 4600 4450 4600
+$Sheet
+S 7250 2600 750  1650
+U 5E2317EE
+F0 "SpareParts" 50
+F1 "SpareParts.sch" 50
+$EndSheet
 $EndSCHEMATC

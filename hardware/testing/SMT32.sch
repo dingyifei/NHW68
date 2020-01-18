@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 3 3
+Sheet 3 4
 Title ""
 Date ""
 Rev ""
@@ -18,7 +18,7 @@ L Device:Crystal Y1
 U 1 1 5E1BA486
 P 4950 3000
 F 0 "Y1" V 4904 3131 50  0000 L CNN
-F 1 "X50328MSB2GI" V 4995 3131 50  0000 L CNN
+F 1 "8Mhz 20PF" V 4995 3131 50  0000 L CNN
 F 2 "Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm" H 4950 3000 50  0001 C CNN
 F 3 "~" H 4950 3000 50  0001 C CNN
 	1    4950 3000
@@ -628,12 +628,12 @@ Wire Wire Line
 $Comp
 L Connector:TestPoint TP5
 U 1 1 5E20237D
-P 4400 5600
-F 0 "TP5" H 4458 5718 50  0000 L CNN
-F 1 "TestPoint" H 4458 5627 50  0000 L CNN
-F 2 "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm" H 4600 5600 50  0001 C CNN
-F 3 "~" H 4600 5600 50  0001 C CNN
-	1    4400 5600
+P 4500 5600
+F 0 "TP5" H 4558 5718 50  0000 L CNN
+F 1 "TestPoint" H 4558 5627 50  0000 L CNN
+F 2 "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm" H 4700 5600 50  0001 C CNN
+F 3 "~" H 4700 5600 50  0001 C CNN
+	1    4500 5600
 	1    0    0    -1  
 $EndComp
 $Comp
