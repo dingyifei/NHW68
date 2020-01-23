@@ -112,7 +112,7 @@ F 3 "" H 2150 2700 50  0001 C CNN
 	1    2150 2700
 	-1   0    0    1   
 $EndComp
-Text Label 8000 5550 3    50   ~ 0
+Text Label 8050 5550 3    50   ~ 0
 USB_D+
 $Comp
 L MCU_ST_STM32F3:STM32F303CCTx U?
@@ -127,7 +127,7 @@ F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/da
 	1    7100 3850
 	1    0    0    -1  
 $EndComp
-Text Label 7850 5550 3    50   ~ 0
+Text Label 7900 5550 3    50   ~ 0
 USB_D-
 Text Label 2300 2150 0    50   ~ 0
 USB_D+
@@ -136,23 +136,23 @@ USB_D-
 $Comp
 L Device:R R27
 U 1 1 5E1E3849
-P 8000 5400
-F 0 "R27" V 7793 5400 50  0000 C CNN
-F 1 "22" V 7884 5400 50  0000 C CNN
-F 2 "Resistor_SMD:R_0402_1005Metric" V 7930 5400 50  0001 C CNN
-F 3 "~" H 8000 5400 50  0001 C CNN
-	1    8000 5400
+P 8050 5400
+F 0 "R27" V 7843 5400 50  0000 C CNN
+F 1 "22" V 7934 5400 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 7980 5400 50  0001 C CNN
+F 3 "~" H 8050 5400 50  0001 C CNN
+	1    8050 5400
 	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R R26
 U 1 1 5E1E2865
-P 7850 5400
-F 0 "R26" V 7643 5400 50  0000 C CNN
-F 1 "22" V 7734 5400 50  0000 C CNN
-F 2 "Resistor_SMD:R_0402_1005Metric" V 7780 5400 50  0001 C CNN
-F 3 "~" H 7850 5400 50  0001 C CNN
-	1    7850 5400
+P 7900 5400
+F 0 "R26" V 7693 5400 50  0000 C CNN
+F 1 "22" V 7784 5400 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 7830 5400 50  0001 C CNN
+F 3 "~" H 7900 5400 50  0001 C CNN
+	1    7900 5400
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -658,14 +658,6 @@ F 3 "" H 1100 7300 50  0001 C CNN
 	1    1100 7300
 	-1   0    0    1   
 $EndComp
-Wire Wire Line
-	7700 4750 8000 4750
-Wire Wire Line
-	8000 4750 8000 5250
-Wire Wire Line
-	7700 4850 7850 4850
-Wire Wire Line
-	7850 4850 7850 5250
 Text HLabel 6400 4750 0    50   Input ~ 0
 COL1
 Text HLabel 7700 5050 2    50   Input ~ 0
@@ -811,4 +803,12 @@ Wire Wire Line
 Wire Wire Line
 	3600 6600 4050 6600
 Connection ~ 3600 6600
+Wire Wire Line
+	8050 4850 8050 5250
+Wire Wire Line
+	7900 4750 7700 4750
+Wire Wire Line
+	7900 4750 7900 5250
+Wire Wire Line
+	7700 4850 8050 4850
 $EndSCHEMATC
