@@ -531,17 +531,6 @@ F 3 "~" H 2000 4050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C22
-U 1 1 5E14F850
-P 2450 4050
-F 0 "C22" H 2565 4096 50  0000 L CNN
-F 1 "100nF" H 2565 4005 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0402_1005Metric" H 2488 3900 50  0001 C CNN
-F 3 "~" H 2450 4050 50  0001 C CNN
-	1    2450 4050
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:GND #PWR033
 U 1 1 5E154D1B
 P 1100 4400
@@ -554,8 +543,6 @@ F 3 "" H 1100 4400 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1100 4400 1550 4400
-Wire Wire Line
-	2450 4400 2450 4200
 Wire Wire Line
 	2000 4400 2000 4200
 Connection ~ 2000 4400
@@ -583,12 +570,7 @@ $EndComp
 Wire Wire Line
 	1100 3700 1550 3700
 Wire Wire Line
-	2450 3700 2450 3900
-Wire Wire Line
 	2000 3700 2000 3900
-Connection ~ 2000 3700
-Wire Wire Line
-	2000 3700 2450 3700
 Wire Wire Line
 	1550 3900 1550 3700
 Connection ~ 1550 3700
@@ -689,4 +671,41 @@ F 3 "~" H 1400 6350 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	2400 6500 1900 6500
+Connection ~ 2000 3700
+Wire Wire Line
+	2000 3700 2450 3700
+Wire Wire Line
+	2450 3700 2450 3900
+Wire Wire Line
+	2450 4400 2450 4200
+$Comp
+L Device:C C22
+U 1 1 5E14F850
+P 2450 4050
+F 0 "C22" H 2565 4096 50  0000 L CNN
+F 1 "100nF" H 2565 4005 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 2488 3900 50  0001 C CNN
+F 3 "~" H 2450 4050 50  0001 C CNN
+	1    2450 4050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2450 4400 2900 4400
+Wire Wire Line
+	2450 3700 2900 3700
+Wire Wire Line
+	2900 3700 2900 3900
+Wire Wire Line
+	2900 4400 2900 4200
+$Comp
+L Device:C C26
+U 1 1 5E2EDC45
+P 2900 4050
+F 0 "C26" H 3015 4096 50  0000 L CNN
+F 1 "100nF" H 3015 4005 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 2938 3900 50  0001 C CNN
+F 3 "~" H 2900 4050 50  0001 C CNN
+	1    2900 4050
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
