@@ -619,8 +619,6 @@ Wire Wire Line
 	2200 6050 2400 6050
 Wire Wire Line
 	1300 6050 1400 6050
-Wire Wire Line
-	2400 6200 2400 6050
 Connection ~ 2400 6050
 Wire Wire Line
 	2400 6050 2500 6050
@@ -645,17 +643,6 @@ F 1 "AZ1117CH-3.3" H 1900 6201 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-223-3_TabPin2" H 1900 6275 50  0001 C CIN
 F 3 "http://www.zlgmcu.com/Sipex/LDO/PDF/spx2920.pdf" H 1900 6000 50  0001 C CNN
 	1    1900 6050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:C C21
-U 1 1 5E431976
-P 2400 6350
-F 0 "C21" H 2515 6396 50  0000 L CNN
-F 1 "22uf" H 2515 6305 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0402_1005Metric" H 2438 6200 50  0001 C CNN
-F 3 "~" H 2400 6350 50  0001 C CNN
-	1    2400 6350
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -708,4 +695,23 @@ F 3 "~" H 2900 4050 50  0001 C CNN
 	1    2900 4050
 	1    0    0    -1  
 $EndComp
+$Comp
+L Device:CP1_Small C?
+U 1 1 5E31A107
+P 2400 6400
+AR Path="/5EC33E3D/5E31A107" Ref="C?"  Part="1" 
+AR Path="/5E1424B2/5E31A107" Ref="C1"  Part="1" 
+F 0 "C1" H 2491 6446 50  0000 L CNN
+F 1 "22μF/10V" H 2491 6355 50  0000 L CNN
+F 2 "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A" H 2400 6400 50  0001 C CNN
+F 3 "~" H 2400 6400 50  0001 C CNN
+F 4 "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_Pad1.50x2.35mm_HandSolder" H 2400 6400 50  0001 C CNN "Footprint"
+F 5 "22μF/10V" H 2400 6400 50  0001 C CNN "Value"
+	1    2400 6400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2400 6050 2400 6300
+Text Notes 750  6700 0    50   ~ 0
+C17, C1 ESR<20Ohm
 $EndSCHEMATC
