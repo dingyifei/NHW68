@@ -1,8 +1,8 @@
-# thekeyboard
+# Not Handwired 68Keys
 
 ## License
 
-This project (not include ./hardware/KiCad/) are under MIT license.
+This project (not include ./hardware/KiCad/) is under MIT license.
 
 ## Code
 
