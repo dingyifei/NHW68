@@ -34,7 +34,7 @@
  * Board identifier.
  */
 #define BOARD_ST_STM32F3_DISCOVERY
-#define BOARD_NAME                  "STMicroelectronics STM32F3-Discovery"
+#define BOARD_NAME                  "NHW68"
 
 /*
  * Board oscillators-related settings.
@@ -56,7 +56,6 @@
  * MCU type as defined in the ST header.
  */
 #define STM32F303xC
-
 /*
  * IO pins assignments.
  */
