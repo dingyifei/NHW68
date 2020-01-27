@@ -2,7 +2,9 @@
 
 ## License
 
-This project (not include ./hardware/KiCad/) is under MIT license.
+This project (not include ./hardware/KiCad/, ./code, or files with licenses specified inside it) is under MIT license.
+
+The ./code is under the GPL V2 License
 
 ## Code
 
