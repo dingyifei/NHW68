@@ -1,0 +1,16 @@
+{
+    "keyboard_name": "NHW68",
+    "maintainer": "Yifei Ding",
+    "url": "doesn't exist",
+    "width": 14,
+    "height": 5,
+    "layouts": {
+      "LAYOUT_DEFAULT": {
+        "key_count": 68,
+        "layout": [
+          {"label": "something", "x": 0, "y": 0}
+        ]
+     }
+    }
+  }
+  
