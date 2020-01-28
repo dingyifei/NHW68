@@ -4,9 +4,9 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 3 6
-Title ""
-Date ""
-Rev ""
+Title "NHW68"
+Date "2020-01-28"
+Rev "0.1"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -45,7 +45,7 @@ F 1 "20k" V 8184 3100 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 8230 3100 50  0001 C CNN
 F 3 "~" H 8300 3100 50  0001 C CNN
 F 4 "20k" H 8300 3100 50  0001 C CNN "Value"
-F 5 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 8300 3100 50  0001 C CNN "Footprint"
+F 5 "Resistor_SMD:R_0402_1005Metric" H 8300 3100 50  0001 C CNN "Footprint"
 	1    8300 3100
 	0    -1   -1   0   
 $EndComp
@@ -147,7 +147,7 @@ F 1 "100k" V 8284 2800 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 8330 2800 50  0001 C CNN
 F 3 "~" H 8400 2800 50  0001 C CNN
 F 4 "100k" H 8400 2800 50  0001 C CNN "Value"
-F 5 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 8400 2800 50  0001 C CNN "Footprint"
+F 5 "Resistor_SMD:R_0402_1005Metric" H 8400 2800 50  0001 C CNN "Footprint"
 	1    8400 2800
 	0    -1   1    0   
 $EndComp
@@ -159,8 +159,8 @@ F 0 "C14" H 8142 2046 50  0000 L CNN
 F 1 "470nF" H 8142 1955 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 8050 2000 50  0001 C CNN
 F 3 "~" H 8050 2000 50  0001 C CNN
-F 4 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 8050 2000 50  0001 C CNN "Footprint"
-F 5 "0.47μF" H 8050 2000 50  0001 C CNN "Value"
+F 4 "Capacitor_SMD:C_0402_1005Metric" H 8050 2000 50  0001 C CNN "Footprint"
+F 5 "470nF" H 8050 2000 50  0001 C CNN "Value"
 	1    8050 2000
 	-1   0    0    -1  
 $EndComp
@@ -183,7 +183,7 @@ F 1 "1k" H 8020 2305 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 7880 2350 50  0001 C CNN
 F 3 "~" H 7950 2350 50  0001 C CNN
 F 4 "1k" H 7950 2350 50  0001 C CNN "Value"
-F 5 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 7950 2350 50  0001 C CNN "Footprint"
+F 5 "Resistor_SMD:R_0402_1005Metric" H 7950 2350 50  0001 C CNN "Footprint"
 	1    7950 2350
 	-1   0    0    -1  
 $EndComp
@@ -197,7 +197,7 @@ F 1 "1k" H 8220 2205 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 8080 2250 50  0001 C CNN
 F 3 "~" H 8150 2250 50  0001 C CNN
 F 4 "1k" H 8150 2250 50  0001 C CNN "Value"
-F 5 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 8150 2250 50  0001 C CNN "Footprint"
+F 5 "Resistor_SMD:R_0402_1005Metric" H 8150 2250 50  0001 C CNN "Footprint"
 	1    8150 2250
 	-1   0    0    -1  
 $EndComp
@@ -261,8 +261,8 @@ F 0 "C1" H 3342 2046 50  0000 L CNN
 F 1 "470nF" H 3342 1955 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 3250 2000 50  0001 C CNN
 F 3 "~" H 3250 2000 50  0001 C CNN
-F 4 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3250 2000 50  0001 C CNN "Footprint"
-F 5 "0.47μF" H 3250 2000 50  0001 C CNN "Value"
+F 4 "Capacitor_SMD:C_0402_1005Metric" H 3250 2000 50  0001 C CNN "Footprint"
+F 5 "470nF" H 3250 2000 50  0001 C CNN "Value"
 	1    3250 2000
 	1    0    0    -1  
 $EndComp
@@ -288,7 +288,7 @@ F 1 "20k" V 3184 3100 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 3230 3100 50  0001 C CNN
 F 3 "~" H 3300 3100 50  0001 C CNN
 F 4 "20k" H 3300 3100 50  0001 C CNN "Value"
-F 5 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3300 3100 50  0001 C CNN "Footprint"
+F 5 "Resistor_SMD:R_0402_1005Metric" H 3300 3100 50  0001 C CNN "Footprint"
 	1    3300 3100
 	0    1    1    0   
 $EndComp
@@ -305,7 +305,7 @@ F 1 "1k" H 3370 2305 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 3230 2350 50  0001 C CNN
 F 3 "~" H 3300 2350 50  0001 C CNN
 F 4 "1k" H 3300 2350 50  0001 C CNN "Value"
-F 5 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3300 2350 50  0001 C CNN "Footprint"
+F 5 "Resistor_SMD:R_0402_1005Metric" H 3300 2350 50  0001 C CNN "Footprint"
 	1    3300 2350
 	1    0    0    -1  
 $EndComp
@@ -318,7 +318,7 @@ F 1 "1k" H 3170 2205 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 3030 2250 50  0001 C CNN
 F 3 "~" H 3100 2250 50  0001 C CNN
 F 4 "1k" H 3100 2250 50  0001 C CNN "Value"
-F 5 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3100 2250 50  0001 C CNN "Footprint"
+F 5 "Resistor_SMD:R_0402_1005Metric" H 3100 2250 50  0001 C CNN "Footprint"
 	1    3100 2250
 	1    0    0    -1  
 $EndComp
@@ -334,7 +334,7 @@ F 1 "100k" V 2734 2800 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2780 2800 50  0001 C CNN
 F 3 "~" H 2850 2800 50  0001 C CNN
 F 4 "100k" H 2850 2800 50  0001 C CNN "Value"
-F 5 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 2850 2800 50  0001 C CNN "Footprint"
+F 5 "Resistor_SMD:R_0402_1005Metric" H 2850 2800 50  0001 C CNN "Footprint"
 	1    2850 2800
 	0    1    1    0   
 $EndComp
@@ -373,7 +373,7 @@ U 1 1 5E0E9CFE
 P 7100 3600
 F 0 "U2" H 7100 1911 50  0000 C CNN
 F 1 "IS31FL3733-QF" H 7100 1820 50  0000 C CNN
-F 2 "Package_DFN_QFN:QFN-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm_ThermalVias" H 7100 3600 50  0001 C CNN
+F 2 "KiCad:QFN-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm_ThermalVias" H 7100 3600 50  0001 C CNN
 F 3 "http://www.issi.com/WW/pdf/IS31FL3733.pdf" H 7100 3600 50  0001 C CNN
 F 4 "IS31FL7377" H 7100 3600 50  0001 C CNN "Value"
 F 5 "Package_DFN_QFN:QFN-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm_ThermalVias" H 7100 3600 50  0001 C CNN "Footprint"
@@ -386,7 +386,7 @@ U 1 1 5E0EDEBE
 P 4150 3600
 F 0 "U1" H 4150 1911 50  0000 C CNN
 F 1 "IS31FL3733-QF" H 4150 1820 50  0000 C CNN
-F 2 "Package_DFN_QFN:QFN-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm_ThermalVias" H 4150 3600 50  0001 C CNN
+F 2 "KiCad:QFN-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm_ThermalVias" H 4150 3600 50  0001 C CNN
 F 3 "http://www.issi.com/WW/pdf/IS31FL3733.pdf" H 4150 3600 50  0001 C CNN
 F 4 "IS31FL7377" H 4150 3600 50  0001 C CNN "Value"
 F 5 "Package_DFN_QFN:QFN-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm_ThermalVias" H 4150 3600 50  0001 C CNN "Footprint"
@@ -401,8 +401,8 @@ F 0 "C11" H 7192 1946 50  0000 L CNN
 F 1 "100nF" H 7192 1855 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 7100 1900 50  0001 C CNN
 F 3 "~" H 7100 1900 50  0001 C CNN
-F 4 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 7100 1900 50  0001 C CNN "Footprint"
-F 5 "0.1μF" H 7100 1900 50  0001 C CNN "Value"
+F 4 "Capacitor_SMD:C_0402_1005Metric" H 7100 1900 50  0001 C CNN "Footprint"
+F 5 "100nf" H 7100 1900 50  0001 C CNN "Value"
 	1    7100 1900
 	0    -1   -1   0   
 $EndComp
@@ -425,8 +425,8 @@ F 0 "C10" H 7192 1196 50  0000 L CNN
 F 1 "470nF" H 7192 1105 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 7100 1150 50  0001 C CNN
 F 3 "~" H 7100 1150 50  0001 C CNN
-F 4 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 7100 1150 50  0001 C CNN "Footprint"
-F 5 "0.47μF" H 7100 1150 50  0001 C CNN "Value"
+F 4 "Capacitor_SMD:C_0402_1005Metric" H 7100 1150 50  0001 C CNN "Footprint"
+F 5 "470nF" H 7100 1150 50  0001 C CNN "Value"
 	1    7100 1150
 	0    -1   -1   0   
 $EndComp
@@ -449,8 +449,8 @@ F 0 "C9" H 6742 1946 50  0000 L CNN
 F 1 "100nF" H 6742 1855 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 6650 1900 50  0001 C CNN
 F 3 "~" H 6650 1900 50  0001 C CNN
-F 4 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 6650 1900 50  0001 C CNN "Footprint"
-F 5 "0.1μF" H 6650 1900 50  0001 C CNN "Value"
+F 4 "Capacitor_SMD:C_0402_1005Metric" H 6650 1900 50  0001 C CNN "Footprint"
+F 5 "100nf" H 6650 1900 50  0001 C CNN "Value"
 	1    6650 1900
 	0    -1   -1   0   
 $EndComp
@@ -473,8 +473,8 @@ F 0 "C8" H 6742 1196 50  0000 L CNN
 F 1 "470nF" H 6742 1105 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 6650 1150 50  0001 C CNN
 F 3 "~" H 6650 1150 50  0001 C CNN
-F 4 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 6650 1150 50  0001 C CNN "Footprint"
-F 5 "0.47μF" H 6650 1150 50  0001 C CNN "Value"
+F 4 "Capacitor_SMD:C_0402_1005Metric" H 6650 1150 50  0001 C CNN "Footprint"
+F 5 "470nF" H 6650 1150 50  0001 C CNN "Value"
 	1    6650 1150
 	0    -1   -1   0   
 $EndComp
@@ -497,8 +497,8 @@ F 0 "C13" H 7642 1946 50  0000 L CNN
 F 1 "100nF" H 7642 1855 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 7550 1900 50  0001 C CNN
 F 3 "~" H 7550 1900 50  0001 C CNN
-F 4 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 7550 1900 50  0001 C CNN "Footprint"
-F 5 "0.1μF" H 7550 1900 50  0001 C CNN "Value"
+F 4 "Capacitor_SMD:C_0402_1005Metric" H 7550 1900 50  0001 C CNN "Footprint"
+F 5 "100nf" H 7550 1900 50  0001 C CNN "Value"
 	1    7550 1900
 	0    -1   -1   0   
 $EndComp
@@ -521,8 +521,8 @@ F 0 "C12" H 7642 1196 50  0000 L CNN
 F 1 "470nF" H 7642 1105 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 7550 1150 50  0001 C CNN
 F 3 "~" H 7550 1150 50  0001 C CNN
-F 4 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 7550 1150 50  0001 C CNN "Footprint"
-F 5 "0.47μF" H 7550 1150 50  0001 C CNN "Value"
+F 4 "Capacitor_SMD:C_0402_1005Metric" H 7550 1150 50  0001 C CNN "Footprint"
+F 5 "470nF" H 7550 1150 50  0001 C CNN "Value"
 	1    7550 1150
 	0    -1   -1   0   
 $EndComp
@@ -564,8 +564,8 @@ F 0 "C5" H 4442 1946 50  0000 L CNN
 F 1 "100nF" H 4442 1855 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 4350 1900 50  0001 C CNN
 F 3 "~" H 4350 1900 50  0001 C CNN
-F 4 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4350 1900 50  0001 C CNN "Footprint"
-F 5 "0.1μF" H 4350 1900 50  0001 C CNN "Value"
+F 4 "Capacitor_SMD:C_0402_1005Metric" H 4350 1900 50  0001 C CNN "Footprint"
+F 5 "100nf" H 4350 1900 50  0001 C CNN "Value"
 	1    4350 1900
 	0    -1   -1   0   
 $EndComp
@@ -588,8 +588,8 @@ F 0 "C4" H 4442 1196 50  0000 L CNN
 F 1 "470nF" H 4442 1105 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 4350 1150 50  0001 C CNN
 F 3 "~" H 4350 1150 50  0001 C CNN
-F 4 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4350 1150 50  0001 C CNN "Footprint"
-F 5 "0.47μF" H 4350 1150 50  0001 C CNN "Value"
+F 4 "Capacitor_SMD:C_0402_1005Metric" H 4350 1150 50  0001 C CNN "Footprint"
+F 5 "470nF" H 4350 1150 50  0001 C CNN "Value"
 	1    4350 1150
 	0    -1   -1   0   
 $EndComp
@@ -612,8 +612,8 @@ F 0 "C3" H 3892 1946 50  0000 L CNN
 F 1 "100nF" H 3892 1855 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 3800 1900 50  0001 C CNN
 F 3 "~" H 3800 1900 50  0001 C CNN
-F 4 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3800 1900 50  0001 C CNN "Footprint"
-F 5 "0.1μF" H 3800 1900 50  0001 C CNN "Value"
+F 4 "Capacitor_SMD:C_0402_1005Metric" H 3800 1900 50  0001 C CNN "Footprint"
+F 5 "100nf" H 3800 1900 50  0001 C CNN "Value"
 	1    3800 1900
 	0    -1   -1   0   
 $EndComp
@@ -636,8 +636,8 @@ F 0 "C2" H 3892 1196 50  0000 L CNN
 F 1 "470nF" H 3892 1105 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 3800 1150 50  0001 C CNN
 F 3 "~" H 3800 1150 50  0001 C CNN
-F 4 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 3800 1150 50  0001 C CNN "Footprint"
-F 5 "0.47μF" H 3800 1150 50  0001 C CNN "Value"
+F 4 "Capacitor_SMD:C_0402_1005Metric" H 3800 1150 50  0001 C CNN "Footprint"
+F 5 "470nF" H 3800 1150 50  0001 C CNN "Value"
 	1    3800 1150
 	0    -1   -1   0   
 $EndComp
@@ -660,8 +660,8 @@ F 0 "C7" H 4792 1946 50  0000 L CNN
 F 1 "100nF" H 4792 1855 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 4700 1900 50  0001 C CNN
 F 3 "~" H 4700 1900 50  0001 C CNN
-F 4 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4700 1900 50  0001 C CNN "Footprint"
-F 5 "0.1μF" H 4700 1900 50  0001 C CNN "Value"
+F 4 "Capacitor_SMD:C_0402_1005Metric" H 4700 1900 50  0001 C CNN "Footprint"
+F 5 "100nf" H 4700 1900 50  0001 C CNN "Value"
 	1    4700 1900
 	0    -1   -1   0   
 $EndComp
@@ -684,8 +684,8 @@ F 0 "C6" H 4792 1196 50  0000 L CNN
 F 1 "470nF" H 4792 1105 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 4700 1150 50  0001 C CNN
 F 3 "~" H 4700 1150 50  0001 C CNN
-F 4 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 4700 1150 50  0001 C CNN "Footprint"
-F 5 "0.47μF" H 4700 1150 50  0001 C CNN "Value"
+F 4 "Capacitor_SMD:C_0402_1005Metric" H 4700 1150 50  0001 C CNN "Footprint"
+F 5 "470nF" H 4700 1150 50  0001 C CNN "Value"
 	1    4700 1150
 	0    -1   -1   0   
 $EndComp
