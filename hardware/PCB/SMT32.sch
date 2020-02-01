@@ -259,6 +259,7 @@ F 0 "U3" H 1900 6292 50  0000 C CNN
 F 1 "AZ1117CH-3.3TRG1" H 1900 6201 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-223-3_TabPin2" H 1900 6300 50  0001 C CIN
 F 3 "https://www.diodes.com/assets/Datasheets/AZ1117.pdf" H 1900 6050 50  0001 C CNN
+F 4 "AZ1117CH-3.3TRG1" H 1900 6050 50  0001 C CNN "Part Number"
 	1    1900 6050
 	1    0    0    -1  
 $EndComp
@@ -428,7 +429,7 @@ F 0 "Y1" V 4904 3131 50  0000 L CNN
 F 1 "8Mhz20pF" V 4995 3131 50  0000 L CNN
 F 2 "Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm" H 4950 3000 50  0001 C CNN
 F 3 "~" H 4950 3000 50  0001 C CNN
-F 4 "X50328MSB2GI" V 4950 3000 50  0001 C CNN "P/N"
+F 4 "X50328MSB2GI" H 4950 3000 50  0001 C CNN "Part Number"
 	1    4950 3000
 	0    1    1    0   
 $EndComp
@@ -450,7 +451,8 @@ P 1400 1500
 F 0 "J1" H 1457 1967 50  0000 C CNN
 F 1 "473460001" H 1457 1876 50  0000 C CNN
 F 2 "Connector_USB:USB_Micro-B_Molex_47346-0001" H 1550 1450 50  0001 C CNN
-F 3 "~" H 1550 1450 50  0001 C CNN
+F 3 "https://www.molex.com/pdm_docs/ps/PS-47346-001-001.pdf" H 1550 1450 50  0001 C CNN
+F 4 "47346-0001" H 1400 1500 50  0001 C CNN "Part Number"
 	1    1400 1500
 	1    0    0    -1  
 $EndComp
@@ -494,7 +496,8 @@ P 6200 2300
 F 0 "SW2" V 6154 2430 50  0000 L CNN
 F 1 "B3U-1000P" V 6245 2430 50  0000 L CNN
 F 2 "Button_Switch_SMD:SW_SPST_B3U-1000P" H 6200 2300 50  0001 C CNN
-F 3 "~" H 6200 2300 50  0001 C CNN
+F 3 "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf" H 6200 2300 50  0001 C CNN
+F 4 "B3U-1000P" H 6200 2300 50  0001 C CNN "Part Number"
 	1    6200 2300
 	0    1    1    0   
 $EndComp
@@ -505,7 +508,8 @@ P 5600 2250
 F 0 "SW1" V 5554 2380 50  0000 L CNN
 F 1 "B3U-1000P" V 5645 2380 50  0000 L CNN
 F 2 "Button_Switch_SMD:SW_SPST_B3U-1000P" H 5600 2250 50  0001 C CNN
-F 3 "~" H 5600 2250 50  0001 C CNN
+F 3 "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf" H 5600 2250 50  0001 C CNN
+F 4 "B3U-1000P" H 5600 2250 50  0001 C CNN "Part Number"
 	1    5600 2250
 	0    1    1    0   
 $EndComp
@@ -684,6 +688,7 @@ F 0 "U4" H 7050 2261 50  0000 C CNN
 F 1 "STM32F303CCT6" H 7050 2150 50  0000 C CNN
 F 2 "Package_QFP:LQFP-48_7x7mm_P0.5mm" H 6500 2450 50  0001 R CNN
 F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00058181.pdf" H 7100 3850 50  0001 C CNN
+F 4 "STM32F303CCT6" H 7100 3850 50  0001 C CNN "Part Number"
 	1    7100 3850
 	1    0    0    -1  
 $EndComp
