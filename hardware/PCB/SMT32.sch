@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 6 6
 Title "NHW68"
-Date "2020-01-28"
+Date "2020-01-31"
 Rev "0.1"
 Comp ""
 Comment1 ""
@@ -785,6 +785,6 @@ Wire Wire Line
 Connection ~ 2400 6050
 Wire Wire Line
 	2400 6050 2500 6050
-Text Notes 4300 3550 0    50   ~ 0
+Text Notes 4150 3450 0    50   ~ 0
 8Mhz External Crystal\nChange CL capasitors when using different crystal
 $EndSCHEMATC
