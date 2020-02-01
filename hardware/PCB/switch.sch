@@ -23,7 +23,6 @@ F 0 "Key1" H 1350 1385 50  0000 C CNN
 F 1 "CPG151101S03" H 1350 1294 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 1350 1150 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 1350 1150 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 1350 1150 50  0001 C CNN "Footprint"
 	1    1350 1150
 	0    1    1    0   
 $EndComp
@@ -37,8 +36,6 @@ F 0 "D1" H 1350 1717 50  0001 C CNN
 F 1 "1N4148WS" H 1350 1625 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 1350 1325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1350 1500 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 1350 1500 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 1350 1500 50  0001 C CNN "Value"
 	1    1350 1500
 	0    1    -1   0   
 $EndComp
@@ -52,7 +49,6 @@ F 0 "Key2" H 1350 2335 50  0000 C CNN
 F 1 "CPG151101S03" H 1350 2244 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 1350 2100 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 1350 2100 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 1350 2100 50  0001 C CNN "Footprint"
 	1    1350 2100
 	0    1    1    0   
 $EndComp
@@ -66,8 +62,6 @@ F 0 "D2" H 1350 2667 50  0001 C CNN
 F 1 "1N4148WS" H 1350 2575 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 1350 2275 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1350 2450 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 1350 2450 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 1350 2450 50  0001 C CNN "Value"
 	1    1350 2450
 	0    1    -1   0   
 $EndComp
@@ -81,7 +75,6 @@ F 0 "Key3" H 1350 3285 50  0000 C CNN
 F 1 "CPG151101S03" H 1350 3194 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 1350 3050 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 1350 3050 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 1350 3050 50  0001 C CNN "Footprint"
 	1    1350 3050
 	0    1    1    0   
 $EndComp
@@ -95,8 +88,6 @@ F 0 "D3" H 1350 3617 50  0001 C CNN
 F 1 "1N4148WS" H 1350 3525 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 1350 3225 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1350 3400 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 1350 3400 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 1350 3400 50  0001 C CNN "Value"
 	1    1350 3400
 	0    1    -1   0   
 $EndComp
@@ -110,7 +101,6 @@ F 0 "Key4" H 1350 4235 50  0000 C CNN
 F 1 "CPG151101S03" H 1350 4144 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 1350 4000 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 1350 4000 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 1350 4000 50  0001 C CNN "Footprint"
 	1    1350 4000
 	0    1    1    0   
 $EndComp
@@ -124,8 +114,6 @@ F 0 "D4" H 1350 4567 50  0001 C CNN
 F 1 "1N4148WS" H 1350 4475 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 1350 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1350 4350 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 1350 4350 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 1350 4350 50  0001 C CNN "Value"
 	1    1350 4350
 	0    1    -1   0   
 $EndComp
@@ -139,7 +127,6 @@ F 0 "Key5" H 1350 5185 50  0000 C CNN
 F 1 "CPG151101S03" H 1350 5094 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 1350 4950 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 1350 4950 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 1350 4950 50  0001 C CNN "Footprint"
 	1    1350 4950
 	0    1    1    0   
 $EndComp
@@ -153,8 +140,6 @@ F 0 "D5" H 1350 5517 50  0001 C CNN
 F 1 "1N4148WS" H 1350 5425 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 1350 5125 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1350 5300 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 1350 5300 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 1350 5300 50  0001 C CNN "Value"
 	1    1350 5300
 	0    1    -1   0   
 $EndComp
@@ -168,7 +153,6 @@ F 0 "Key6" H 1850 1385 50  0000 C CNN
 F 1 "CPG151101S03" H 1850 1294 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 1850 1150 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 1850 1150 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 1850 1150 50  0001 C CNN "Footprint"
 	1    1850 1150
 	0    1    1    0   
 $EndComp
@@ -182,8 +166,6 @@ F 0 "D6" H 1850 1717 50  0001 C CNN
 F 1 "1N4148WS" H 1850 1625 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 1850 1325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1850 1500 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 1850 1500 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 1850 1500 50  0001 C CNN "Value"
 	1    1850 1500
 	0    1    -1   0   
 $EndComp
@@ -197,7 +179,6 @@ F 0 "Key7" H 1850 2335 50  0000 C CNN
 F 1 "CPG151101S03" H 1850 2244 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 1850 2100 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 1850 2100 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 1850 2100 50  0001 C CNN "Footprint"
 	1    1850 2100
 	0    1    1    0   
 $EndComp
@@ -211,8 +192,6 @@ F 0 "D7" H 1850 2667 50  0001 C CNN
 F 1 "1N4148WS" H 1850 2575 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 1850 2275 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1850 2450 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 1850 2450 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 1850 2450 50  0001 C CNN "Value"
 	1    1850 2450
 	0    1    -1   0   
 $EndComp
@@ -226,7 +205,6 @@ F 0 "Key8" H 1850 3285 50  0000 C CNN
 F 1 "CPG151101S03" H 1850 3194 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 1850 3050 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 1850 3050 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 1850 3050 50  0001 C CNN "Footprint"
 	1    1850 3050
 	0    1    1    0   
 $EndComp
@@ -240,8 +218,6 @@ F 0 "D8" H 1850 3617 50  0001 C CNN
 F 1 "1N4148WS" H 1850 3525 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 1850 3225 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1850 3400 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 1850 3400 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 1850 3400 50  0001 C CNN "Value"
 	1    1850 3400
 	0    1    -1   0   
 $EndComp
@@ -255,7 +231,6 @@ F 0 "Key9" H 1850 4235 50  0000 C CNN
 F 1 "CPG151101S03" H 1850 4144 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 1850 4000 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 1850 4000 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 1850 4000 50  0001 C CNN "Footprint"
 	1    1850 4000
 	0    1    1    0   
 $EndComp
@@ -269,8 +244,6 @@ F 0 "D9" H 1850 4567 50  0001 C CNN
 F 1 "1N4148WS" H 1850 4475 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 1850 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1850 4350 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 1850 4350 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 1850 4350 50  0001 C CNN "Value"
 	1    1850 4350
 	0    1    -1   0   
 $EndComp
@@ -284,7 +257,6 @@ F 0 "Key10" H 1850 5185 50  0000 C CNN
 F 1 "CPG151101S03" H 1850 5094 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 1850 4950 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 1850 4950 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 1850 4950 50  0001 C CNN "Footprint"
 	1    1850 4950
 	0    1    1    0   
 $EndComp
@@ -298,8 +270,6 @@ F 0 "D10" H 1850 5517 50  0001 C CNN
 F 1 "1N4148WS" H 1850 5425 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 1850 5125 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1850 5300 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 1850 5300 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 1850 5300 50  0001 C CNN "Value"
 	1    1850 5300
 	0    1    -1   0   
 $EndComp
@@ -313,7 +283,6 @@ F 0 "Key11" H 2350 1385 50  0000 C CNN
 F 1 "CPG151101S03" H 2350 1294 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 2350 1150 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 2350 1150 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 2350 1150 50  0001 C CNN "Footprint"
 	1    2350 1150
 	0    1    1    0   
 $EndComp
@@ -327,8 +296,6 @@ F 0 "D11" H 2350 1717 50  0001 C CNN
 F 1 "1N4148WS" H 2350 1625 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 2350 1325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2350 1500 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 2350 1500 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 2350 1500 50  0001 C CNN "Value"
 	1    2350 1500
 	0    1    -1   0   
 $EndComp
@@ -342,7 +309,6 @@ F 0 "Key12" H 2350 2335 50  0000 C CNN
 F 1 "CPG151101S03" H 2350 2244 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 2350 2100 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 2350 2100 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 2350 2100 50  0001 C CNN "Footprint"
 	1    2350 2100
 	0    1    1    0   
 $EndComp
@@ -356,8 +322,6 @@ F 0 "D12" H 2350 2667 50  0001 C CNN
 F 1 "1N4148WS" H 2350 2575 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 2350 2275 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2350 2450 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 2350 2450 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 2350 2450 50  0001 C CNN "Value"
 	1    2350 2450
 	0    1    -1   0   
 $EndComp
@@ -371,7 +335,6 @@ F 0 "Key13" H 2350 3285 50  0000 C CNN
 F 1 "CPG151101S03" H 2350 3194 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 2350 3050 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 2350 3050 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 2350 3050 50  0001 C CNN "Footprint"
 	1    2350 3050
 	0    1    1    0   
 $EndComp
@@ -385,8 +348,6 @@ F 0 "D13" H 2350 3617 50  0001 C CNN
 F 1 "1N4148WS" H 2350 3525 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 2350 3225 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2350 3400 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 2350 3400 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 2350 3400 50  0001 C CNN "Value"
 	1    2350 3400
 	0    1    -1   0   
 $EndComp
@@ -400,7 +361,6 @@ F 0 "Key14" H 2350 4235 50  0000 C CNN
 F 1 "CPG151101S03" H 2350 4144 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 2350 4000 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 2350 4000 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 2350 4000 50  0001 C CNN "Footprint"
 	1    2350 4000
 	0    1    1    0   
 $EndComp
@@ -414,8 +374,6 @@ F 0 "D14" H 2350 4567 50  0001 C CNN
 F 1 "1N4148WS" H 2350 4475 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 2350 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2350 4350 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 2350 4350 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 2350 4350 50  0001 C CNN "Value"
 	1    2350 4350
 	0    1    -1   0   
 $EndComp
@@ -429,7 +387,6 @@ F 0 "Key15" H 2350 5185 50  0000 C CNN
 F 1 "CPG151101S03" H 2350 5094 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 2350 4950 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 2350 4950 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 2350 4950 50  0001 C CNN "Footprint"
 	1    2350 4950
 	0    1    1    0   
 $EndComp
@@ -443,8 +400,6 @@ F 0 "D15" H 2350 5517 50  0001 C CNN
 F 1 "1N4148WS" H 2350 5425 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 2350 5125 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2350 5300 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 2350 5300 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 2350 5300 50  0001 C CNN "Value"
 	1    2350 5300
 	0    1    -1   0   
 $EndComp
@@ -458,7 +413,6 @@ F 0 "Key16" H 2850 1385 50  0000 C CNN
 F 1 "CPG151101S03" H 2850 1294 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 2850 1150 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 2850 1150 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 2850 1150 50  0001 C CNN "Footprint"
 	1    2850 1150
 	0    1    1    0   
 $EndComp
@@ -472,8 +426,6 @@ F 0 "D16" H 2850 1717 50  0001 C CNN
 F 1 "1N4148WS" H 2850 1625 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 2850 1325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2850 1500 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 2850 1500 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 2850 1500 50  0001 C CNN "Value"
 	1    2850 1500
 	0    1    -1   0   
 $EndComp
@@ -487,7 +439,6 @@ F 0 "Key17" H 2850 2335 50  0000 C CNN
 F 1 "CPG151101S03" H 2850 2244 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 2850 2100 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 2850 2100 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 2850 2100 50  0001 C CNN "Footprint"
 	1    2850 2100
 	0    1    1    0   
 $EndComp
@@ -501,8 +452,6 @@ F 0 "D17" H 2850 2667 50  0001 C CNN
 F 1 "1N4148WS" H 2850 2575 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 2850 2275 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2850 2450 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 2850 2450 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 2850 2450 50  0001 C CNN "Value"
 	1    2850 2450
 	0    1    -1   0   
 $EndComp
@@ -516,7 +465,6 @@ F 0 "Key18" H 2850 3285 50  0000 C CNN
 F 1 "CPG151101S03" H 2850 3194 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 2850 3050 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 2850 3050 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 2850 3050 50  0001 C CNN "Footprint"
 	1    2850 3050
 	0    1    1    0   
 $EndComp
@@ -530,8 +478,6 @@ F 0 "D18" H 2850 3617 50  0001 C CNN
 F 1 "1N4148WS" H 2850 3525 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 2850 3225 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2850 3400 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 2850 3400 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 2850 3400 50  0001 C CNN "Value"
 	1    2850 3400
 	0    1    -1   0   
 $EndComp
@@ -545,7 +491,6 @@ F 0 "Key19" H 2850 4235 50  0000 C CNN
 F 1 "CPG151101S03" H 2850 4144 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 2850 4000 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 2850 4000 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 2850 4000 50  0001 C CNN "Footprint"
 	1    2850 4000
 	0    1    1    0   
 $EndComp
@@ -559,8 +504,6 @@ F 0 "D19" H 2850 4567 50  0001 C CNN
 F 1 "1N4148WS" H 2850 4475 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 2850 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2850 4350 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 2850 4350 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 2850 4350 50  0001 C CNN "Value"
 	1    2850 4350
 	0    1    -1   0   
 $EndComp
@@ -574,7 +517,6 @@ F 0 "Key20" H 2850 5185 50  0000 C CNN
 F 1 "CPG151101S03" H 2850 5094 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 2850 4950 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 2850 4950 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 2850 4950 50  0001 C CNN "Footprint"
 	1    2850 4950
 	0    1    1    0   
 $EndComp
@@ -588,8 +530,6 @@ F 0 "D20" H 2850 5517 50  0001 C CNN
 F 1 "1N4148WS" H 2850 5425 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 2850 5125 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2850 5300 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 2850 5300 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 2850 5300 50  0001 C CNN "Value"
 	1    2850 5300
 	0    1    -1   0   
 $EndComp
@@ -603,7 +543,6 @@ F 0 "Key21" H 3350 1385 50  0000 C CNN
 F 1 "CPG151101S03" H 3350 1294 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 3350 1150 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 3350 1150 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 3350 1150 50  0001 C CNN "Footprint"
 	1    3350 1150
 	0    1    1    0   
 $EndComp
@@ -617,8 +556,6 @@ F 0 "D21" H 3350 1717 50  0001 C CNN
 F 1 "1N4148WS" H 3350 1625 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 3350 1325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3350 1500 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 3350 1500 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 3350 1500 50  0001 C CNN "Value"
 	1    3350 1500
 	0    1    -1   0   
 $EndComp
@@ -632,7 +569,6 @@ F 0 "Key22" H 3350 2335 50  0000 C CNN
 F 1 "CPG151101S03" H 3350 2244 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 3350 2100 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 3350 2100 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 3350 2100 50  0001 C CNN "Footprint"
 	1    3350 2100
 	0    1    1    0   
 $EndComp
@@ -646,8 +582,6 @@ F 0 "D22" H 3350 2667 50  0001 C CNN
 F 1 "1N4148WS" H 3350 2575 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 3350 2275 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3350 2450 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 3350 2450 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 3350 2450 50  0001 C CNN "Value"
 	1    3350 2450
 	0    1    -1   0   
 $EndComp
@@ -661,7 +595,6 @@ F 0 "Key23" H 3350 3285 50  0000 C CNN
 F 1 "CPG151101S03" H 3350 3194 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 3350 3050 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 3350 3050 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 3350 3050 50  0001 C CNN "Footprint"
 	1    3350 3050
 	0    1    1    0   
 $EndComp
@@ -675,8 +608,6 @@ F 0 "D23" H 3350 3617 50  0001 C CNN
 F 1 "1N4148WS" H 3350 3525 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 3350 3225 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3350 3400 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 3350 3400 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 3350 3400 50  0001 C CNN "Value"
 	1    3350 3400
 	0    1    -1   0   
 $EndComp
@@ -690,7 +621,6 @@ F 0 "Key24" H 3350 4235 50  0000 C CNN
 F 1 "CPG151101S03" H 3350 4144 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 3350 4000 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 3350 4000 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 3350 4000 50  0001 C CNN "Footprint"
 	1    3350 4000
 	0    1    1    0   
 $EndComp
@@ -704,8 +634,6 @@ F 0 "D24" H 3350 4567 50  0001 C CNN
 F 1 "1N4148WS" H 3350 4475 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 3350 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3350 4350 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 3350 4350 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 3350 4350 50  0001 C CNN "Value"
 	1    3350 4350
 	0    1    -1   0   
 $EndComp
@@ -719,7 +647,6 @@ F 0 "Key25" H 3350 5185 50  0000 C CNN
 F 1 "CPG151101S03" H 3350 5094 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 3350 4950 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 3350 4950 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 3350 4950 50  0001 C CNN "Footprint"
 	1    3350 4950
 	0    1    1    0   
 $EndComp
@@ -733,8 +660,6 @@ F 0 "D25" H 3350 5517 50  0001 C CNN
 F 1 "1N4148WS" H 3350 5425 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 3350 5125 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3350 5300 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 3350 5300 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 3350 5300 50  0001 C CNN "Value"
 	1    3350 5300
 	0    1    -1   0   
 $EndComp
@@ -748,7 +673,6 @@ F 0 "Key26" H 3850 1385 50  0000 C CNN
 F 1 "CPG151101S03" H 3850 1294 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 3850 1150 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 3850 1150 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 3850 1150 50  0001 C CNN "Footprint"
 	1    3850 1150
 	0    1    1    0   
 $EndComp
@@ -762,8 +686,6 @@ F 0 "D26" H 3850 1717 50  0001 C CNN
 F 1 "1N4148WS" H 3850 1625 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 3850 1325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3850 1500 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 3850 1500 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 3850 1500 50  0001 C CNN "Value"
 	1    3850 1500
 	0    1    -1   0   
 $EndComp
@@ -777,7 +699,6 @@ F 0 "Key27" H 3850 2335 50  0000 C CNN
 F 1 "CPG151101S03" H 3850 2244 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 3850 2100 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 3850 2100 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 3850 2100 50  0001 C CNN "Footprint"
 	1    3850 2100
 	0    1    1    0   
 $EndComp
@@ -791,8 +712,6 @@ F 0 "D27" H 3850 2667 50  0001 C CNN
 F 1 "1N4148WS" H 3850 2575 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 3850 2275 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3850 2450 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 3850 2450 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 3850 2450 50  0001 C CNN "Value"
 	1    3850 2450
 	0    1    -1   0   
 $EndComp
@@ -806,7 +725,6 @@ F 0 "Key28" H 3850 3285 50  0000 C CNN
 F 1 "CPG151101S03" H 3850 3194 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 3850 3050 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 3850 3050 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 3850 3050 50  0001 C CNN "Footprint"
 	1    3850 3050
 	0    1    1    0   
 $EndComp
@@ -820,8 +738,6 @@ F 0 "D28" H 3850 3617 50  0001 C CNN
 F 1 "1N4148WS" H 3850 3525 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 3850 3225 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3850 3400 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 3850 3400 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 3850 3400 50  0001 C CNN "Value"
 	1    3850 3400
 	0    1    -1   0   
 $EndComp
@@ -835,7 +751,6 @@ F 0 "Key29" H 3850 4235 50  0000 C CNN
 F 1 "CPG151101S03" H 3850 4144 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 3850 4000 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 3850 4000 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 3850 4000 50  0001 C CNN "Footprint"
 	1    3850 4000
 	0    1    1    0   
 $EndComp
@@ -849,8 +764,6 @@ F 0 "D29" H 3850 4567 50  0001 C CNN
 F 1 "1N4148WS" H 3850 4475 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 3850 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3850 4350 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 3850 4350 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 3850 4350 50  0001 C CNN "Value"
 	1    3850 4350
 	0    1    -1   0   
 $EndComp
@@ -864,7 +777,6 @@ F 0 "Key30" H 3850 5185 50  0000 C CNN
 F 1 "CPG151101S03" H 3850 5094 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 3850 4950 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 3850 4950 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 3850 4950 50  0001 C CNN "Footprint"
 	1    3850 4950
 	0    1    1    0   
 $EndComp
@@ -878,8 +790,6 @@ F 0 "D30" H 3850 5517 50  0001 C CNN
 F 1 "1N4148WS" H 3850 5425 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 3850 5125 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3850 5300 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 3850 5300 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 3850 5300 50  0001 C CNN "Value"
 	1    3850 5300
 	0    1    -1   0   
 $EndComp
@@ -893,7 +803,6 @@ F 0 "Key31" H 4350 1385 50  0000 C CNN
 F 1 "CPG151101S03" H 4350 1294 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 4350 1150 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 4350 1150 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 4350 1150 50  0001 C CNN "Footprint"
 	1    4350 1150
 	0    1    1    0   
 $EndComp
@@ -907,8 +816,6 @@ F 0 "D31" H 4350 1717 50  0001 C CNN
 F 1 "1N4148WS" H 4350 1625 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 4350 1325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4350 1500 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 4350 1500 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 4350 1500 50  0001 C CNN "Value"
 	1    4350 1500
 	0    1    -1   0   
 $EndComp
@@ -922,7 +829,6 @@ F 0 "Key32" H 4350 2335 50  0000 C CNN
 F 1 "CPG151101S03" H 4350 2244 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 4350 2100 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 4350 2100 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 4350 2100 50  0001 C CNN "Footprint"
 	1    4350 2100
 	0    1    1    0   
 $EndComp
@@ -936,8 +842,6 @@ F 0 "D32" H 4350 2667 50  0001 C CNN
 F 1 "1N4148WS" H 4350 2575 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 4350 2275 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4350 2450 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 4350 2450 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 4350 2450 50  0001 C CNN "Value"
 	1    4350 2450
 	0    1    -1   0   
 $EndComp
@@ -951,7 +855,6 @@ F 0 "Key33" H 4350 3285 50  0000 C CNN
 F 1 "CPG151101S03" H 4350 3194 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 4350 3050 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 4350 3050 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 4350 3050 50  0001 C CNN "Footprint"
 	1    4350 3050
 	0    1    1    0   
 $EndComp
@@ -965,8 +868,6 @@ F 0 "D33" H 4350 3617 50  0001 C CNN
 F 1 "1N4148WS" H 4350 3525 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 4350 3225 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4350 3400 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 4350 3400 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 4350 3400 50  0001 C CNN "Value"
 	1    4350 3400
 	0    1    -1   0   
 $EndComp
@@ -980,7 +881,6 @@ F 0 "Key34" H 4350 4235 50  0000 C CNN
 F 1 "CPG151101S03" H 4350 4144 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 4350 4000 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 4350 4000 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 4350 4000 50  0001 C CNN "Footprint"
 	1    4350 4000
 	0    1    1    0   
 $EndComp
@@ -994,8 +894,6 @@ F 0 "D34" H 4350 4567 50  0001 C CNN
 F 1 "1N4148WS" H 4350 4475 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 4350 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4350 4350 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 4350 4350 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 4350 4350 50  0001 C CNN "Value"
 	1    4350 4350
 	0    1    -1   0   
 $EndComp
@@ -1009,7 +907,6 @@ F 0 "Key35" H 4850 1385 50  0000 C CNN
 F 1 "CPG151101S03" H 4850 1294 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 4850 1150 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 4850 1150 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 4850 1150 50  0001 C CNN "Footprint"
 	1    4850 1150
 	0    1    1    0   
 $EndComp
@@ -1023,8 +920,6 @@ F 0 "D35" H 4850 1717 50  0001 C CNN
 F 1 "1N4148WS" H 4850 1625 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 4850 1325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4850 1500 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 4850 1500 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 4850 1500 50  0001 C CNN "Value"
 	1    4850 1500
 	0    1    -1   0   
 $EndComp
@@ -1038,7 +933,6 @@ F 0 "Key36" H 4850 2335 50  0000 C CNN
 F 1 "CPG151101S03" H 4850 2244 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 4850 2100 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 4850 2100 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 4850 2100 50  0001 C CNN "Footprint"
 	1    4850 2100
 	0    1    1    0   
 $EndComp
@@ -1052,8 +946,6 @@ F 0 "D36" H 4850 2667 50  0001 C CNN
 F 1 "1N4148WS" H 4850 2575 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 4850 2275 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4850 2450 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 4850 2450 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 4850 2450 50  0001 C CNN "Value"
 	1    4850 2450
 	0    1    -1   0   
 $EndComp
@@ -1067,7 +959,6 @@ F 0 "Key37" H 4850 3285 50  0000 C CNN
 F 1 "CPG151101S03" H 4850 3194 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 4850 3050 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 4850 3050 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 4850 3050 50  0001 C CNN "Footprint"
 	1    4850 3050
 	0    1    1    0   
 $EndComp
@@ -1081,8 +972,6 @@ F 0 "D37" H 4850 3617 50  0001 C CNN
 F 1 "1N4148WS" H 4850 3525 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 4850 3225 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4850 3400 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 4850 3400 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 4850 3400 50  0001 C CNN "Value"
 	1    4850 3400
 	0    1    -1   0   
 $EndComp
@@ -1096,7 +985,6 @@ F 0 "Key38" H 4850 4235 50  0000 C CNN
 F 1 "CPG151101S03" H 4850 4144 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 4850 4000 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 4850 4000 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 4850 4000 50  0001 C CNN "Footprint"
 	1    4850 4000
 	0    1    1    0   
 $EndComp
@@ -1110,8 +998,6 @@ F 0 "D38" H 4850 4567 50  0001 C CNN
 F 1 "1N4148WS" H 4850 4475 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 4850 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4850 4350 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 4850 4350 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 4850 4350 50  0001 C CNN "Value"
 	1    4850 4350
 	0    1    -1   0   
 $EndComp
@@ -1125,7 +1011,6 @@ F 0 "Key39" H 4850 5185 50  0000 C CNN
 F 1 "CPG151101S03" H 4850 5094 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 4850 4950 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 4850 4950 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 4850 4950 50  0001 C CNN "Footprint"
 	1    4850 4950
 	0    1    1    0   
 $EndComp
@@ -1139,8 +1024,6 @@ F 0 "D39" H 4850 5517 50  0001 C CNN
 F 1 "1N4148WS" H 4850 5425 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 4850 5125 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4850 5300 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 4850 5300 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 4850 5300 50  0001 C CNN "Value"
 	1    4850 5300
 	0    1    -1   0   
 $EndComp
@@ -1154,7 +1037,6 @@ F 0 "Key40" H 5350 1385 50  0000 C CNN
 F 1 "CPG151101S03" H 5350 1294 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 5350 1150 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 5350 1150 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 5350 1150 50  0001 C CNN "Footprint"
 	1    5350 1150
 	0    1    1    0   
 $EndComp
@@ -1168,8 +1050,6 @@ F 0 "D40" H 5350 1717 50  0001 C CNN
 F 1 "1N4148WS" H 5350 1625 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 5350 1325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5350 1500 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 5350 1500 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 5350 1500 50  0001 C CNN "Value"
 	1    5350 1500
 	0    1    -1   0   
 $EndComp
@@ -1183,7 +1063,6 @@ F 0 "Key41" H 5350 2335 50  0000 C CNN
 F 1 "CPG151101S03" H 5350 2244 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 5350 2100 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 5350 2100 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 5350 2100 50  0001 C CNN "Footprint"
 	1    5350 2100
 	0    1    1    0   
 $EndComp
@@ -1197,8 +1076,6 @@ F 0 "D41" H 5350 2667 50  0001 C CNN
 F 1 "1N4148WS" H 5350 2575 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 5350 2275 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5350 2450 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 5350 2450 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 5350 2450 50  0001 C CNN "Value"
 	1    5350 2450
 	0    1    -1   0   
 $EndComp
@@ -1212,7 +1089,6 @@ F 0 "Key42" H 5350 3285 50  0000 C CNN
 F 1 "CPG151101S03" H 5350 3194 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 5350 3050 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 5350 3050 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 5350 3050 50  0001 C CNN "Footprint"
 	1    5350 3050
 	0    1    1    0   
 $EndComp
@@ -1226,8 +1102,6 @@ F 0 "D42" H 5350 3617 50  0001 C CNN
 F 1 "1N4148WS" H 5350 3525 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 5350 3225 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5350 3400 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 5350 3400 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 5350 3400 50  0001 C CNN "Value"
 	1    5350 3400
 	0    1    -1   0   
 $EndComp
@@ -1241,7 +1115,6 @@ F 0 "Key43" H 5350 4235 50  0000 C CNN
 F 1 "CPG151101S03" H 5350 4144 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 5350 4000 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 5350 4000 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 5350 4000 50  0001 C CNN "Footprint"
 	1    5350 4000
 	0    1    1    0   
 $EndComp
@@ -1255,8 +1128,6 @@ F 0 "D43" H 5350 4567 50  0001 C CNN
 F 1 "1N4148WS" H 5350 4475 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 5350 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5350 4350 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 5350 4350 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 5350 4350 50  0001 C CNN "Value"
 	1    5350 4350
 	0    1    -1   0   
 $EndComp
@@ -1270,7 +1141,6 @@ F 0 "Key44" H 5350 5185 50  0000 C CNN
 F 1 "CPG151101S03" H 5350 5094 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 5350 4950 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 5350 4950 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 5350 4950 50  0001 C CNN "Footprint"
 	1    5350 4950
 	0    1    1    0   
 $EndComp
@@ -1284,8 +1154,6 @@ F 0 "D44" H 5350 5517 50  0001 C CNN
 F 1 "1N4148WS" H 5350 5425 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 5350 5125 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5350 5300 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 5350 5300 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 5350 5300 50  0001 C CNN "Value"
 	1    5350 5300
 	0    1    -1   0   
 $EndComp
@@ -1299,7 +1167,6 @@ F 0 "Key45" H 5850 1385 50  0000 C CNN
 F 1 "CPG151101S03" H 5850 1294 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 5850 1150 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 5850 1150 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 5850 1150 50  0001 C CNN "Footprint"
 	1    5850 1150
 	0    1    1    0   
 $EndComp
@@ -1313,8 +1180,6 @@ F 0 "D45" H 5850 1717 50  0001 C CNN
 F 1 "1N4148WS" H 5850 1625 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 5850 1325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5850 1500 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 5850 1500 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 5850 1500 50  0001 C CNN "Value"
 	1    5850 1500
 	0    1    -1   0   
 $EndComp
@@ -1328,7 +1193,6 @@ F 0 "Key46" H 5850 2335 50  0000 C CNN
 F 1 "CPG151101S03" H 5850 2244 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 5850 2100 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 5850 2100 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 5850 2100 50  0001 C CNN "Footprint"
 	1    5850 2100
 	0    1    1    0   
 $EndComp
@@ -1342,8 +1206,6 @@ F 0 "D46" H 5850 2667 50  0001 C CNN
 F 1 "1N4148WS" H 5850 2575 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 5850 2275 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5850 2450 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 5850 2450 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 5850 2450 50  0001 C CNN "Value"
 	1    5850 2450
 	0    1    -1   0   
 $EndComp
@@ -1357,7 +1219,6 @@ F 0 "Key47" H 5850 3285 50  0000 C CNN
 F 1 "CPG151101S03" H 5850 3194 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 5850 3050 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 5850 3050 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 5850 3050 50  0001 C CNN "Footprint"
 	1    5850 3050
 	0    1    1    0   
 $EndComp
@@ -1371,8 +1232,6 @@ F 0 "D47" H 5850 3617 50  0001 C CNN
 F 1 "1N4148WS" H 5850 3525 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 5850 3225 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5850 3400 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 5850 3400 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 5850 3400 50  0001 C CNN "Value"
 	1    5850 3400
 	0    1    -1   0   
 $EndComp
@@ -1386,7 +1245,6 @@ F 0 "Key48" H 5850 4235 50  0000 C CNN
 F 1 "CPG151101S03" H 5850 4144 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 5850 4000 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 5850 4000 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 5850 4000 50  0001 C CNN "Footprint"
 	1    5850 4000
 	0    1    1    0   
 $EndComp
@@ -1400,8 +1258,6 @@ F 0 "D48" H 5850 4567 50  0001 C CNN
 F 1 "1N4148WS" H 5850 4475 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 5850 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5850 4350 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 5850 4350 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 5850 4350 50  0001 C CNN "Value"
 	1    5850 4350
 	0    1    -1   0   
 $EndComp
@@ -1415,7 +1271,6 @@ F 0 "Key49" H 5850 5185 50  0000 C CNN
 F 1 "CPG151101S03" H 5850 5094 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 5850 4950 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 5850 4950 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 5850 4950 50  0001 C CNN "Footprint"
 	1    5850 4950
 	0    1    1    0   
 $EndComp
@@ -1429,8 +1284,6 @@ F 0 "D49" H 5850 5517 50  0001 C CNN
 F 1 "1N4148WS" H 5850 5425 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 5850 5125 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5850 5300 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 5850 5300 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 5850 5300 50  0001 C CNN "Value"
 	1    5850 5300
 	0    1    -1   0   
 $EndComp
@@ -1444,7 +1297,6 @@ F 0 "Key50" H 6350 1385 50  0000 C CNN
 F 1 "CPG151101S03" H 6350 1294 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 6350 1150 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 6350 1150 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 6350 1150 50  0001 C CNN "Footprint"
 	1    6350 1150
 	0    1    1    0   
 $EndComp
@@ -1458,8 +1310,6 @@ F 0 "D50" H 6350 1717 50  0001 C CNN
 F 1 "1N4148WS" H 6350 1625 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 6350 1325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6350 1500 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 6350 1500 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 6350 1500 50  0001 C CNN "Value"
 	1    6350 1500
 	0    1    -1   0   
 $EndComp
@@ -1473,7 +1323,6 @@ F 0 "Key51" H 6350 2335 50  0000 C CNN
 F 1 "CPG151101S03" H 6350 2244 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 6350 2100 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 6350 2100 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 6350 2100 50  0001 C CNN "Footprint"
 	1    6350 2100
 	0    1    1    0   
 $EndComp
@@ -1487,8 +1336,6 @@ F 0 "D51" H 6350 2667 50  0001 C CNN
 F 1 "1N4148WS" H 6350 2575 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 6350 2275 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6350 2450 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 6350 2450 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 6350 2450 50  0001 C CNN "Value"
 	1    6350 2450
 	0    1    -1   0   
 $EndComp
@@ -1502,7 +1349,6 @@ F 0 "Key52" H 6350 3285 50  0000 C CNN
 F 1 "CPG151101S03" H 6350 3194 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 6350 3050 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 6350 3050 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 6350 3050 50  0001 C CNN "Footprint"
 	1    6350 3050
 	0    1    1    0   
 $EndComp
@@ -1516,8 +1362,6 @@ F 0 "D52" H 6350 3617 50  0001 C CNN
 F 1 "1N4148WS" H 6350 3525 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 6350 3225 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6350 3400 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 6350 3400 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 6350 3400 50  0001 C CNN "Value"
 	1    6350 3400
 	0    1    -1   0   
 $EndComp
@@ -1531,7 +1375,6 @@ F 0 "Key53" H 6350 4235 50  0000 C CNN
 F 1 "CPG151101S03" H 6350 4144 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 6350 4000 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 6350 4000 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 6350 4000 50  0001 C CNN "Footprint"
 	1    6350 4000
 	0    1    1    0   
 $EndComp
@@ -1545,8 +1388,6 @@ F 0 "D53" H 6350 4567 50  0001 C CNN
 F 1 "1N4148WS" H 6350 4475 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 6350 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6350 4350 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 6350 4350 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 6350 4350 50  0001 C CNN "Value"
 	1    6350 4350
 	0    1    -1   0   
 $EndComp
@@ -1560,7 +1401,6 @@ F 0 "Key54" H 6350 5185 50  0000 C CNN
 F 1 "CPG151101S03" H 6350 5094 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 6350 4950 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 6350 4950 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 6350 4950 50  0001 C CNN "Footprint"
 	1    6350 4950
 	0    1    1    0   
 $EndComp
@@ -1574,8 +1414,6 @@ F 0 "D54" H 6350 5517 50  0001 C CNN
 F 1 "1N4148WS" H 6350 5425 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 6350 5125 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6350 5300 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 6350 5300 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 6350 5300 50  0001 C CNN "Value"
 	1    6350 5300
 	0    1    -1   0   
 $EndComp
@@ -1589,7 +1427,6 @@ F 0 "Key55" H 6850 1385 50  0000 C CNN
 F 1 "CPG151101S03" H 6850 1294 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 6850 1150 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 6850 1150 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 6850 1150 50  0001 C CNN "Footprint"
 	1    6850 1150
 	0    1    1    0   
 $EndComp
@@ -1603,8 +1440,6 @@ F 0 "D55" H 6850 1717 50  0001 C CNN
 F 1 "1N4148WS" H 6850 1625 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 6850 1325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6850 1500 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 6850 1500 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 6850 1500 50  0001 C CNN "Value"
 	1    6850 1500
 	0    1    -1   0   
 $EndComp
@@ -1618,7 +1453,6 @@ F 0 "Key56" H 6850 2335 50  0000 C CNN
 F 1 "CPG151101S03" H 6850 2244 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 6850 2100 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 6850 2100 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 6850 2100 50  0001 C CNN "Footprint"
 	1    6850 2100
 	0    1    1    0   
 $EndComp
@@ -1632,8 +1466,6 @@ F 0 "D56" H 6850 2667 50  0001 C CNN
 F 1 "1N4148WS" H 6850 2575 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 6850 2275 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6850 2450 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 6850 2450 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 6850 2450 50  0001 C CNN "Value"
 	1    6850 2450
 	0    1    -1   0   
 $EndComp
@@ -1647,7 +1479,6 @@ F 0 "Key57" H 6850 3285 50  0000 C CNN
 F 1 "CPG151101S03" H 6850 3194 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 6850 3050 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 6850 3050 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 6850 3050 50  0001 C CNN "Footprint"
 	1    6850 3050
 	0    1    1    0   
 $EndComp
@@ -1661,8 +1492,6 @@ F 0 "D57" H 6850 3617 50  0001 C CNN
 F 1 "1N4148WS" H 6850 3525 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 6850 3225 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6850 3400 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 6850 3400 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 6850 3400 50  0001 C CNN "Value"
 	1    6850 3400
 	0    1    -1   0   
 $EndComp
@@ -1676,7 +1505,6 @@ F 0 "Key58" H 6850 4235 50  0000 C CNN
 F 1 "CPG151101S03" H 6850 4144 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 6850 4000 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 6850 4000 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 6850 4000 50  0001 C CNN "Footprint"
 	1    6850 4000
 	0    1    1    0   
 $EndComp
@@ -1690,8 +1518,6 @@ F 0 "D58" H 6850 4567 50  0001 C CNN
 F 1 "1N4148WS" H 6850 4475 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 6850 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6850 4350 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 6850 4350 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 6850 4350 50  0001 C CNN "Value"
 	1    6850 4350
 	0    1    -1   0   
 $EndComp
@@ -1705,7 +1531,6 @@ F 0 "Key59" H 6850 5185 50  0000 C CNN
 F 1 "CPG151101S03" H 6850 5094 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 6850 4950 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 6850 4950 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 6850 4950 50  0001 C CNN "Footprint"
 	1    6850 4950
 	0    1    1    0   
 $EndComp
@@ -1719,8 +1544,6 @@ F 0 "D59" H 6850 5517 50  0001 C CNN
 F 1 "1N4148WS" H 6850 5425 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 6850 5125 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6850 5300 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 6850 5300 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 6850 5300 50  0001 C CNN "Value"
 	1    6850 5300
 	0    1    -1   0   
 $EndComp
@@ -1734,7 +1557,6 @@ F 0 "Key60" H 7350 1385 50  0000 C CNN
 F 1 "CPG151101S03" H 7350 1294 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 7350 1150 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 7350 1150 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 7350 1150 50  0001 C CNN "Footprint"
 	1    7350 1150
 	0    1    1    0   
 $EndComp
@@ -1748,8 +1570,6 @@ F 0 "D60" H 7350 1717 50  0001 C CNN
 F 1 "1N4148WS" H 7350 1625 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 7350 1325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7350 1500 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 7350 1500 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 7350 1500 50  0001 C CNN "Value"
 	1    7350 1500
 	0    1    -1   0   
 $EndComp
@@ -1763,7 +1583,6 @@ F 0 "Key61" H 7350 2335 50  0000 C CNN
 F 1 "CPG151101S03" H 7350 2244 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 7350 2100 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 7350 2100 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 7350 2100 50  0001 C CNN "Footprint"
 	1    7350 2100
 	0    1    1    0   
 $EndComp
@@ -1777,8 +1596,6 @@ F 0 "D61" H 7350 2667 50  0001 C CNN
 F 1 "1N4148WS" H 7350 2575 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 7350 2275 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7350 2450 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 7350 2450 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 7350 2450 50  0001 C CNN "Value"
 	1    7350 2450
 	0    1    -1   0   
 $EndComp
@@ -1792,7 +1609,6 @@ F 0 "Key62" H 7350 3285 50  0000 C CNN
 F 1 "CPG151101S03" H 7350 3194 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 7350 3050 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 7350 3050 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 7350 3050 50  0001 C CNN "Footprint"
 	1    7350 3050
 	0    1    1    0   
 $EndComp
@@ -1806,8 +1622,6 @@ F 0 "D62" H 7350 3617 50  0001 C CNN
 F 1 "1N4148WS" H 7350 3525 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 7350 3225 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7350 3400 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 7350 3400 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 7350 3400 50  0001 C CNN "Value"
 	1    7350 3400
 	0    1    -1   0   
 $EndComp
@@ -1821,7 +1635,6 @@ F 0 "Key63" H 7350 4235 50  0000 C CNN
 F 1 "CPG151101S03" H 7350 4144 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 7350 4000 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 7350 4000 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 7350 4000 50  0001 C CNN "Footprint"
 	1    7350 4000
 	0    1    1    0   
 $EndComp
@@ -1835,8 +1648,6 @@ F 0 "D63" H 7350 4567 50  0001 C CNN
 F 1 "1N4148WS" H 7350 4475 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 7350 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7350 4350 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 7350 4350 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 7350 4350 50  0001 C CNN "Value"
 	1    7350 4350
 	0    1    -1   0   
 $EndComp
@@ -1850,7 +1661,6 @@ F 0 "Key64" H 7350 5185 50  0000 C CNN
 F 1 "CPG151101S03" H 7350 5094 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 7350 4950 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 7350 4950 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 7350 4950 50  0001 C CNN "Footprint"
 	1    7350 4950
 	0    1    1    0   
 $EndComp
@@ -1864,8 +1674,6 @@ F 0 "D64" H 7350 5517 50  0001 C CNN
 F 1 "1N4148WS" H 7350 5425 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 7350 5125 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7350 5300 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 7350 5300 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 7350 5300 50  0001 C CNN "Value"
 	1    7350 5300
 	0    1    -1   0   
 $EndComp
@@ -1879,7 +1687,6 @@ F 0 "Key65" H 7850 1385 50  0000 C CNN
 F 1 "CPG151101S03" H 7850 1294 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 7850 1150 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 7850 1150 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 7850 1150 50  0001 C CNN "Footprint"
 	1    7850 1150
 	0    1    1    0   
 $EndComp
@@ -1893,8 +1700,6 @@ F 0 "D65" H 7850 1717 50  0001 C CNN
 F 1 "1N4148WS" H 7850 1625 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 7850 1325 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7850 1500 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 7850 1500 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 7850 1500 50  0001 C CNN "Value"
 	1    7850 1500
 	0    1    -1   0   
 $EndComp
@@ -1908,7 +1713,6 @@ F 0 "Key66" H 7850 2335 50  0000 C CNN
 F 1 "CPG151101S03" H 7850 2244 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 7850 2100 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 7850 2100 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 7850 2100 50  0001 C CNN "Footprint"
 	1    7850 2100
 	0    1    1    0   
 $EndComp
@@ -1922,8 +1726,6 @@ F 0 "D66" H 7850 2667 50  0001 C CNN
 F 1 "1N4148WS" H 7850 2575 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 7850 2275 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7850 2450 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 7850 2450 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 7850 2450 50  0001 C CNN "Value"
 	1    7850 2450
 	0    1    -1   0   
 $EndComp
@@ -1937,7 +1739,6 @@ F 0 "Key67" H 7850 4235 50  0000 C CNN
 F 1 "CPG151101S03" H 7850 4144 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 7850 4000 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 7850 4000 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 7850 4000 50  0001 C CNN "Footprint"
 	1    7850 4000
 	0    1    1    0   
 $EndComp
@@ -1951,8 +1752,6 @@ F 0 "D67" H 7850 4567 50  0001 C CNN
 F 1 "1N4148WS" H 7850 4475 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 7850 4175 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7850 4350 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 7850 4350 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 7850 4350 50  0001 C CNN "Value"
 	1    7850 4350
 	0    1    -1   0   
 $EndComp
@@ -1966,7 +1765,6 @@ F 0 "Key68" H 7850 5185 50  0000 C CNN
 F 1 "CPG151101S03" H 7850 5094 50  0000 C CNN
 F 2 "KiCad:Kailh_socket_MX_simplified" H 7850 4950 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/1907311405_Kailh-CPG151101S03_C404350.pdf" H 7850 4950 50  0001 C CNN
-F 4 "keyswitches:Kailh_socket_MX_optional_reversible" H 7850 4950 50  0001 C CNN "Footprint"
 	1    7850 4950
 	0    1    1    0   
 $EndComp
@@ -1980,8 +1778,6 @@ F 0 "D68" H 7850 5517 50  0001 C CNN
 F 1 "1N4148WS" H 7850 5425 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-323" H 7850 5125 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7850 5300 50  0001 C CNN
-F 4 "Diode_SMD:D_SOD-323" H 7850 5300 50  0001 C CNN "Footprint"
-F 5 "1N4148W" H 7850 5300 50  0001 C CNN "Value"
 	1    7850 5300
 	0    1    -1   0   
 $EndComp
