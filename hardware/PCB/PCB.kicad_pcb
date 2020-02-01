@@ -40,7 +40,7 @@
   )
 
   (setup
-    (last_trace_width 0.6)
+    (last_trace_width 0.3)
     (user_trace_width 0.2)
     (user_trace_width 0.25)
     (user_trace_width 0.3)
@@ -17531,7 +17531,7 @@
   (segment (start 108.780274 169.646951) (end 108.780274 167.665074) (width 0.4) (layer F.Cu) (net 176) (tstamp 5E366D24) (status 30))
   (segment (start 108.780275 188.696865) (end 108.780275 186.715075) (width 0.4) (layer F.Cu) (net 177) (tstamp 5E366D33) (status 30))
 
-  (zone (net 1) (net_name GND) (layer F.Cu) (tstamp 5E36E89F) (hatch edge 0.508)
+  (zone (net 1) (net_name GND) (layer F.Cu) (tstamp 5E370184) (hatch edge 0.508)
     (connect_pads yes (clearance 0.2))
     (min_thickness 0.2)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -22053,7 +22053,7 @@
       )
     )
   )
-  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 5E36E8A2) (hatch edge 0.508)
+  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 5E370181) (hatch edge 0.508)
     (connect_pads yes (clearance 0.2))
     (min_thickness 0.2)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
