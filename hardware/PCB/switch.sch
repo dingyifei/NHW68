@@ -14,10 +14,10 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E365156
 P 1350 1150
-AR Path="/5E365156" Ref="CherryMX?"  Part="1" 
+AR Path="/5E365156" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E365156" Ref="Key1"  Part="1" 
 F 0 "Key1" H 1350 1385 50  0000 C CNN
 F 1 "Switch" H 1350 1294 50  0000 C CNN
@@ -42,10 +42,10 @@ F 4 "1N4148WS" H 1350 1500 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E365162
 P 1350 2100
-AR Path="/5E365162" Ref="CherryMX?"  Part="1" 
+AR Path="/5E365162" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E365162" Ref="Key2"  Part="1" 
 F 0 "Key2" H 1350 2335 50  0000 C CNN
 F 1 "Switch" H 1350 2244 50  0000 C CNN
@@ -70,10 +70,10 @@ F 4 "1N4148WS" H 1350 2450 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E36516E
 P 1350 3050
-AR Path="/5E36516E" Ref="CherryMX?"  Part="1" 
+AR Path="/5E36516E" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E36516E" Ref="Key3"  Part="1" 
 F 0 "Key3" H 1350 3285 50  0000 C CNN
 F 1 "Switch" H 1350 3194 50  0000 C CNN
@@ -98,10 +98,10 @@ F 4 "1N4148WS" H 1350 3400 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E36517A
 P 1350 4000
-AR Path="/5E36517A" Ref="CherryMX?"  Part="1" 
+AR Path="/5E36517A" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E36517A" Ref="Key4"  Part="1" 
 F 0 "Key4" H 1350 4235 50  0000 C CNN
 F 1 "Switch" H 1350 4144 50  0000 C CNN
@@ -126,10 +126,10 @@ F 4 "1N4148WS" H 1350 4350 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E365186
 P 1350 4950
-AR Path="/5E365186" Ref="CherryMX?"  Part="1" 
+AR Path="/5E365186" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E365186" Ref="Key5"  Part="1" 
 F 0 "Key5" H 1350 5185 50  0000 C CNN
 F 1 "Switch" H 1350 5094 50  0000 C CNN
@@ -154,10 +154,10 @@ F 4 "1N4148WS" H 1350 5300 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3DB260
 P 1850 1150
-AR Path="/5E3DB260" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3DB260" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3DB260" Ref="Key6"  Part="1" 
 F 0 "Key6" H 1850 1385 50  0000 C CNN
 F 1 "Switch" H 1850 1294 50  0000 C CNN
@@ -182,10 +182,10 @@ F 4 "1N4148WS" H 1850 1500 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3DB26C
 P 1850 2100
-AR Path="/5E3DB26C" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3DB26C" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3DB26C" Ref="Key7"  Part="1" 
 F 0 "Key7" H 1850 2335 50  0000 C CNN
 F 1 "Switch" H 1850 2244 50  0000 C CNN
@@ -210,10 +210,10 @@ F 4 "1N4148WS" H 1850 2450 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3DB278
 P 1850 3050
-AR Path="/5E3DB278" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3DB278" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3DB278" Ref="Key8"  Part="1" 
 F 0 "Key8" H 1850 3285 50  0000 C CNN
 F 1 "Switch" H 1850 3194 50  0000 C CNN
@@ -238,10 +238,10 @@ F 4 "1N4148WS" H 1850 3400 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3DB284
 P 1850 4000
-AR Path="/5E3DB284" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3DB284" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3DB284" Ref="Key9"  Part="1" 
 F 0 "Key9" H 1850 4235 50  0000 C CNN
 F 1 "Switch" H 1850 4144 50  0000 C CNN
@@ -266,10 +266,10 @@ F 4 "1N4148WS" H 1850 4350 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3DB290
 P 1850 4950
-AR Path="/5E3DB290" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3DB290" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3DB290" Ref="Key10"  Part="1" 
 F 0 "Key10" H 1850 5185 50  0000 C CNN
 F 1 "Switch" H 1850 5094 50  0000 C CNN
@@ -294,10 +294,10 @@ F 4 "1N4148WS" H 1850 5300 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3DB2A8
 P 2350 1150
-AR Path="/5E3DB2A8" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3DB2A8" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3DB2A8" Ref="Key11"  Part="1" 
 F 0 "Key11" H 2350 1385 50  0000 C CNN
 F 1 "Switch" H 2350 1294 50  0000 C CNN
@@ -322,10 +322,10 @@ F 4 "1N4148WS" H 2350 1500 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3DB2B4
 P 2350 2100
-AR Path="/5E3DB2B4" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3DB2B4" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3DB2B4" Ref="Key12"  Part="1" 
 F 0 "Key12" H 2350 2335 50  0000 C CNN
 F 1 "Switch" H 2350 2244 50  0000 C CNN
@@ -350,10 +350,10 @@ F 4 "1N4148WS" H 2350 2450 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3DB2C0
 P 2350 3050
-AR Path="/5E3DB2C0" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3DB2C0" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3DB2C0" Ref="Key13"  Part="1" 
 F 0 "Key13" H 2350 3285 50  0000 C CNN
 F 1 "Switch" H 2350 3194 50  0000 C CNN
@@ -378,10 +378,10 @@ F 4 "1N4148WS" H 2350 3400 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3DB2CC
 P 2350 4000
-AR Path="/5E3DB2CC" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3DB2CC" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3DB2CC" Ref="Key14"  Part="1" 
 F 0 "Key14" H 2350 4235 50  0000 C CNN
 F 1 "Switch" H 2350 4144 50  0000 C CNN
@@ -406,10 +406,10 @@ F 4 "1N4148WS" H 2350 4350 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3DB2D8
 P 2350 4950
-AR Path="/5E3DB2D8" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3DB2D8" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3DB2D8" Ref="Key15"  Part="1" 
 F 0 "Key15" H 2350 5185 50  0000 C CNN
 F 1 "Switch" H 2350 5094 50  0000 C CNN
@@ -434,10 +434,10 @@ F 4 "1N4148WS" H 2350 5300 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3FD394
 P 2850 1150
-AR Path="/5E3FD394" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3FD394" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3FD394" Ref="Key16"  Part="1" 
 F 0 "Key16" H 2850 1385 50  0000 C CNN
 F 1 "Switch" H 2850 1294 50  0000 C CNN
@@ -462,10 +462,10 @@ F 4 "1N4148WS" H 2850 1500 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3FD3A0
 P 2850 2100
-AR Path="/5E3FD3A0" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3FD3A0" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3FD3A0" Ref="Key17"  Part="1" 
 F 0 "Key17" H 2850 2335 50  0000 C CNN
 F 1 "Switch" H 2850 2244 50  0000 C CNN
@@ -490,10 +490,10 @@ F 4 "1N4148WS" H 2850 2450 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3FD3AC
 P 2850 3050
-AR Path="/5E3FD3AC" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3FD3AC" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3FD3AC" Ref="Key18"  Part="1" 
 F 0 "Key18" H 2850 3285 50  0000 C CNN
 F 1 "Switch" H 2850 3194 50  0000 C CNN
@@ -518,10 +518,10 @@ F 4 "1N4148WS" H 2850 3400 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3FD3B8
 P 2850 4000
-AR Path="/5E3FD3B8" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3FD3B8" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3FD3B8" Ref="Key19"  Part="1" 
 F 0 "Key19" H 2850 4235 50  0000 C CNN
 F 1 "Switch" H 2850 4144 50  0000 C CNN
@@ -546,10 +546,10 @@ F 4 "1N4148WS" H 2850 4350 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3FD3C4
 P 2850 4950
-AR Path="/5E3FD3C4" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3FD3C4" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3FD3C4" Ref="Key20"  Part="1" 
 F 0 "Key20" H 2850 5185 50  0000 C CNN
 F 1 "Switch" H 2850 5094 50  0000 C CNN
@@ -574,10 +574,10 @@ F 4 "1N4148WS" H 2850 5300 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3FD3DC
 P 3350 1150
-AR Path="/5E3FD3DC" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3FD3DC" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3FD3DC" Ref="Key21"  Part="1" 
 F 0 "Key21" H 3350 1385 50  0000 C CNN
 F 1 "Switch" H 3350 1294 50  0000 C CNN
@@ -602,10 +602,10 @@ F 4 "1N4148WS" H 3350 1500 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3FD3E8
 P 3350 2100
-AR Path="/5E3FD3E8" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3FD3E8" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3FD3E8" Ref="Key22"  Part="1" 
 F 0 "Key22" H 3350 2335 50  0000 C CNN
 F 1 "Switch" H 3350 2244 50  0000 C CNN
@@ -630,10 +630,10 @@ F 4 "1N4148WS" H 3350 2450 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3FD3F4
 P 3350 3050
-AR Path="/5E3FD3F4" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3FD3F4" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3FD3F4" Ref="Key23"  Part="1" 
 F 0 "Key23" H 3350 3285 50  0000 C CNN
 F 1 "Switch" H 3350 3194 50  0000 C CNN
@@ -658,10 +658,10 @@ F 4 "1N4148WS" H 3350 3400 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3FD400
 P 3350 4000
-AR Path="/5E3FD400" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3FD400" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3FD400" Ref="Key24"  Part="1" 
 F 0 "Key24" H 3350 4235 50  0000 C CNN
 F 1 "Switch" H 3350 4144 50  0000 C CNN
@@ -686,10 +686,10 @@ F 4 "1N4148WS" H 3350 4350 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3FD40C
 P 3350 4950
-AR Path="/5E3FD40C" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3FD40C" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3FD40C" Ref="Key25"  Part="1" 
 F 0 "Key25" H 3350 5185 50  0000 C CNN
 F 1 "Switch" H 3350 5094 50  0000 C CNN
@@ -714,10 +714,10 @@ F 4 "1N4148WS" H 3350 5300 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3FD424
 P 3850 1150
-AR Path="/5E3FD424" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3FD424" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3FD424" Ref="Key26"  Part="1" 
 F 0 "Key26" H 3850 1385 50  0000 C CNN
 F 1 "Switch" H 3850 1294 50  0000 C CNN
@@ -742,10 +742,10 @@ F 4 "1N4148WS" H 3850 1500 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3FD430
 P 3850 2100
-AR Path="/5E3FD430" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3FD430" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3FD430" Ref="Key27"  Part="1" 
 F 0 "Key27" H 3850 2335 50  0000 C CNN
 F 1 "Switch" H 3850 2244 50  0000 C CNN
@@ -770,10 +770,10 @@ F 4 "1N4148WS" H 3850 2450 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3FD43C
 P 3850 3050
-AR Path="/5E3FD43C" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3FD43C" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3FD43C" Ref="Key28"  Part="1" 
 F 0 "Key28" H 3850 3285 50  0000 C CNN
 F 1 "Switch" H 3850 3194 50  0000 C CNN
@@ -798,10 +798,10 @@ F 4 "1N4148WS" H 3850 3400 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3FD448
 P 3850 4000
-AR Path="/5E3FD448" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3FD448" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3FD448" Ref="Key29"  Part="1" 
 F 0 "Key29" H 3850 4235 50  0000 C CNN
 F 1 "Switch" H 3850 4144 50  0000 C CNN
@@ -826,10 +826,10 @@ F 4 "1N4148WS" H 3850 4350 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3FD454
 P 3850 4950
-AR Path="/5E3FD454" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3FD454" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3FD454" Ref="Key30"  Part="1" 
 F 0 "Key30" H 3850 5185 50  0000 C CNN
 F 1 "Switch" H 3850 5094 50  0000 C CNN
@@ -854,10 +854,10 @@ F 4 "1N4148WS" H 3850 5300 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3FD46C
 P 4350 1150
-AR Path="/5E3FD46C" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3FD46C" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3FD46C" Ref="Key31"  Part="1" 
 F 0 "Key31" H 4350 1385 50  0000 C CNN
 F 1 "Switch" H 4350 1294 50  0000 C CNN
@@ -882,10 +882,10 @@ F 4 "1N4148WS" H 4350 1500 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3FD478
 P 4350 2100
-AR Path="/5E3FD478" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3FD478" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3FD478" Ref="Key32"  Part="1" 
 F 0 "Key32" H 4350 2335 50  0000 C CNN
 F 1 "Switch" H 4350 2244 50  0000 C CNN
@@ -910,10 +910,10 @@ F 4 "1N4148WS" H 4350 2450 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3FD484
 P 4350 3050
-AR Path="/5E3FD484" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3FD484" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3FD484" Ref="Key33"  Part="1" 
 F 0 "Key33" H 4350 3285 50  0000 C CNN
 F 1 "Switch" H 4350 3194 50  0000 C CNN
@@ -938,10 +938,10 @@ F 4 "1N4148WS" H 4350 3400 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E3FD490
 P 4350 4000
-AR Path="/5E3FD490" Ref="CherryMX?"  Part="1" 
+AR Path="/5E3FD490" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E3FD490" Ref="Key34"  Part="1" 
 F 0 "Key34" H 4350 4235 50  0000 C CNN
 F 1 "Switch" H 4350 4144 50  0000 C CNN
@@ -966,10 +966,10 @@ F 4 "1N4148WS" H 4350 4350 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F0F4
 P 4850 1150
-AR Path="/5E44F0F4" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F0F4" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F0F4" Ref="Key35"  Part="1" 
 F 0 "Key35" H 4850 1385 50  0000 C CNN
 F 1 "Switch" H 4850 1294 50  0000 C CNN
@@ -994,10 +994,10 @@ F 4 "1N4148WS" H 4850 1500 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F100
 P 4850 2100
-AR Path="/5E44F100" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F100" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F100" Ref="Key36"  Part="1" 
 F 0 "Key36" H 4850 2335 50  0000 C CNN
 F 1 "Switch" H 4850 2244 50  0000 C CNN
@@ -1022,10 +1022,10 @@ F 4 "1N4148WS" H 4850 2450 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F10C
 P 4850 3050
-AR Path="/5E44F10C" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F10C" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F10C" Ref="Key37"  Part="1" 
 F 0 "Key37" H 4850 3285 50  0000 C CNN
 F 1 "Switch" H 4850 3194 50  0000 C CNN
@@ -1050,10 +1050,10 @@ F 4 "1N4148WS" H 4850 3400 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F118
 P 4850 4000
-AR Path="/5E44F118" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F118" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F118" Ref="Key38"  Part="1" 
 F 0 "Key38" H 4850 4235 50  0000 C CNN
 F 1 "Switch" H 4850 4144 50  0000 C CNN
@@ -1078,10 +1078,10 @@ F 4 "1N4148WS" H 4850 4350 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F124
 P 4850 4950
-AR Path="/5E44F124" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F124" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F124" Ref="Key39"  Part="1" 
 F 0 "Key39" H 4850 5185 50  0000 C CNN
 F 1 "Switch" H 4850 5094 50  0000 C CNN
@@ -1106,10 +1106,10 @@ F 4 "1N4148WS" H 4850 5300 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F13C
 P 5350 1150
-AR Path="/5E44F13C" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F13C" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F13C" Ref="Key40"  Part="1" 
 F 0 "Key40" H 5350 1385 50  0000 C CNN
 F 1 "Switch" H 5350 1294 50  0000 C CNN
@@ -1134,10 +1134,10 @@ F 4 "1N4148WS" H 5350 1500 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F148
 P 5350 2100
-AR Path="/5E44F148" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F148" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F148" Ref="Key41"  Part="1" 
 F 0 "Key41" H 5350 2335 50  0000 C CNN
 F 1 "Switch" H 5350 2244 50  0000 C CNN
@@ -1162,10 +1162,10 @@ F 4 "1N4148WS" H 5350 2450 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F154
 P 5350 3050
-AR Path="/5E44F154" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F154" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F154" Ref="Key42"  Part="1" 
 F 0 "Key42" H 5350 3285 50  0000 C CNN
 F 1 "Switch" H 5350 3194 50  0000 C CNN
@@ -1190,10 +1190,10 @@ F 4 "1N4148WS" H 5350 3400 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F160
 P 5350 4000
-AR Path="/5E44F160" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F160" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F160" Ref="Key43"  Part="1" 
 F 0 "Key43" H 5350 4235 50  0000 C CNN
 F 1 "Switch" H 5350 4144 50  0000 C CNN
@@ -1218,10 +1218,10 @@ F 4 "1N4148WS" H 5350 4350 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F16C
 P 5350 4950
-AR Path="/5E44F16C" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F16C" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F16C" Ref="Key44"  Part="1" 
 F 0 "Key44" H 5350 5185 50  0000 C CNN
 F 1 "Switch" H 5350 5094 50  0000 C CNN
@@ -1246,10 +1246,10 @@ F 4 "1N4148WS" H 5350 5300 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F184
 P 5850 1150
-AR Path="/5E44F184" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F184" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F184" Ref="Key45"  Part="1" 
 F 0 "Key45" H 5850 1385 50  0000 C CNN
 F 1 "Switch" H 5850 1294 50  0000 C CNN
@@ -1274,10 +1274,10 @@ F 4 "1N4148WS" H 5850 1500 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F190
 P 5850 2100
-AR Path="/5E44F190" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F190" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F190" Ref="Key46"  Part="1" 
 F 0 "Key46" H 5850 2335 50  0000 C CNN
 F 1 "Switch" H 5850 2244 50  0000 C CNN
@@ -1302,10 +1302,10 @@ F 4 "1N4148WS" H 5850 2450 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F19C
 P 5850 3050
-AR Path="/5E44F19C" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F19C" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F19C" Ref="Key47"  Part="1" 
 F 0 "Key47" H 5850 3285 50  0000 C CNN
 F 1 "Switch" H 5850 3194 50  0000 C CNN
@@ -1330,10 +1330,10 @@ F 4 "1N4148WS" H 5850 3400 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F1A8
 P 5850 4000
-AR Path="/5E44F1A8" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F1A8" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F1A8" Ref="Key48"  Part="1" 
 F 0 "Key48" H 5850 4235 50  0000 C CNN
 F 1 "Switch" H 5850 4144 50  0000 C CNN
@@ -1358,10 +1358,10 @@ F 4 "1N4148WS" H 5850 4350 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F1B4
 P 5850 4950
-AR Path="/5E44F1B4" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F1B4" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F1B4" Ref="Key49"  Part="1" 
 F 0 "Key49" H 5850 5185 50  0000 C CNN
 F 1 "Switch" H 5850 5094 50  0000 C CNN
@@ -1386,10 +1386,10 @@ F 4 "1N4148WS" H 5850 5300 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F1CC
 P 6350 1150
-AR Path="/5E44F1CC" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F1CC" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F1CC" Ref="Key50"  Part="1" 
 F 0 "Key50" H 6350 1385 50  0000 C CNN
 F 1 "Switch" H 6350 1294 50  0000 C CNN
@@ -1414,10 +1414,10 @@ F 4 "1N4148WS" H 6350 1500 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F1D8
 P 6350 2100
-AR Path="/5E44F1D8" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F1D8" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F1D8" Ref="Key51"  Part="1" 
 F 0 "Key51" H 6350 2335 50  0000 C CNN
 F 1 "Switch" H 6350 2244 50  0000 C CNN
@@ -1442,10 +1442,10 @@ F 4 "1N4148WS" H 6350 2450 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F1E4
 P 6350 3050
-AR Path="/5E44F1E4" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F1E4" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F1E4" Ref="Key52"  Part="1" 
 F 0 "Key52" H 6350 3285 50  0000 C CNN
 F 1 "Switch" H 6350 3194 50  0000 C CNN
@@ -1470,10 +1470,10 @@ F 4 "1N4148WS" H 6350 3400 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F1F0
 P 6350 4000
-AR Path="/5E44F1F0" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F1F0" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F1F0" Ref="Key53"  Part="1" 
 F 0 "Key53" H 6350 4235 50  0000 C CNN
 F 1 "Switch" H 6350 4144 50  0000 C CNN
@@ -1498,10 +1498,10 @@ F 4 "1N4148WS" H 6350 4350 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F1FC
 P 6350 4950
-AR Path="/5E44F1FC" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F1FC" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F1FC" Ref="Key54"  Part="1" 
 F 0 "Key54" H 6350 5185 50  0000 C CNN
 F 1 "Switch" H 6350 5094 50  0000 C CNN
@@ -1526,10 +1526,10 @@ F 4 "1N4148WS" H 6350 5300 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F214
 P 6850 1150
-AR Path="/5E44F214" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F214" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F214" Ref="Key55"  Part="1" 
 F 0 "Key55" H 6850 1385 50  0000 C CNN
 F 1 "Switch" H 6850 1294 50  0000 C CNN
@@ -1554,10 +1554,10 @@ F 4 "1N4148WS" H 6850 1500 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F220
 P 6850 2100
-AR Path="/5E44F220" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F220" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F220" Ref="Key56"  Part="1" 
 F 0 "Key56" H 6850 2335 50  0000 C CNN
 F 1 "Switch" H 6850 2244 50  0000 C CNN
@@ -1582,10 +1582,10 @@ F 4 "1N4148WS" H 6850 2450 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F22C
 P 6850 3050
-AR Path="/5E44F22C" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F22C" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F22C" Ref="Key57"  Part="1" 
 F 0 "Key57" H 6850 3285 50  0000 C CNN
 F 1 "Switch" H 6850 3194 50  0000 C CNN
@@ -1610,10 +1610,10 @@ F 4 "1N4148WS" H 6850 3400 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F238
 P 6850 4000
-AR Path="/5E44F238" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F238" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F238" Ref="Key58"  Part="1" 
 F 0 "Key58" H 6850 4235 50  0000 C CNN
 F 1 "Switch" H 6850 4144 50  0000 C CNN
@@ -1638,10 +1638,10 @@ F 4 "1N4148WS" H 6850 4350 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F244
 P 6850 4950
-AR Path="/5E44F244" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F244" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F244" Ref="Key59"  Part="1" 
 F 0 "Key59" H 6850 5185 50  0000 C CNN
 F 1 "Switch" H 6850 5094 50  0000 C CNN
@@ -1666,10 +1666,10 @@ F 4 "1N4148WS" H 6850 5300 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F25C
 P 7350 1150
-AR Path="/5E44F25C" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F25C" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F25C" Ref="Key60"  Part="1" 
 F 0 "Key60" H 7350 1385 50  0000 C CNN
 F 1 "Switch" H 7350 1294 50  0000 C CNN
@@ -1694,10 +1694,10 @@ F 4 "1N4148WS" H 7350 1500 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F268
 P 7350 2100
-AR Path="/5E44F268" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F268" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F268" Ref="Key61"  Part="1" 
 F 0 "Key61" H 7350 2335 50  0000 C CNN
 F 1 "Switch" H 7350 2244 50  0000 C CNN
@@ -1722,10 +1722,10 @@ F 4 "1N4148WS" H 7350 2450 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F274
 P 7350 3050
-AR Path="/5E44F274" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F274" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F274" Ref="Key62"  Part="1" 
 F 0 "Key62" H 7350 3285 50  0000 C CNN
 F 1 "Switch" H 7350 3194 50  0000 C CNN
@@ -1750,10 +1750,10 @@ F 4 "1N4148WS" H 7350 3400 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F280
 P 7350 4000
-AR Path="/5E44F280" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F280" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F280" Ref="Key63"  Part="1" 
 F 0 "Key63" H 7350 4235 50  0000 C CNN
 F 1 "Switch" H 7350 4144 50  0000 C CNN
@@ -1778,10 +1778,10 @@ F 4 "1N4148WS" H 7350 4350 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F28C
 P 7350 4950
-AR Path="/5E44F28C" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F28C" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F28C" Ref="Key64"  Part="1" 
 F 0 "Key64" H 7350 5185 50  0000 C CNN
 F 1 "Switch" H 7350 5094 50  0000 C CNN
@@ -1806,10 +1806,10 @@ F 4 "1N4148WS" H 7350 5300 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F2A4
 P 7850 1150
-AR Path="/5E44F2A4" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F2A4" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F2A4" Ref="Key65"  Part="1" 
 F 0 "Key65" H 7850 1385 50  0000 C CNN
 F 1 "Switch" H 7850 1294 50  0000 C CNN
@@ -1834,10 +1834,10 @@ F 4 "1N4148WS" H 7850 1500 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F2B0
 P 7850 2100
-AR Path="/5E44F2B0" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F2B0" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F2B0" Ref="Key66"  Part="1" 
 F 0 "Key66" H 7850 2335 50  0000 C CNN
 F 1 "Switch" H 7850 2244 50  0000 C CNN
@@ -1862,10 +1862,10 @@ F 4 "1N4148WS" H 7850 2450 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F2C8
 P 7850 4000
-AR Path="/5E44F2C8" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F2C8" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F2C8" Ref="Key67"  Part="1" 
 F 0 "Key67" H 7850 4235 50  0000 C CNN
 F 1 "Switch" H 7850 4144 50  0000 C CNN
@@ -1890,10 +1890,10 @@ F 4 "1N4148WS" H 7850 4350 50  0001 C CNN "Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Switch:SW_SPST CherryMX?
+L Switch:SW_SPST Key?
 U 1 1 5E44F2D4
 P 7850 4950
-AR Path="/5E44F2D4" Ref="CherryMX?"  Part="1" 
+AR Path="/5E44F2D4" Ref="Key?"  Part="1" 
 AR Path="/5E25E984/5E44F2D4" Ref="Key68"  Part="1" 
 F 0 "Key68" H 7850 5185 50  0000 C CNN
 F 1 "Switch" H 7850 5094 50  0000 C CNN

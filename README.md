@@ -18,7 +18,9 @@ I'm attempting to draw the PCB and its my first time drawing a PCB so 0 confiden
 
 I have not yet tested the PCB, the keyboard PCB currently looks like this:
 
-![PCB](./picture/PCB.png)
+![PCB](./picture/PCB_Front.png)
+
+![PCB](./picture/PCB_Back.png)
 
 The keyboard uses STM32F303CCT6, IS31FL3733 and have per Key RGB. You are free to do whatever to the PCB
 
