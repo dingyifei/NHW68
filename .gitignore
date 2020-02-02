@@ -29,3 +29,5 @@ fp-info-cache
 hardware\PCB\output
 codes/ChibiOS_Board/.cproject
 codes/ChibiOS_Board/.project
+codes/Pinout
+*.lnk
