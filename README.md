@@ -21,7 +21,7 @@ I have not yet tested the PCB, the keyboard PCB currently looks like this:
 ![PCB_Front](./picture/PCB_Front.png)
 
 
-![PCB_Back](./picture/PCB_Back.png)
+![PCB_Back](./picture/PCB_back.png)
 
 The keyboard uses STM32F303CCT6, IS31FL3733 and have per Key RGB. You are free to do whatever to the PCB
 
