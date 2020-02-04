@@ -904,4 +904,6 @@ Text Notes 4000 6400 0    50   ~ 0
 Debugger
 Text Notes 650  900  0    50   ~ 0
 Reset
+NoConn ~ 5500 3750
+NoConn ~ 5500 3950
 $EndSCHEMATC
