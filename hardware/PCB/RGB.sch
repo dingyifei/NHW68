@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 3 6
 Title "NHW68"
-Date "2020-01-31"
-Rev "0.1"
+Date "2020-02-04"
+Rev "0.2"
 Comp ""
 Comment1 ""
 Comment2 ""

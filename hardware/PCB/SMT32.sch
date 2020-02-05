@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 6 6
 Title "NHW68"
-Date "2020-01-31"
-Rev "0.1"
+Date "2020-02-04"
+Rev "0.2"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -165,8 +165,8 @@ Wire Wire Line
 	1750 4200 1950 4200
 Wire Wire Line
 	1950 4350 1950 4200
-Text Notes 650  6300 0    50   ~ 0
-8Mhz External Crystal\nChange CL capasitors when using different crystal
+Text Notes 650  6350 0    50   ~ 0
+8Mhz External Crystal\nYou need to change CL capasitors and Resistor\nwhen using a different crystal
 $Comp
 L Device:C C21
 U 1 1 5E352E15
@@ -540,25 +540,14 @@ F 4 "STM32F303CCT6" H 6200 3150 50  0001 C CNN "Part Number"
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR028
-U 1 1 5E1C3394
-P 1000 5800
-F 0 "#PWR028" H 1000 5550 50  0001 C CNN
-F 1 "GND" V 1005 5672 50  0000 R CNN
-F 2 "" H 1000 5800 50  0001 C CNN
-F 3 "" H 1000 5800 50  0001 C CNN
-	1    1000 5800
-	0    1    1    0   
-$EndComp
-$Comp
 L power:GND #PWR027
 U 1 1 5E1C2E8B
-P 1000 5500
-F 0 "#PWR027" H 1000 5250 50  0001 C CNN
-F 1 "GND" V 1005 5372 50  0000 R CNN
-F 2 "" H 1000 5500 50  0001 C CNN
-F 3 "" H 1000 5500 50  0001 C CNN
-	1    1000 5500
+P 900 5650
+F 0 "#PWR027" H 900 5400 50  0001 C CNN
+F 1 "GND" V 905 5522 50  0000 R CNN
+F 2 "" H 900 5650 50  0001 C CNN
+F 3 "" H 900 5650 50  0001 C CNN
+	1    900  5650
 	0    1    1    0   
 $EndComp
 $Comp
@@ -819,16 +808,11 @@ Connection ~ 1400 5800
 Wire Wire Line
 	1400 5800 1500 5800
 Wire Wire Line
-	1600 5650 1200 5650
-Wire Wire Line
 	1200 5650 1000 5650
 Wire Wire Line
 	1000 5650 1000 5500
-Connection ~ 1200 5650
-Connection ~ 1000 5500
 Wire Wire Line
 	1000 5800 1000 5650
-Connection ~ 1000 5800
 Connection ~ 1000 5650
 Wire Wire Line
 	1200 1400 1200 1500
@@ -906,4 +890,19 @@ Text Notes 650  900  0    50   ~ 0
 Reset
 NoConn ~ 5500 3750
 NoConn ~ 5500 3950
+$Comp
+L power:GND #PWR0105
+U 1 1 5E3AA17E
+P 1900 5650
+F 0 "#PWR0105" H 1900 5400 50  0001 C CNN
+F 1 "GND" V 1905 5522 50  0000 R CNN
+F 2 "" H 1900 5650 50  0001 C CNN
+F 3 "" H 1900 5650 50  0001 C CNN
+	1    1900 5650
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1900 5650 1600 5650
+Wire Wire Line
+	1000 5650 900  5650
 $EndSCHEMATC

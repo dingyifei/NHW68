@@ -2,7 +2,7 @@
 
 
 
-Keyboard Maintainer: Yifei Ding
+Keyboard Maintainer: Yifei Ding (yifeiding@protonmail.com, dingyifeiair@gmail.com)
 Hardware Supported: NHW68  
 Hardware Availability: You have to make it
 
