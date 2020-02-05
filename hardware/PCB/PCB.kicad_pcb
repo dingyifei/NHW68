@@ -17,26 +17,26 @@
   )
 
   (layers
-    (0 F.Cu mixed hide)
-    (31 B.Cu mixed hide)
-    (32 B.Adhes user hide)
-    (33 F.Adhes user hide)
-    (34 B.Paste user hide)
-    (35 F.Paste user hide)
-    (36 B.SilkS user hide)
-    (37 F.SilkS user hide)
-    (38 B.Mask user hide)
-    (39 F.Mask user hide)
-    (40 Dwgs.User user hide)
-    (41 Cmts.User user hide)
-    (42 Eco1.User user)
-    (43 Eco2.User user)
-    (44 Edge.Cuts user hide)
-    (45 Margin user hide)
-    (46 B.CrtYd user hide)
-    (47 F.CrtYd user hide)
-    (48 B.Fab user hide)
-    (49 F.Fab user hide)
+    (0 F.Cu mixed)
+    (31 B.Cu mixed)
+    (32 B.Adhes user)
+    (33 F.Adhes user)
+    (34 B.Paste user)
+    (35 F.Paste user)
+    (36 B.SilkS user)
+    (37 F.SilkS user)
+    (38 B.Mask user)
+    (39 F.Mask user)
+    (40 Dwgs.User user)
+    (41 Cmts.User user)
+    (42 Eco1.User user hide)
+    (43 Eco2.User user hide)
+    (44 Edge.Cuts user)
+    (45 Margin user)
+    (46 B.CrtYd user)
+    (47 F.CrtYd user)
+    (48 B.Fab user)
+    (49 F.Fab user)
   )
 
   (setup
@@ -3383,7 +3383,7 @@
     (fp_text reference D102 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -4696,77 +4696,6 @@
     (pad "" np_thru_hole circle (at 2.54 5.08) (size 3 3) (drill 3) (layers *.Cu *.Mask))
     (pad 2 smd rect (at 6.29 5.08) (size 2.55 2.5) (layers F.Cu F.Paste F.Mask)
       (net 114 "Net-(D19-Pad2)"))
-    (model C:/Users/13676/Documents/GitHub/qmk_hardware/components/kailh_socket_mx.stp
-      (offset (xyz -0.625 3.82 -3.5))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 180))
-    )
-  )
-
-  (module KiCad:Kailh_socket_MX_simplified locked (layer B.Cu) (tedit 5E34F566) (tstamp 5E3694F9)
-    (at 292.99035 183.515265)
-    (descr "MX-style keyswitch with Kailh socket mount")
-    (tags MX,cherry,gateron,kailh,pg1511,socket)
-    (path /5E25E984/5E3FD3C4)
-    (attr smd)
-    (fp_text reference Key20 (at 0 8.255) (layer F.SilkS)
-      (effects (font (size 0.85 0.7) (thickness 0.155)))
-    )
-    (fp_text value Switch (at 0 -8.255) (layer B.Fab)
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
-    )
-    (fp_text user %V (at -0.635 -0.635) (layer F.Fab)
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_text user %R (at -0.635 4.445) (layer F.Fab)
-      (effects (font (size 1 1) (thickness 0.15)))
-    )
-    (fp_line (start -8.89 3.81) (end -6.35 3.81) (layer F.Fab) (width 0.15))
-    (fp_line (start -8.89 1.27) (end -8.89 3.81) (layer F.Fab) (width 0.15))
-    (fp_line (start -6.35 1.27) (end -8.89 1.27) (layer F.Fab) (width 0.15))
-    (fp_line (start 7.62 3.81) (end 5.08 3.81) (layer F.Fab) (width 0.15))
-    (fp_line (start 7.62 6.35) (end 7.62 3.81) (layer F.Fab) (width 0.15))
-    (fp_line (start 5.08 6.35) (end 7.62 6.35) (layer F.Fab) (width 0.15))
-    (fp_line (start 5.08 2.54) (end 0 2.54) (layer F.Fab) (width 0.15))
-    (fp_line (start 5.08 6.985) (end 5.08 2.54) (layer F.Fab) (width 0.15))
-    (fp_line (start -3.81 6.985) (end 5.08 6.985) (layer F.Fab) (width 0.15))
-    (fp_line (start -6.35 0.635) (end -6.35 4.445) (layer F.Fab) (width 0.15))
-    (fp_line (start -6.35 0.635) (end -2.54 0.635) (layer F.Fab) (width 0.15))
-    (fp_arc (start 0 0) (end 0 2.54) (angle 75.96375653) (layer F.Fab) (width 0.15))
-    (fp_arc (start -3.81 4.445) (end -3.81 6.985) (angle 90) (layer F.Fab) (width 0.15))
-    (fp_line (start 5.08 6.985) (end 5.08 6.604) (layer F.SilkS) (width 0.16))
-    (fp_line (start -3.81 6.985) (end 5.08 6.985) (layer F.SilkS) (width 0.16))
-    (fp_line (start -6.35 4.445) (end -6.35 4.064) (layer F.SilkS) (width 0.16))
-    (fp_line (start -5.969 0.635) (end -6.35 0.635) (layer F.SilkS) (width 0.16))
-    (fp_line (start -2.464162 0.635) (end -5.969 0.635) (layer F.SilkS) (width 0.16))
-    (fp_line (start 5.08 2.54) (end 0 2.54) (layer F.SilkS) (width 0.16))
-    (fp_line (start 5.08 3.556) (end 5.08 2.54) (layer F.SilkS) (width 0.16))
-    (fp_arc (start 0 0) (end 0 2.54) (angle 75.96375653) (layer F.SilkS) (width 0.16))
-    (fp_line (start -6.35 1.016) (end -6.35 0.635) (layer F.SilkS) (width 0.16))
-    (fp_arc (start -3.81 4.445) (end -3.81 6.985) (angle 90) (layer F.SilkS) (width 0.16))
-    (fp_line (start -7.5 -7.5) (end -7.5 7.5) (layer B.Fab) (width 0.15))
-    (fp_line (start 7.5 -7.5) (end -7.5 -7.5) (layer B.Fab) (width 0.15))
-    (fp_line (start 7.5 7.5) (end 7.5 -7.5) (layer B.Fab) (width 0.15))
-    (fp_line (start -7.5 7.5) (end 7.5 7.5) (layer B.Fab) (width 0.15))
-    (fp_line (start -6.9 -6.9) (end -6.9 6.9) (layer Eco2.User) (width 0.15))
-    (fp_line (start 6.9 6.9) (end 6.9 -6.9) (layer Eco2.User) (width 0.15))
-    (fp_line (start 6.9 6.9) (end -6.9 6.9) (layer Eco2.User) (width 0.15))
-    (fp_line (start -6.9 -6.9) (end 6.9 -6.9) (layer Eco2.User) (width 0.15))
-    (fp_line (start 7 7) (end 7 6) (layer B.SilkS) (width 0.16))
-    (fp_line (start 6 -7) (end 7 -7) (layer B.SilkS) (width 0.16))
-    (fp_line (start 7 7) (end 6 7) (layer B.SilkS) (width 0.16))
-    (fp_line (start 7 -6) (end 7 -7) (layer B.SilkS) (width 0.16))
-    (fp_line (start -7 -7) (end -7 -6) (layer B.SilkS) (width 0.16))
-    (fp_line (start -6 7) (end -7 7) (layer B.SilkS) (width 0.16))
-    (fp_line (start -7 -7) (end -6 -7) (layer B.SilkS) (width 0.16))
-    (fp_line (start -7 6) (end -7 7) (layer B.SilkS) (width 0.16))
-    (pad 1 smd rect (at -7.56 2.54) (size 2.55 2.5) (layers F.Cu F.Paste F.Mask)
-      (net 58 /SMT32/ROW5))
-    (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole circle (at -3.81 2.54) (size 3 3) (drill 3) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole circle (at 2.54 5.08) (size 3 3) (drill 3) (layers *.Cu *.Mask))
-    (pad 2 smd rect (at 6.29 5.08) (size 2.55 2.5) (layers F.Cu F.Paste F.Mask)
-      (net 115 "Net-(D20-Pad2)"))
     (model C:/Users/13676/Documents/GitHub/qmk_hardware/components/kailh_socket_mx.stp
       (offset (xyz -0.625 3.82 -3.5))
       (scale (xyz 1 1 1))
@@ -7693,7 +7622,7 @@
     (fp_text reference D110 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -7743,7 +7672,7 @@
     (fp_text reference D111 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -7793,7 +7722,7 @@
     (fp_text reference D112 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -7843,7 +7772,7 @@
     (fp_text reference D113 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -7893,7 +7822,7 @@
     (fp_text reference D114 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -7943,7 +7872,7 @@
     (fp_text reference D115 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -7993,7 +7922,7 @@
     (fp_text reference D116 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -8043,7 +7972,7 @@
     (fp_text reference D117 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -8093,7 +8022,7 @@
     (fp_text reference D118 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -8143,7 +8072,7 @@
     (fp_text reference D119 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -8193,7 +8122,7 @@
     (fp_text reference D120 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -8243,7 +8172,7 @@
     (fp_text reference D121 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -8293,7 +8222,7 @@
     (fp_text reference D122 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -8343,7 +8272,7 @@
     (fp_text reference D123 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -8393,7 +8322,7 @@
     (fp_text reference D124 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -8443,7 +8372,7 @@
     (fp_text reference D125 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -8493,7 +8422,7 @@
     (fp_text reference D126 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -8543,7 +8472,7 @@
     (fp_text reference D127 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -8593,7 +8522,7 @@
     (fp_text reference D128 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -8643,7 +8572,7 @@
     (fp_text reference D129 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -8693,7 +8622,7 @@
     (fp_text reference D130 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -8743,7 +8672,7 @@
     (fp_text reference D131 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -8793,7 +8722,7 @@
     (fp_text reference D132 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -8843,7 +8772,7 @@
     (fp_text reference D133 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -8893,7 +8822,7 @@
     (fp_text reference D134 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -8943,7 +8872,7 @@
     (fp_text reference D135 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -8993,7 +8922,7 @@
     (fp_text reference D136 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -9043,7 +8972,7 @@
     (fp_text reference D69 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -9093,7 +9022,7 @@
     (fp_text reference D70 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -9143,7 +9072,7 @@
     (fp_text reference D71 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -9193,7 +9122,7 @@
     (fp_text reference D72 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -9243,7 +9172,7 @@
     (fp_text reference D73 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -9293,7 +9222,7 @@
     (fp_text reference D74 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -9343,7 +9272,7 @@
     (fp_text reference D75 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -9393,7 +9322,7 @@
     (fp_text reference D76 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -9443,7 +9372,7 @@
     (fp_text reference D77 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -9493,7 +9422,7 @@
     (fp_text reference D78 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -9543,7 +9472,7 @@
     (fp_text reference D79 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -9593,7 +9522,7 @@
     (fp_text reference D80 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -9643,7 +9572,7 @@
     (fp_text reference D81 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -9693,7 +9622,7 @@
     (fp_text reference D82 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -9743,7 +9672,7 @@
     (fp_text reference D83 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -9793,7 +9722,7 @@
     (fp_text reference D84 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -9843,7 +9772,7 @@
     (fp_text reference D85 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -9893,7 +9822,7 @@
     (fp_text reference D86 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -9943,7 +9872,7 @@
     (fp_text reference D87 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -9993,7 +9922,7 @@
     (fp_text reference D88 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -10043,7 +9972,7 @@
     (fp_text reference D89 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -10093,7 +10022,7 @@
     (fp_text reference D90 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -10143,7 +10072,7 @@
     (fp_text reference D91 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -10193,7 +10122,7 @@
     (fp_text reference D92 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -10243,7 +10172,7 @@
     (fp_text reference D93 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -10293,7 +10222,7 @@
     (fp_text reference D94 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -10343,7 +10272,7 @@
     (fp_text reference D95 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -10393,7 +10322,7 @@
     (fp_text reference D96 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -10443,7 +10372,7 @@
     (fp_text reference D97 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -10493,7 +10422,7 @@
     (fp_text reference D98 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -10543,7 +10472,7 @@
     (fp_text reference D99 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -10593,7 +10522,7 @@
     (fp_text reference D100 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -10643,7 +10572,7 @@
     (fp_text reference D101 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -10693,7 +10622,7 @@
     (fp_text reference D103 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -10743,7 +10672,7 @@
     (fp_text reference D104 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -10793,7 +10722,7 @@
     (fp_text reference D105 (at 0.015199 2.26535) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -10843,7 +10772,7 @@
     (fp_text reference D106 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -10893,7 +10822,7 @@
     (fp_text reference D107 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -10943,7 +10872,7 @@
     (fp_text reference D108 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -10993,7 +10922,7 @@
     (fp_text reference D109 (at 0.17 2.71) (layer F.SilkS)
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
-    (fp_text value XZMDKCBDDG45S-9 (at 0.25 0) (layer F.SilkS) hide
+    (fp_text value RABG (at 0.25 0) (layer F.SilkS) hide
       (effects (font (size 0.85 0.7) (thickness 0.155)))
     )
     (fp_arc (start 3.7 -0.7) (end 3.7 -0.6) (angle 180) (layer F.SilkS) (width 0.16))
@@ -14069,6 +13998,77 @@
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+  )
+
+  (module KiCad:Kailh_socket_MX_simplified locked (layer B.Cu) (tedit 5E34F566) (tstamp 5E3694F9)
+    (at 292.99035 183.515265)
+    (descr "MX-style keyswitch with Kailh socket mount")
+    (tags MX,cherry,gateron,kailh,pg1511,socket)
+    (path /5E25E984/5E3FD3C4)
+    (attr smd)
+    (fp_text reference Key20 (at 0 8.255) (layer F.SilkS)
+      (effects (font (size 0.85 0.7) (thickness 0.155)))
+    )
+    (fp_text value Switch (at 0 -8.255) (layer B.Fab)
+      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    )
+    (fp_text user %V (at -0.635 -0.635) (layer F.Fab)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text user %R (at -0.635 4.445) (layer F.Fab)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_line (start -8.89 3.81) (end -6.35 3.81) (layer F.Fab) (width 0.15))
+    (fp_line (start -8.89 1.27) (end -8.89 3.81) (layer F.Fab) (width 0.15))
+    (fp_line (start -6.35 1.27) (end -8.89 1.27) (layer F.Fab) (width 0.15))
+    (fp_line (start 7.62 3.81) (end 5.08 3.81) (layer F.Fab) (width 0.15))
+    (fp_line (start 7.62 6.35) (end 7.62 3.81) (layer F.Fab) (width 0.15))
+    (fp_line (start 5.08 6.35) (end 7.62 6.35) (layer F.Fab) (width 0.15))
+    (fp_line (start 5.08 2.54) (end 0 2.54) (layer F.Fab) (width 0.15))
+    (fp_line (start 5.08 6.985) (end 5.08 2.54) (layer F.Fab) (width 0.15))
+    (fp_line (start -3.81 6.985) (end 5.08 6.985) (layer F.Fab) (width 0.15))
+    (fp_line (start -6.35 0.635) (end -6.35 4.445) (layer F.Fab) (width 0.15))
+    (fp_line (start -6.35 0.635) (end -2.54 0.635) (layer F.Fab) (width 0.15))
+    (fp_arc (start 0 0) (end 0 2.54) (angle 75.96375653) (layer F.Fab) (width 0.15))
+    (fp_arc (start -3.81 4.445) (end -3.81 6.985) (angle 90) (layer F.Fab) (width 0.15))
+    (fp_line (start 5.08 6.985) (end 5.08 6.604) (layer F.SilkS) (width 0.16))
+    (fp_line (start -3.81 6.985) (end 5.08 6.985) (layer F.SilkS) (width 0.16))
+    (fp_line (start -6.35 4.445) (end -6.35 4.064) (layer F.SilkS) (width 0.16))
+    (fp_line (start -5.969 0.635) (end -6.35 0.635) (layer F.SilkS) (width 0.16))
+    (fp_line (start -2.464162 0.635) (end -5.969 0.635) (layer F.SilkS) (width 0.16))
+    (fp_line (start 5.08 2.54) (end 0 2.54) (layer F.SilkS) (width 0.16))
+    (fp_line (start 5.08 3.556) (end 5.08 2.54) (layer F.SilkS) (width 0.16))
+    (fp_arc (start 0 0) (end 0 2.54) (angle 75.96375653) (layer F.SilkS) (width 0.16))
+    (fp_line (start -6.35 1.016) (end -6.35 0.635) (layer F.SilkS) (width 0.16))
+    (fp_arc (start -3.81 4.445) (end -3.81 6.985) (angle 90) (layer F.SilkS) (width 0.16))
+    (fp_line (start -7.5 -7.5) (end -7.5 7.5) (layer B.Fab) (width 0.15))
+    (fp_line (start 7.5 -7.5) (end -7.5 -7.5) (layer B.Fab) (width 0.15))
+    (fp_line (start 7.5 7.5) (end 7.5 -7.5) (layer B.Fab) (width 0.15))
+    (fp_line (start -7.5 7.5) (end 7.5 7.5) (layer B.Fab) (width 0.15))
+    (fp_line (start -6.9 -6.9) (end -6.9 6.9) (layer Eco2.User) (width 0.15))
+    (fp_line (start 6.9 6.9) (end 6.9 -6.9) (layer Eco2.User) (width 0.15))
+    (fp_line (start 6.9 6.9) (end -6.9 6.9) (layer Eco2.User) (width 0.15))
+    (fp_line (start -6.9 -6.9) (end 6.9 -6.9) (layer Eco2.User) (width 0.15))
+    (fp_line (start 7 7) (end 7 6) (layer B.SilkS) (width 0.16))
+    (fp_line (start 6 -7) (end 7 -7) (layer B.SilkS) (width 0.16))
+    (fp_line (start 7 7) (end 6 7) (layer B.SilkS) (width 0.16))
+    (fp_line (start 7 -6) (end 7 -7) (layer B.SilkS) (width 0.16))
+    (fp_line (start -7 -7) (end -7 -6) (layer B.SilkS) (width 0.16))
+    (fp_line (start -6 7) (end -7 7) (layer B.SilkS) (width 0.16))
+    (fp_line (start -7 -7) (end -6 -7) (layer B.SilkS) (width 0.16))
+    (fp_line (start -7 6) (end -7 7) (layer B.SilkS) (width 0.16))
+    (pad 1 smd rect (at -7.56 2.54) (size 2.55 2.5) (layers F.Cu F.Paste F.Mask)
+      (net 58 /SMT32/ROW5))
+    (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole circle (at -3.81 2.54) (size 3 3) (drill 3) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole circle (at 2.54 5.08) (size 3 3) (drill 3) (layers *.Cu *.Mask))
+    (pad 2 smd rect (at 6.29 5.08) (size 2.55 2.5) (layers F.Cu F.Paste F.Mask)
+      (net 115 "Net-(D20-Pad2)"))
+    (model C:/Users/13676/Documents/GitHub/qmk_hardware/components/kailh_socket_mx.stp
+      (offset (xyz -0.625 3.82 -3.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 180))
     )
   )
 
@@ -17849,7 +17849,7 @@
   (segment (start 131.54695 94.724506) (end 131.54695 93.014946) (width 0.3) (layer B.Cu) (net 185))
   (via (at 131.54695 93.014946) (size 0.6) (drill 0.3) (layers F.Cu B.Cu) (net 185))
 
-  (zone (net 1) (net_name GND) (layer F.Cu) (tstamp 5E370184) (hatch edge 0.508)
+  (zone (net 1) (net_name GND) (layer F.Cu) (tstamp 5E3A8697) (hatch edge 0.508)
     (connect_pads yes (clearance 0.2))
     (min_thickness 0.2)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -22817,7 +22817,7 @@
       )
     )
   )
-  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 5E370181) (hatch edge 0.508)
+  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 5E3A8694) (hatch edge 0.508)
     (connect_pads yes (clearance 0.2))
     (min_thickness 0.2)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
