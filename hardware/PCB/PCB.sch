@@ -6,7 +6,7 @@ encoding utf-8
 Sheet 1 6
 Title "NHW68"
 Date "2020-02-04"
-Rev "0.2"
+Rev "0.3"
 Comp ""
 Comment1 ""
 Comment2 ""
