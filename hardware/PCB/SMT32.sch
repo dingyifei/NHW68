@@ -724,7 +724,7 @@ U 1 1 5E3BBEAB
 P 4700 7050
 F 0 "J2" H 4750 7567 50  0000 C CNN
 F 1 "1.27mm STDC14" H 4750 7476 50  0000 C CNN
-F 2 "Connector_PinSocket_1.27mm:PinSocket_2x07_P1.27mm_Vertical_SMD" H 4700 7050 50  0001 C CNN
+F 2 "Connector_PinHeader_1.27mm:PinHeader_2x07_P1.27mm_Vertical" H 4700 7050 50  0001 C CNN
 F 3 "~" H 4700 7050 50  0001 C CNN
 	1    4700 7050
 	1    0    0    -1  
