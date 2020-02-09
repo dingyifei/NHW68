@@ -1,4 +1,4 @@
-update=03/02/2020 03:35:07
+update=08/02/2020 15:54:34
 version=1
 last_client=kicad
 [general]
@@ -63,7 +63,7 @@ dPairWidth1=0.3
 dPairGap1=0.3
 dPairViaGap1=0.25
 dPairWidth2=0.3
-dPairGap2=0.25
+dPairGap2=0.3
 dPairViaGap2=0
 SilkLineWidth=0.16
 SilkTextSizeV=0.85
