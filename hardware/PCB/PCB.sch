@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 6
 Title "NHW68"
-Date "2020-02-08"
-Rev "0.5"
+Date "2020-02-10"
+Rev "0.6"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -119,4 +119,103 @@ Wire Wire Line
 	5200 4850 6250 4850
 Wire Wire Line
 	6250 4950 5200 4950
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 5E422B05
+P 1600 4700
+F 0 "H4" H 1700 4746 50  0000 L CNN
+F 1 "M3Mount" H 1700 4655 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965" H 1600 4700 50  0001 C CNN
+F 3 "~" H 1600 4700 50  0001 C CNN
+	1    1600 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 5E423012
+P 950 4700
+F 0 "H2" H 1050 4746 50  0000 L CNN
+F 1 "M3Mount" H 1050 4655 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965" H 950 4700 50  0001 C CNN
+F 3 "~" H 950 4700 50  0001 C CNN
+	1    950  4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 5E423452
+P 950 4350
+F 0 "H1" H 1050 4396 50  0000 L CNN
+F 1 "M3Mount" H 1050 4305 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965" H 950 4350 50  0001 C CNN
+F 3 "~" H 950 4350 50  0001 C CNN
+	1    950  4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 5E42389A
+P 1600 4350
+F 0 "H3" H 1700 4396 50  0000 L CNN
+F 1 "M3Mount" H 1700 4305 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965" H 1600 4350 50  0001 C CNN
+F 3 "~" H 1600 4350 50  0001 C CNN
+	1    1600 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H6
+U 1 1 5E4291C7
+P 2300 4700
+F 0 "H6" H 2400 4746 50  0000 L CNN
+F 1 "M3Mount" H 2400 4655 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965" H 2300 4700 50  0001 C CNN
+F 3 "~" H 2300 4700 50  0001 C CNN
+	1    2300 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 5E4291CD
+P 2300 4350
+F 0 "H5" H 2400 4396 50  0000 L CNN
+F 1 "M3Mount" H 2400 4305 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965" H 2300 4350 50  0001 C CNN
+F 3 "~" H 2300 4350 50  0001 C CNN
+	1    2300 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H8
+U 1 1 5E43E49C
+P 1600 5000
+F 0 "H8" H 1700 5046 50  0000 L CNN
+F 1 "M3Mount" H 1700 4955 50  0000 L CNN
+F 2 "KiCad:JLC_SMT_ToolingHole" H 1600 5000 50  0001 C CNN
+F 3 "~" H 1600 5000 50  0001 C CNN
+	1    1600 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H7
+U 1 1 5E43E4A6
+P 950 5000
+F 0 "H7" H 1050 5046 50  0000 L CNN
+F 1 "M3Mount" H 1050 4955 50  0000 L CNN
+F 2 "KiCad:JLC_SMT_ToolingHole" H 950 5000 50  0001 C CNN
+F 3 "~" H 950 5000 50  0001 C CNN
+	1    950  5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H9
+U 1 1 5E43E4B0
+P 2300 5000
+F 0 "H9" H 2400 5046 50  0000 L CNN
+F 1 "M3Mount" H 2400 4955 50  0000 L CNN
+F 2 "KiCad:JLC_SMT_ToolingHole" H 2300 5000 50  0001 C CNN
+F 3 "~" H 2300 5000 50  0001 C CNN
+	1    2300 5000
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
