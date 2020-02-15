@@ -167,19 +167,6 @@ Wire Wire Line
 Text Notes 650  6350 0    50   ~ 0
 8Mhz External Crystal\nYou need to change CL capasitors and Resistor\nwhen using a different crystal
 $Comp
-L Device:C C22
-U 1 1 5E352E15
-P 1950 4500
-F 0 "C22" H 2065 4546 50  0000 L CNN
-F 1 "22uf" H 2065 4455 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric" H 1988 4350 50  0001 C CNN
-F 3 "~" H 1950 4500 50  0001 C CNN
-F 4 "C84419" H 1950 4500 50  0001 C CNN "LCSC"
-F 5 "GRM188R61A226ME15D" H 1950 4500 50  0001 C CNN "Part Number"
-	1    1950 4500
-	1    0    0    -1  
-$EndComp
-$Comp
 L Regulator_Linear:AZ1117-3.3 U3
 U 1 1 5E37733A
 P 1450 4200
@@ -929,4 +916,15 @@ Text Label 7050 4350 3    50   ~ 0
 D+
 Text Label 7350 4350 3    50   ~ 0
 D-
+$Comp
+L Device:CP1 C22
+U 1 1 5E47C82C
+P 1950 4500
+F 0 "C22" H 2065 4546 50  0000 L CNN
+F 1 "22uf/10v" H 2065 4455 50  0000 L CNN
+F 2 "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A" H 1950 4500 50  0001 C CNN
+F 3 "~" H 1950 4500 50  0001 C CNN
+	1    1950 4500
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
