@@ -40,7 +40,7 @@
   )
 
   (setup
-    (last_trace_width 0.4)
+    (last_trace_width 0.3)
     (user_trace_width 0.128)
     (user_trace_width 0.2)
     (user_trace_width 0.25)
