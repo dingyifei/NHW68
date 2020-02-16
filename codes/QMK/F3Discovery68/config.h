@@ -28,7 +28,7 @@ this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MATRIX_COL_PINS {B11, B10, B9, A0, A1, A2, A3, A4, A5, A6, A7, B0, B1, B2}
 #define UNUSED_PINS {C13, C14, C15, A8, A9, B6, B7, B8, B12, B13, B15, B15}
 #define DIODE_DIRECTION ROW2COL
-#define USB_MAX_POWER_CONSUMPTION 1000
+#define USB_MAX_POWER_CONSUMPTION 244
 #define F_SCL 400000L
 
 #include "config_led.h"

@@ -9,7 +9,7 @@
             "options": {
                 "cwd": "${workspaceRoot}",
                 "env": {
-                    "PATH": "C:\\msys64\\usr\\bin;C:\\msys64\\home\\13676\\qmk_utils\\gcc-arm-none-eabi\\bin"
+                    "PATH": "C:\\msys64\\usr\\bin;C:\\msys64\\home\\13676\\qmk_utils\\gcc-arm-none-eabi\\bin;C:\\msys64\\home\\13676\\qmk_utils\\dfu-util-0.9-win64"
                 }
 
             },
