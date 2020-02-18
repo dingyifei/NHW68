@@ -28,3 +28,6 @@ NKRO_ENABLE = yes
 UNICODE_ENABLE = yes
 RGB_MATRIX_ENABLE = no
 #RGB_MATRIX_ENABLE = IS31FL3733
+
+# Enter lower-power sleep mode when on the ChibiOS idle thread not sure why everyone is doing it
+OPT_DEFS += -DCORTEX_ENABLE_WFI_IDLE=TRUE
