@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 6 6
 Title "NHW68"
-Date "2020-02-10"
-Rev "0.7"
+Date "2020-02-19"
+Rev "0.8"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -241,8 +241,8 @@ F 0 "C16" H 1065 4546 50  0000 L CNN
 F 1 "10uf" H 1065 4455 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 988 4350 50  0001 C CNN
 F 3 "~" H 950 4500 50  0001 C CNN
-F 4 "C77040" H 950 4500 50  0001 C CNN "LCSC"
-F 5 "GRM188R60J106KE47D" H 950 4500 50  0001 C CNN "Part Number"
+F 4 "C38898" H 950 4500 50  0001 C CNN "LCSC"
+F 5 "0603X106K100NT" H 950 4500 50  0001 C CNN "Part Number"
 	1    950  4500
 	1    0    0    -1  
 $EndComp
