@@ -3,7 +3,7 @@
 
 
 Keyboard Maintainer: Yifei Ding (yifeiding@protonmail.com, dingyifeiair@gmail.com)
-Hardware Supported: NHW68  
+Hardware Supported: F3Discovery68  
 Hardware Availability: You have to make it
 
 Make example for this keyboard (after setting up your build environment):

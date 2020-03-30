@@ -23,4 +23,5 @@ this program.  If not, see <http://www.gnu.org/licenses/>.
     #define DRIVER_1_LED_TOTAL 41
     #define DRIVER_2_LED_TOTAL 27
     #define DRIVER_LED_TOTAL 68
+    #define LED_EN_PIN B14
 #endif
