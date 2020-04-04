@@ -929,4 +929,81 @@ F 5 "TAJA226K010RNJ" H 1950 4500 50  0001 C CNN "Part Number"
 	1    1950 4500
 	1    0    0    -1  
 $EndComp
+$Comp
+L Connector:USB_C_Plug_USB2.0 P?
+U 1 1 5E829184
+P 3000 2950
+F 0 "P?" H 3107 3817 50  0000 C CNN
+F 1 "USB_C_Plug_USB2.0" H 3107 3726 50  0000 C CNN
+F 2 "" H 3150 2950 50  0001 C CNN
+F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 3150 2950 50  0001 C CNN
+	1    3000 2950
+	1    0    0    -1  
+$EndComp
+Text Label 4000 3050 0    50   ~ 0
+USB_D+
+Text Label 4000 2850 0    50   ~ 0
+USB_D-
+Wire Wire Line
+	3600 3050 3850 3050
+Wire Wire Line
+	3850 3300 3850 3050
+Connection ~ 3850 3050
+Wire Wire Line
+	3850 3050 4000 3050
+Wire Wire Line
+	3600 2850 4000 2850
+$Comp
+L power:+5V #PWR?
+U 1 1 5E86982C
+P 4000 2350
+F 0 "#PWR?" H 4000 2200 50  0001 C CNN
+F 1 "+5V" V 4015 2478 50  0000 L CNN
+F 2 "" H 4000 2350 50  0001 C CNN
+F 3 "" H 4000 2350 50  0001 C CNN
+	1    4000 2350
+	0    1    1    0   
+$EndComp
+$Comp
+L power:+3.3V #PWR?
+U 1 1 5E869832
+P 3850 3600
+F 0 "#PWR?" H 3850 3450 50  0001 C CNN
+F 1 "+3.3V" H 3865 3773 50  0000 C CNN
+F 2 "" H 3850 3600 50  0001 C CNN
+F 3 "" H 3850 3600 50  0001 C CNN
+	1    3850 3600
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5E86983A
+P 3850 3450
+F 0 "R?" H 3920 3496 50  0000 L CNN
+F 1 "1.5K" H 3920 3405 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 3780 3450 50  0001 C CNN
+F 3 "~" H 3850 3450 50  0001 C CNN
+F 4 "C103303" H 3850 3450 50  0001 C CNN "LCSC"
+F 5 "RTT031501FTP" H 3850 3450 50  0001 C CNN "Part Number"
+	1    3850 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5E8A3ECC
+P 3000 4000
+F 0 "#PWR?" H 3000 3750 50  0001 C CNN
+F 1 "GND" H 3005 3827 50  0000 C CNN
+F 2 "" H 3000 4000 50  0001 C CNN
+F 3 "" H 3000 4000 50  0001 C CNN
+	1    3000 4000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3000 4000 3000 3850
+Wire Wire Line
+	2700 3850 3000 3850
+Connection ~ 3000 3850
+Wire Wire Line
+	4000 2350 3600 2350
 $EndSCHEMATC
