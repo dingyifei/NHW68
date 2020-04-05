@@ -57,7 +57,7 @@ Note: Manually cut 2 spacer PCB can replace the 4. Nuts but it would mean you ne
 
 ## Cost
 
-5 piece of (Spacer, PCB, Plate, Base) - $60 if you choose leaded HSAL
+5 piece of (Spacer, PCB, Plate, Base) - $70 if you choose leaded HSAL
 
 Parts are relatively cheap and you don't have to worry about them, LCSC is a good place to get all those parts(u probably need Amazon for Kailh hot swap, Digikey for RGB controller)
 
