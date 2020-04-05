@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 3 6
 Title "NHW68"
-Date "2020-02-19"
-Rev "0.8"
+Date "2020-04-05"
+Rev "1.0"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -606,12 +606,12 @@ SYNC
 $Comp
 L power:PWR_FLAG #FLG01
 U 1 1 5E6BEB0B
-P 1200 1700
-F 0 "#FLG01" H 1200 1775 50  0001 C CNN
-F 1 "PWR_FLAG" H 1200 1873 50  0000 C CNN
-F 2 "" H 1200 1700 50  0001 C CNN
-F 3 "~" H 1200 1700 50  0001 C CNN
-	1    1200 1700
+P 2250 1550
+F 0 "#FLG01" H 2250 1625 50  0001 C CNN
+F 1 "PWR_FLAG" H 2250 1723 50  0000 C CNN
+F 2 "" H 2250 1550 50  0001 C CNN
+F 3 "~" H 2250 1550 50  0001 C CNN
+	1    2250 1550
 	1    0    0    -1  
 $EndComp
 Connection ~ 3700 1900
@@ -753,7 +753,7 @@ F 3 "" H 3700 950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Connection ~ 3700 950 
-Text Label 1200 1700 3    50   ~ 0
+Text Label 2250 1550 3    50   ~ 0
 SYNC
 Wire Wire Line
 	3300 3100 3450 3100
