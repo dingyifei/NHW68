@@ -1,4 +1,4 @@
-# Not Handwired 68Keys
+# Not Handwired 68 Keys
 
 ## License
 
@@ -8,9 +8,7 @@ If not specified, the files in ./code are GPL V2
 
 ## Code
 
-Haven't started yet, planning on start from ChibiOS
-
-
+Code should be functional, haven't push it to QMK or tested on the keyboard yet, compile passed.
 
 ## Hardware
 
@@ -23,15 +21,15 @@ I have not yet tested the PCB, the keyboard PCB currently looks like this:
 
 ![PCB_Back](./picture/PCB_back.png)
 
-The keyboard uses STM32F303CCT6, IS31FL3733 and have per Key RGB. You are free to do whatever to the PCB
+The keyboard uses STM32F303CCT6, IS31FL3733 and have per Key RGB. 
 
+The RGB is optional since it can work without RGB (I believe most people can live without RGB :p)
 
+Here is the fusion 360 3d mode, I think it is good enough
 
-~~I'm too lazy to post the 3d model today~~
+![PCB_Front](.\picture\Assembly.png)
 
-Here is the fusion 360 3d mode, should be updating when I change stuff
-
-https://a360.co/2NjABAU
+Fusion 360 Link: https://a360.co/2X8L0Fb
 
 ## Layout
 
@@ -39,6 +37,30 @@ https://a360.co/2NjABAU
 
 The blue keys' function depend on use case
 
-## Render
+## Assembly
 
-![2020-Jan-12_06-25-50AM-000_CustomizedView24958762938_png_alpha](./picture/2020-Jan-12_06-25-50AM-000_CustomizedView24958762938_png_alpha.png)
+Stacking: 
+
+1. Plate(1.6mm)
+2. Spacer(1.2mm)x3
+3. PCB(1.6mm)
+4. Nuts(2.4mm or more)
+5. Spacer(1.2mm)
+6. Base(1.6mm)
+7. Nuts(2.4mm)
+
+Use 16mm~18mm M3 screw and nuts should be just fine, a PCB fab usually provide 1.6mm and 1.2mm.
+
+Note: Manually cut 2 spacer PCB can replace the 4. Nuts but it would mean you need to choose "Order 10" option in the most fabs (which would increase the difficulty in sourcing all the parts)
+
+## Cost
+
+5 piece of (Spacer, PCB, Plate, Base) - $60 if you choose leaded HSAL
+
+Parts are relatively cheap and you don't have to worry about them, LCSC is a good place to get all those parts(u probably need Amazon for Kailh hot swap, Digikey for RGB controller)
+
+
+
+## Caution
+
+The RGB leds can be hard to find, this model number is kinda rare.
