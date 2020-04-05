@@ -27,7 +27,7 @@ The RGB is optional since it can work without RGB (I believe most people can liv
 
 Here is the fusion 360 3d mode, I think it is good enough
 
-![PCB_Front](.\picture\Assembly.png)
+![PCB_Front](./picture/Assembly.png)
 
 Fusion 360 Link: https://a360.co/2X8L0Fb
 
