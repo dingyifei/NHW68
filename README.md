@@ -1,4 +1,4 @@
-# Not Handwired 68 Keys
+# Not Hand Wired 68 Keys
 
 ## License
 
@@ -31,9 +31,11 @@ Here is the fusion 360 3d mode, I think it is good enough
 
 Fusion 360 Link: https://a360.co/2X8L0Fb
 
+**Note: The screws and nuts are download from misumi, license info can be found on misumi**
+
 ## Layout
 
-![keyboard-layout](./picture/keyboard-layout.png)
+![keyboard-layout](.\picture\keyboard-layout.png)
 
 The blue keys' function depend on use case
 
@@ -63,4 +65,4 @@ Parts are relatively cheap and you don't have to worry about them, LCSC is a goo
 
 ## Caution
 
-The RGB leds can be hard to find, this model number is kinda rare.
+The RGB LEDs can be hard to find, this model number is rare.
