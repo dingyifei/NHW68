@@ -120,10 +120,10 @@ Wire Wire Line
 Wire Wire Line
 	6250 4950 5200 4950
 $Comp
-L Mechanical:MountingHole H4
+L Mechanical:MountingHole H5
 U 1 1 5E422B05
 P 1600 4700
-F 0 "H4" H 1700 4746 50  0000 L CNN
+F 0 "H5" H 1700 4746 50  0000 L CNN
 F 1 "M3Mount" H 1700 4655 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965" H 1600 4700 50  0001 C CNN
 F 3 "~" H 1600 4700 50  0001 C CNN
@@ -131,10 +131,10 @@ F 3 "~" H 1600 4700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H2
+L Mechanical:MountingHole H4
 U 1 1 5E423012
 P 950 4700
-F 0 "H2" H 1050 4746 50  0000 L CNN
+F 0 "H4" H 1050 4746 50  0000 L CNN
 F 1 "M3Mount" H 1050 4655 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965" H 950 4700 50  0001 C CNN
 F 3 "~" H 950 4700 50  0001 C CNN
@@ -153,10 +153,10 @@ F 3 "~" H 950 4350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H3
+L Mechanical:MountingHole H2
 U 1 1 5E42389A
 P 1600 4350
-F 0 "H3" H 1700 4396 50  0000 L CNN
+F 0 "H2" H 1700 4396 50  0000 L CNN
 F 1 "M3Mount" H 1700 4305 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965" H 1600 4350 50  0001 C CNN
 F 3 "~" H 1600 4350 50  0001 C CNN
@@ -175,10 +175,10 @@ F 3 "~" H 2300 4700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H5
+L Mechanical:MountingHole H3
 U 1 1 5E4291CD
 P 2300 4350
-F 0 "H5" H 2400 4396 50  0000 L CNN
+F 0 "H3" H 2400 4396 50  0000 L CNN
 F 1 "M3Mount" H 2400 4305 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965" H 2300 4350 50  0001 C CNN
 F 3 "~" H 2300 4350 50  0001 C CNN
