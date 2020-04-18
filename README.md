@@ -31,11 +31,11 @@ Here is the fusion 360 3d mode, I think it is good enough
 
 Fusion 360 Link: https://a360.co/2X8L0Fb
 
-**Note: The screws and nuts are download from misumi, license info can be found on misumi**
+**Note: The screws and nuts are downloaded 3D model from misumi, license info can be found on misumi website**
 
 ## Layout
 
-![keyboard-layout](.\picture\keyboard-layout.png)
+![keyboard-layout](./picture/keyboard_layout.png)
 
 The blue keys' function depend on use case
 
@@ -59,10 +59,18 @@ Note: Manually cut 2 spacer PCB can replace the 4. Nuts but it would mean you ne
 
 5 piece of (Spacer, PCB, Plate, Base) - $70 if you choose leaded HSAL
 
-Parts are relatively cheap and you don't have to worry about them, LCSC is a good place to get all those parts(u probably need Amazon for Kailh hot swap, Digikey for RGB controller)
+Parts are relatively cheap and you don't have to worry about them, LCSC is a good place to get all those parts(u probably need Amazon for Kailh hot swap, DigiKey for RGB controller)
 
+## Release V1.1 
 
+![v1.1-1](./picture/v1.1_1.jpg)
 
-## Caution
+![v1.1-2](./picture/v1.1_2.jpg)
 
-The RGB LEDs can be hard to find, this model number is rare.
+#### Known Problems
+
+1. Key Caps are hard to find
+2. Center is 2u left
+3. RGB LED footprint is WRONG and WON'T WORK
+
+4. 0 ESD protection
