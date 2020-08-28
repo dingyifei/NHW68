@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 6 6
+Sheet 3 3
 Title "NHW68"
 Date "2020-04-06"
 Rev "1.1"
@@ -13,10 +13,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text HLabel 7650 3950 2    50   Input ~ 0
-I2C2_SDA
-Text HLabel 7650 3850 2    50   Input ~ 0
-I2C2_SCL
 Text Label 7050 4850 3    50   ~ 0
 USB_D+
 Text Label 7350 4850 3    50   ~ 0
@@ -60,8 +56,6 @@ Text HLabel 5500 4050 0    50   Input ~ 0
 ROW5
 Text HLabel 5500 4150 0    50   Input ~ 0
 ROW4
-Text HLabel 4150 4350 0    50   Input ~ 0
-LED_EN_PIN
 Text HLabel 6800 3750 2    50   Input ~ 0
 COL1
 Text HLabel 5500 3350 0    50   Input ~ 0
@@ -150,8 +144,6 @@ C21 ESR<20Ohm
 Wire Wire Line
 	1450 4500 1450 4650
 Wire Wire Line
-	6800 3850 7650 3850
-Wire Wire Line
 	6800 4050 7350 4050
 Wire Wire Line
 	7350 4050 7350 4550
@@ -173,34 +165,6 @@ F 4 "AZ1117CH-3.3TRG1" H 1450 4200 50  0001 C CNN "Part Number"
 F 5 "C92102" H 1450 4200 50  0001 C CNN "LCSC"
 	1    1450 4200
 	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R R?
-U 1 1 5E353850
-P 4700 4200
-AR Path="/5EC33E3D/5E353850" Ref="R?"  Part="1" 
-AR Path="/5E1424B2/5E353850" Ref="R9"  Part="1" 
-F 0 "R9" V 4493 4200 50  0000 C CNN
-F 1 "100k" V 4584 4200 50  0000 C CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 4630 4200 50  0001 C CNN
-F 3 "~" H 4700 4200 50  0001 C CNN
-F 4 "C100703" H 4700 4200 50  0001 C CNN "LCSC"
-F 5 "CR0603FA1003G" H 4700 4200 50  0001 C CNN "Part Number"
-	1    4700 4200
-	-1   0    0    1   
-$EndComp
-$Comp
-L power:GND #PWR?
-U 1 1 5E353848
-P 4700 4050
-AR Path="/5EC33E3D/5E353848" Ref="#PWR?"  Part="1" 
-AR Path="/5E1424B2/5E353848" Ref="#PWR036"  Part="1" 
-F 0 "#PWR036" H 4700 3800 50  0001 C CNN
-F 1 "GND" V 4705 3922 50  0000 R CNN
-F 2 "" H 4700 4050 50  0001 C CNN
-F 3 "" H 4700 4050 50  0001 C CNN
-	1    4700 4050
-	1    0    0    1   
 $EndComp
 $Comp
 L Device:C C26
@@ -419,54 +383,6 @@ F 2 "" H 6000 1400 50  0001 C CNN
 F 3 "" H 6000 1400 50  0001 C CNN
 	1    6000 1400
 	1    0    0    -1  
-$EndComp
-$Comp
-L power:+3.3V #PWR039
-U 1 1 5E244281
-P 7650 4250
-F 0 "#PWR039" H 7650 4100 50  0001 C CNN
-F 1 "+3.3V" H 7665 4423 50  0000 C CNN
-F 2 "" H 7650 4250 50  0001 C CNN
-F 3 "" H 7650 4250 50  0001 C CNN
-	1    7650 4250
-	-1   0    0    1   
-$EndComp
-$Comp
-L power:+3.3V #PWR035
-U 1 1 5E24383D
-P 7650 3550
-F 0 "#PWR035" H 7650 3400 50  0001 C CNN
-F 1 "+3.3V" H 7665 3723 50  0000 C CNN
-F 2 "" H 7650 3550 50  0001 C CNN
-F 3 "" H 7650 3550 50  0001 C CNN
-	1    7650 3550
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R R7
-U 1 1 5E243260
-P 7650 3700
-F 0 "R7" H 7450 3750 50  0000 L CNN
-F 1 "1.5K" H 7450 3650 50  0000 L CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 7580 3700 50  0001 C CNN
-F 3 "~" H 7650 3700 50  0001 C CNN
-F 4 "C103303" H 7650 3700 50  0001 C CNN "LCSC"
-F 5 "RTT031501FTP" H 7650 3700 50  0001 C CNN "Part Number"
-	1    7650 3700
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R R8
-U 1 1 5E23EA37
-P 7650 4100
-F 0 "R8" H 7720 4146 50  0000 L CNN
-F 1 "1.5K" H 7720 4055 50  0000 L CNN
-F 2 "Resistor_SMD:R_0603_1608Metric" V 7580 4100 50  0001 C CNN
-F 3 "~" H 7650 4100 50  0001 C CNN
-F 4 "C103303" H 7650 4100 50  0001 C CNN "LCSC"
-F 5 "RTT031501FTP" H 7650 4100 50  0001 C CNN "Part Number"
-	1    7650 4100
-	-1   0    0    1   
 $EndComp
 $Comp
 L power:GND #PWR028
@@ -864,8 +780,6 @@ F 5 "C92584" H 2250 1300 50  0001 C CNN "LCSC"
 $EndComp
 Wire Notes Line
 	600  6350 2700 6350
-Wire Wire Line
-	6800 3950 7650 3950
 Wire Notes Line
 	3950 7650 5400 7650
 Wire Notes Line
@@ -949,9 +863,7 @@ Wire Notes Line
 	2850 2050 750  2050
 Wire Notes Line
 	750  2050 750  550 
-Connection ~ 4700 4350
-Wire Wire Line
-	4700 4350 5500 4350
-Wire Wire Line
-	4150 4350 4700 4350
+NoConn ~ 6800 3850
+NoConn ~ 6800 3950
+NoConn ~ 5500 4350
 $EndSCHEMATC
